@@ -1,0 +1,37 @@
+{
+  "name": "he-dawei-skills",
+  "version": "1.0.0",
+  "description": "何大伟的 Claude Code Skills 合集 — 780+ 学术/科研/自动化/内容创作 skills",
+  "author": {
+    "name": "何大伟",
+    "email": "445274682@qq.com"
+  },
+  "license": "MIT",
+  "skills_root": "skills",
+  "keywords": [
+    "academic",
+    "research",
+    "science",
+    "automation",
+    "chinese",
+    "obsidian"
+  ],
+  "categories": [
+    "misc",
+    "scientific-domains",
+    "automation",
+    "ai-ml",
+    "dev-tools",
+    "thinking",
+    "career",
+    "academic-writing",
+    "content-creation",
+    "data-science",
+    "obsidian",
+    "design",
+    "documents",
+    "visualization",
+    "academic-research",
+    "image"
+  ]
+}
