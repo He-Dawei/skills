@@ -1,6 +1,6 @@
 # 何大伟的 Claude Code Skills 合集
 
-> **541 skills** — 一键安装，终身复用
+> **550 skills** — 一键安装，终身复用
 
 ## 安装
 
@@ -19,13 +19,13 @@ npx skills add He-Dawei/skills --category academic-writing
 | misc | 115 |
 | content-creation | 105 |
 | scientific-domains | 71 |
-| dev-tools | 67 |
+| dev-tools | 75 |
 | academic-writing | 62 |
 | academic-research | 25 |
 | automation | 21 |
 | career | 18 |
 | data-science | 16 |
-| ai-ml | 10 |
+| ai-ml | 11 |
 | visualization | 8 |
 | documents | 7 |
 | obsidian | 6 |
