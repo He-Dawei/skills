@@ -16,7 +16,7 @@ npx skills add He-Dawei/skills --category academic-writing
 
 | 分类 | 数量 |
 |------|------|
-| misc | 115 |
+| misc | 116 |
 | content-creation | 105 |
 | scientific-domains | 71 |
 | dev-tools | 75 |
