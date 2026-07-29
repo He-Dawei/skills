@@ -1,0 +1,18 @@
+{
+  "name": "deepchem",
+  "version": "1.0.0",
+  "description": "Molecular ML with diverse featurizers and pre-built datasets. Use for property prediction (ADMET, to",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "deepchem",
+    "shortDescription": "Molecular ML with diverse featurizers and pre-built datasets. Use for property prediction (ADMET, to",
+    "longDescription": "Molecular ML with diverse featurizers and pre-built datasets. Use for property prediction (ADMET, toxicity) with traditional ML or GNNs when you want extensive featurization options and MoleculeNet benchmarks. Best for quick experiments with pre-trained models, diverse molecular representations. For graph-first PyTorch workflows use torchdrug; for benchmark datasets use pytdc.",
+    "category": "scientific-domains",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

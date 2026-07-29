@@ -1,0 +1,18 @@
+{
+  "name": "cjl-plain",
+  "version": "1.0.0",
+  "description": "Cognitive atom: Plain (白). Rewrites any content so a smart 12-year-old groks it. Structure-free — fo",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cjl-plain",
+    "shortDescription": "Cognitive atom: Plain (白). Rewrites any content so a smart 12-year-old groks it. Structure-free — fo",
+    "longDescription": "Cognitive atom: Plain (白). Rewrites any content so a smart 12-year-old groks it. Structure-free — form follows content. Use when user says '白话说', '说人话', '解释一下', 'plain', 'grok'.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

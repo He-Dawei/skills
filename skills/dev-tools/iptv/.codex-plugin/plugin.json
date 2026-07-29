@@ -1,0 +1,18 @@
+{
+  "name": "iptv",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "iptv",
+    "shortDescription": "No description",
+    "longDescription": "No description",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

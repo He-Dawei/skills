@@ -1,0 +1,18 @@
+{
+  "name": "opencli-usage",
+  "version": "1.0.0",
+  "description": "Use at the start of any OpenCLI session — this is the top-level map of what `opencli` can do, how to",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "opencli-usage",
+    "shortDescription": "Use at the start of any OpenCLI session — this is the top-level map of what `opencli` can do, how to",
+    "longDescription": "Use at the start of any OpenCLI session — this is the top-level map of what `opencli` can do, how to discover adapters, what flags and output formats are universal, and which specialized skill to load next. Point here when an agent asks \"what can opencli do?\" or \"how do I find the right command?\".",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

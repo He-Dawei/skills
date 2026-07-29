@@ -1,0 +1,18 @@
+{
+  "name": "tech-resume-optimizer",
+  "version": "1.0.0",
+  "description": "Optimize resumes for software engineering, PM, and technical roles",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "tech-resume-optimizer",
+    "shortDescription": "Optimize resumes for software engineering, PM, and technical roles",
+    "longDescription": "Optimize resumes for software engineering, PM, and technical roles",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

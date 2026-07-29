@@ -1,0 +1,18 @@
+{
+  "name": "ccf-rebuttal-writer",
+  "version": "1.0.0",
+  "description": "Write and organize CCF conference rebuttals, author responses, response letters, revision summaries,",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ccf-rebuttal-writer",
+    "shortDescription": "Write and organize CCF conference rebuttals, author responses, response letters, revision summaries,",
+    "longDescription": "Write and organize CCF conference rebuttals, author responses, response letters, revision summaries, reviewer-comment ledgers, and conservative resubmission adaptation plans. Use for rebuttal, author response, AC/meta-review response, revision ledger, resubmission to a new venue, 审稿意见回复, 重投迁移. Do not trigger for ordinary manuscript writing.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

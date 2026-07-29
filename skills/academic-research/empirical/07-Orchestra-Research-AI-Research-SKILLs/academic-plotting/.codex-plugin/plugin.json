@@ -1,0 +1,18 @@
+{
+  "name": "academic-plotting",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "academic-plotting",
+    "shortDescription": "No description",
+    "longDescription": "No description",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

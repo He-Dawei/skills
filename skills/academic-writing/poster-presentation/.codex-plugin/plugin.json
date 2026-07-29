@@ -1,0 +1,18 @@
+{
+  "name": "poster-presentation",
+  "version": "1.0.0",
+  "description": "Create scientific conference posters as .pptx files using python-pptx. Handles A0/A1 layouts, sectio",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "poster-presentation",
+    "shortDescription": "Create scientific conference posters as .pptx files using python-pptx. Handles A0/A1 layouts, sectio",
+    "longDescription": "Create scientific conference posters as .pptx files using python-pptx. Handles A0/A1 layouts, section placement, figure insertion, and academic color schemes. Exports editable .pptx and PDF.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

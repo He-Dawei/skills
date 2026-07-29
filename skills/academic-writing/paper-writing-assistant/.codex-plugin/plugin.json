@@ -1,0 +1,18 @@
+{
+  "name": "paper-writing-assistant",
+  "version": "1.0.0",
+  "description": "Central hub for academic paper writing with selectable author styles. Use when the user asks to writ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-writing-assistant",
+    "shortDescription": "Central hub for academic paper writing with selectable author styles. Use when the user asks to writ",
+    "longDescription": "Central hub for academic paper writing with selectable author styles. Use when the user asks to write, revise, evaluate, or distill any section of an academic paper.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

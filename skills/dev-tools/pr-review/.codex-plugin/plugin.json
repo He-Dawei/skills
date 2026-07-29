@@ -1,0 +1,18 @@
+{
+  "name": "pr-review",
+  "version": "1.0.0",
+  "description": "Batch review des PRs RTK par ordre de complexité croissante (XS → S → M → L). Pour chaque PR : vérif",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "pr-review",
+    "shortDescription": "Batch review des PRs RTK par ordre de complexité croissante (XS → S → M → L). Pour chaque PR : vérif",
+    "longDescription": "Batch review des PRs RTK par ordre de complexité croissante (XS → S → M → L). Pour chaque PR : vérifie l'état (conflits, CLA, reviews), lit le diff complet, analyse le code en contexte, présente un résumé avec lien + taille + recommandation. Attend validation explicite avant tout merge. Poste des commentaires boldguy-adapt sur les PRs bloquées (conflit, CLA, CHANGES_REQUESTED). Args: \"triage\" pour lancer un triage complet avant la review. \"from:<num>\" pour reprendre à partir d'un numéro de PR spécifique.\n",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

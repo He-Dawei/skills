@@ -1,0 +1,18 @@
+{
+  "name": "game-theory-paper-writer",
+  "version": "1.0.0",
+  "description": "Generate, continue, revise, polish, and stress-test game theory research papers. Use when the user p",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "game-theory-paper-writer",
+    "shortDescription": "Generate, continue, revise, polish, and stress-test game theory research papers. Use when the user p",
+    "longDescription": "Generate, continue, revise, polish, and stress-test game theory research papers. Use when the user provides a game theory topic, phenomenon, draft, outline, model idea, literature anchor, reviewer comments, or asks for 博弈论论文生成, 选题建模, 文献迁移, 模型修正, 均衡分析, 数值模拟, 论文润色, 改稿打磨, or R&R response work.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

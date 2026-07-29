@@ -1,0 +1,18 @@
+{
+  "name": "ask-matt",
+  "version": "1.0.0",
+  "description": "Ask which skill or flow fits your situation. A router over the user-invoked skills in this repo.",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ask-matt",
+    "shortDescription": "Ask which skill or flow fits your situation. A router over the user-invoked skills in this repo.",
+    "longDescription": "Ask which skill or flow fits your situation. A router over the user-invoked skills in this repo.",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

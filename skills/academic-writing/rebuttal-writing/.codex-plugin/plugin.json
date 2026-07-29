@@ -1,0 +1,18 @@
+{
+  "name": "rebuttal-writing",
+  "version": "1.0.0",
+  "description": "Write point-by-point rebuttals to reviewer comments. Extract concerns from reviews, generate evidenc",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "rebuttal-writing",
+    "shortDescription": "Write point-by-point rebuttals to reviewer comments. Extract concerns from reviews, generate evidenc",
+    "longDescription": "Write point-by-point rebuttals to reviewer comments. Extract concerns from reviews, generate evidence-based responses, and format as a structured rebuttal document. Use after receiving peer review feedback.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

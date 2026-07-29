@@ -1,0 +1,18 @@
+{
+  "name": "pr-triage",
+  "version": "1.0.0",
+  "description": "PR triage: audit open PRs, deep review selected ones, draft and post review comments. Args: \"all\" to",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "pr-triage",
+    "shortDescription": "PR triage: audit open PRs, deep review selected ones, draft and post review comments. Args: \"all\" to",
+    "longDescription": "PR triage: audit open PRs, deep review selected ones, draft and post review comments. Args: \"all\" to review all, PR numbers to focus (e.g. \"42 57\"), \"en\"/\"fr\" for language, no arg = audit only in French.\n",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

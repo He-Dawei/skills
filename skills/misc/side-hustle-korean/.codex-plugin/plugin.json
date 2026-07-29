@@ -1,0 +1,18 @@
+{
+  "name": "side-hustle-korean",
+  "version": "1.0.0",
+  "description": "Use when a Korean-major student in China wants to make money online, monetize Korean skills, find si",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "side-hustle-korean",
+    "shortDescription": "Use when a Korean-major student in China wants to make money online, monetize Korean skills, find si",
+    "longDescription": "Use when a Korean-major student in China wants to make money online, monetize Korean skills, find side hustles, or set up freelancing pipelines. Triggers on 副业, 赚钱, 韩语翻译, 微任务, 闲鱼, Fiverr, platform monetization, or setting up income streams. Covers platform database, pricing formulas, listing templates, and anti-scam rules.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

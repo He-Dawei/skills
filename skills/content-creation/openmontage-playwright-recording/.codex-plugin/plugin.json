@@ -1,0 +1,18 @@
+{
+  "name": "playwright-recording",
+  "version": "1.0.0",
+  "description": "Record browser interactions as video using Playwright. Use for capturing demo videos, app walkthroug",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "playwright-recording",
+    "shortDescription": "Record browser interactions as video using Playwright. Use for capturing demo videos, app walkthroug",
+    "longDescription": "Record browser interactions as video using Playwright. Use for capturing demo videos, app walkthroughs, and UI flows for Remotion videos. Triggers include recording a demo, capturing browser video, screen recording a website, or creating walkthrough footage.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "liteparse",
+  "version": "1.0.0",
+  "description": "Local document and PDF parsing with spatial text and bounding boxes. Use for extracting text from PD",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "liteparse",
+    "shortDescription": "Local document and PDF parsing with spatial text and bounding boxes. Use for extracting text from PD",
+    "longDescription": "Local document and PDF parsing with spatial text and bounding boxes. Use for extracting text from PDFs, DOCX, Office files, and images; OCR on scans; layout-preserved JSON for RAG; batch-ingesting paper folders; or page screenshots for multimodal agents — even when the user does not name liteparse. Prefer over MarkItDown when you need bboxes, fast local parsing, or PNG page renders; prefer over the pdf skill for merge/split/forms.",
+    "category": "scientific-domains",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

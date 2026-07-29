@@ -1,0 +1,18 @@
+{
+  "name": "threejs-fundamentals",
+  "version": "1.0.0",
+  "description": "Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "threejs-fundamentals",
+    "shortDescription": "Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up",
+    "longDescription": "Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up 3D scenes, creating cameras, configuring renderers, managing object hierarchies, or working with transforms.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

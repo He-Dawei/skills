@@ -1,0 +1,18 @@
+{
+  "name": "code-debugging",
+  "version": "1.0.0",
+  "description": "Debug experiment code with structured error analysis. Categorize errors, apply targeted fixes with r",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "code-debugging",
+    "shortDescription": "Debug experiment code with structured error analysis. Categorize errors, apply targeted fixes with r",
+    "longDescription": "Debug experiment code with structured error analysis. Categorize errors, apply targeted fixes with retry logic, and use reflection to prevent recurring issues. Use when experiment code fails or produces incorrect results.",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

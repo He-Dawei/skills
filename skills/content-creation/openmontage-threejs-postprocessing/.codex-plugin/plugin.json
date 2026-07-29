@@ -1,0 +1,18 @@
+{
+  "name": "threejs-postprocessing",
+  "version": "1.0.0",
+  "description": "Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effect",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "threejs-postprocessing",
+    "shortDescription": "Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effect",
+    "longDescription": "Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effects, color grading, blur, glow, or creating custom screen-space shaders.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

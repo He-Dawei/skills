@@ -1,0 +1,18 @@
+{
+  "name": "sound-effects",
+  "version": "1.0.0",
+  "description": "Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, gen",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "sound-effects",
+    "shortDescription": "Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, gen",
+    "longDescription": "Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, generating audio textures, producing ambient sounds, cinematic impacts, UI sounds, or any audio that isn't speech. Supports looping, duration control, and prompt influence tuning.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

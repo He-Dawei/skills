@@ -1,0 +1,18 @@
+{
+  "name": "template-creator",
+  "version": "1.0.0",
+  "description": "Create or update a reusable personal Codex artifact-template skill. Use when the user invokes $templ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "template-creator",
+    "shortDescription": "Create or update a reusable personal Codex artifact-template skill. Use when the user invokes $templ",
+    "longDescription": "Create or update a reusable personal Codex artifact-template skill. Use when the user invokes $template-creator or asks in natural language to create a template using, from, or based on an attached Word document, PowerPoint presentation, or Excel workbook, or explicitly asks to edit or update a passed artifact-template skill. Do not use for one-off artifact creation from an existing template.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

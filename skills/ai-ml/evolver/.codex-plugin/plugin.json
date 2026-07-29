@@ -1,0 +1,18 @@
+{
+  "name": "evolver",
+  "version": "1.0.0",
+  "description": "AI agent self-evolution engine. Use when user wants to evolve, optimize, or improve an AI agent/proj",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "evolver",
+    "shortDescription": "AI agent self-evolution engine. Use when user wants to evolve, optimize, or improve an AI agent/proj",
+    "longDescription": "AI agent self-evolution engine. Use when user wants to evolve, optimize, or improve an AI agent/project through auditable Genes and Capsules under the GEP protocol.",
+    "category": "ai-ml",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

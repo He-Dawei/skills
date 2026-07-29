@@ -1,0 +1,18 @@
+{
+  "name": "cellxgene-census",
+  "version": "1.0.0",
+  "description": "Query the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcri",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cellxgene-census",
+    "shortDescription": "Query the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcri",
+    "longDescription": "Query the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcriptomics data. Use when you need population-scale cell metadata, gene expression slices, Census summary counts, source H5AD URIs/downloads, embeddings, spatial Census data, or reference atlas comparisons across organisms, tissues, diseases, assays, and cell types. For analyzing your own local single-cell data use scanpy, anndata, or scvi-tools.",
+    "category": "scientific-domains",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

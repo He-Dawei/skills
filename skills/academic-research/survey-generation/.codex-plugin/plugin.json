@@ -1,0 +1,18 @@
+{
+  "name": "survey-generation",
+  "version": "1.0.0",
+  "description": "Generate complete academic survey papers using multi-LLM parallel outline generation, RAG-based subs",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "survey-generation",
+    "shortDescription": "Generate complete academic survey papers using multi-LLM parallel outline generation, RAG-based subs",
+    "longDescription": "Generate complete academic survey papers using multi-LLM parallel outline generation, RAG-based subsection writing, citation validation, and local coherence enhancement. Based on AutoSurvey pipeline. Use for writing comprehensive literature surveys.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

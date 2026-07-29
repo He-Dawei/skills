@@ -1,0 +1,18 @@
+{
+  "name": "debugging-methodology",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "debugging-methodology",
+    "shortDescription": "No description",
+    "longDescription": "No description",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

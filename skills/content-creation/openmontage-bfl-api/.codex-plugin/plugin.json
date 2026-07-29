@@ -1,0 +1,18 @@
+{
+  "name": "bfl-api",
+  "version": "1.0.0",
+  "description": "BFL FLUX API integration guide covering endpoints, async polling patterns, rate limiting, error hand",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "bfl-api",
+    "shortDescription": "BFL FLUX API integration guide covering endpoints, async polling patterns, rate limiting, error hand",
+    "longDescription": "BFL FLUX API integration guide covering endpoints, async polling patterns, rate limiting, error handling, webhooks, and regional endpoints with Python and TypeScript code examples.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

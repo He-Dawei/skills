@@ -1,0 +1,18 @@
+{
+  "name": "autoresearch",
+  "version": "1.0.0",
+  "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "autoresearch",
+    "shortDescription": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+    "longDescription": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

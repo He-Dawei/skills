@@ -1,0 +1,18 @@
+{
+  "name": "swiftui-ui-patterns",
+  "version": "1.0.0",
+  "description": "Build and refactor SwiftUI UI with component patterns and examples. Use when shaping navigation, sta",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "swiftui-ui-patterns",
+    "shortDescription": "Build and refactor SwiftUI UI with component patterns and examples. Use when shaping navigation, sta",
+    "longDescription": "Build and refactor SwiftUI UI with component patterns and examples. Use when shaping navigation, state, layouts, controls, or screen composition.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

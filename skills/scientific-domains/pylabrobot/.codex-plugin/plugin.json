@@ -1,0 +1,18 @@
+{
+  "name": "pylabrobot",
+  "version": "1.0.0",
+  "description": "Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton, T",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "pylabrobot",
+    "shortDescription": "Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton, T",
+    "longDescription": "Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton, Tecan, Opentrons, plate readers, pumps) or needing unified programming across different vendors. Best for complex workflows, multi-vendor setups, simulation. For Opentrons-only protocols with official API, opentrons-integration may be simpler.",
+    "category": "scientific-domains",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

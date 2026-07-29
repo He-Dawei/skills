@@ -1,0 +1,18 @@
+{
+  "name": "paper-spine-build",
+  "version": "1.0.0",
+  "description": "Builds a paper or report from materials using the shared PaperSpine research, motivation, and ration",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-spine-build",
+    "shortDescription": "Builds a paper or report from materials using the shared PaperSpine research, motivation, and ration",
+    "longDescription": "Builds a paper or report from materials using the shared PaperSpine research, motivation, and rationale workflow. (internal /paperspine step)",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

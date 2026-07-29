@@ -1,0 +1,18 @@
+{
+  "name": "academic-paper-verify",
+  "version": "1.0.0",
+  "description": "Thoroughly verify all code, tables, figures, modeling decisions, and quantitative claims in an acade",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "academic-paper-verify",
+    "shortDescription": "Thoroughly verify all code, tables, figures, modeling decisions, and quantitative claims in an acade",
+    "longDescription": "Thoroughly verify all code, tables, figures, modeling decisions, and quantitative claims in an academic paper against its source R scripts and output files. Use this skill whenever you need to audit, replicate, or verify an academic research paper - including cross-checking LaTeX tables against R output, validating econometric modeling choices, ensuring sample sizes are consistent, building a verification manifest, and running automated replication tests. Trigger this skill for any mention of: paper verification, replication check, table audit, code-paper consistency, reproducing results, verifying estimates, checking coefficients, or any variant of \"does the paper match the code.\"",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

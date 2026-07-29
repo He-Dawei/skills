@@ -1,0 +1,18 @@
+{
+  "name": "ios-simulator-browser",
+  "version": "1.0.0",
+  "description": "Mirror an iOS Simulator into the Codex in-app browser and render SwiftUI previews from importable Sw",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ios-simulator-browser",
+    "shortDescription": "Mirror an iOS Simulator into the Codex in-app browser and render SwiftUI previews from importable Sw",
+    "longDescription": "Mirror an iOS Simulator into the Codex in-app browser and render SwiftUI previews from importable Swift packages in that simulator with hot reload. Use when a user wants to watch or interact with an iOS app in the browser, see a SwiftUI preview outside Xcode Canvas, iterate live on a preview, or capture browser-visible simulator proof.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

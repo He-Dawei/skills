@@ -1,0 +1,18 @@
+{
+  "name": "gh-fix-ci",
+  "version": "1.0.0",
+  "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions. Use the Gi",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "gh-fix-ci",
+    "shortDescription": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions. Use the Gi",
+    "longDescription": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions. Use the GitHub app from this plugin for PR metadata and patch context, and use `gh` for Actions check and log inspection before implementing any approved fix.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

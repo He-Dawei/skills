@@ -1,0 +1,18 @@
+{
+  "name": "econ-abstract-writing",
+  "version": "1.0.0",
+  "description": "Guide for writing the abstract of an academic economics paper. Use this skill whenever the user asks",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "econ-abstract-writing",
+    "shortDescription": "Guide for writing the abstract of an academic economics paper. Use this skill whenever the user asks",
+    "longDescription": "Guide for writing the abstract of an academic economics paper. Use this skill whenever the user asks for help writing, drafting, revising, or structuring an abstract for an economics paper - whether empirical micro, development economics, applied economics, or related fields. Also trigger when the user mentions \"abstract,\" \"paper summary,\" or asks how to compress their findings into a short description. This skill synthesizes best practices from David Evans (CGDev), Marc Bellemare, and patterns observed in top economics journals (AER, QJE, AEJ: Applied, etc.).",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

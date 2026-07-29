@@ -1,0 +1,18 @@
+{
+  "name": "paper-spine-humanize",
+  "version": "1.0.0",
+  "description": "Reduces AI detection rates via tiered stylistic constraints mapped to real AIGC detection dimensions",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-spine-humanize",
+    "shortDescription": "Reduces AI detection rates via tiered stylistic constraints mapped to real AIGC detection dimensions",
+    "longDescription": "Reduces AI detection rates via tiered stylistic constraints mapped to real AIGC detection dimensions. Produces a teaching humanize_matrix.md. (internal /paperspine step)",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lifelines",
+  "version": "1.0.0",
+  "description": "Complete survival analysis library in Python. Handles right-censored data, Kaplan-Meier curves, and ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "lifelines",
+    "shortDescription": "Complete survival analysis library in Python. Handles right-censored data, Kaplan-Meier curves, and ",
+    "longDescription": "Complete survival analysis library in Python. Handles right-censored data, Kaplan-Meier curves, and Cox regression. Standard for clinical trial analysis and epidemiology.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

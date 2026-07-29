@@ -1,0 +1,18 @@
+{
+  "name": "upskill",
+  "version": "1.0.0",
+  "description": "Compares tracked job postings against the candidate profile to identify skill gaps and generate a pr",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "upskill",
+    "shortDescription": "Compares tracked job postings against the candidate profile to identify skill gaps and generate a pr",
+    "longDescription": "Compares tracked job postings against the candidate profile to identify skill gaps and generate a prioritized learning plan with study resources. Triggers on: /upskill, upskill, skill gaps, what should I learn, learning plan\n",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

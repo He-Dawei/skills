@@ -1,0 +1,18 @@
+{
+  "name": "novelty-assessment",
+  "version": "1.0.0",
+  "description": "Assess research idea novelty through systematic literature search. Multi-round search-evaluate loops",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "novelty-assessment",
+    "shortDescription": "Assess research idea novelty through systematic literature search. Multi-round search-evaluate loops",
+    "longDescription": "Assess research idea novelty through systematic literature search. Multi-round search-evaluate loops with harsh critic persona. Binary novel/not-novel decision with justification. Use before committing to a research direction.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

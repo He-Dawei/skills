@@ -1,0 +1,18 @@
+{
+  "name": "video-understand",
+  "version": "1.0.0",
+  "description": "Understand video content locally using ffmpeg frame extraction and Whisper transcription. No API key",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "video-understand",
+    "shortDescription": "Understand video content locally using ffmpeg frame extraction and Whisper transcription. No API key",
+    "longDescription": "Understand video content locally using ffmpeg frame extraction and Whisper transcription. No API keys needed.\nUse when: (1) Understanding what a video contains, (2) Transcribing video audio locally,\n(3) Extracting key frames for visual analysis, (4) Getting video content without API keys.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

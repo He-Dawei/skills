@@ -1,0 +1,18 @@
+{
+  "name": "check-citations",
+  "version": "1.0.0",
+  "description": "Verify academic citations against CrossRef, Semantic Scholar, and OpenAlex. Detects AI-hallucinated ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "check-citations",
+    "shortDescription": "Verify academic citations against CrossRef, Semantic Scholar, and OpenAlex. Detects AI-hallucinated ",
+    "longDescription": "Verify academic citations against CrossRef, Semantic Scholar, and OpenAlex. Detects AI-hallucinated references, chimeric citations, and suspicious patterns.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

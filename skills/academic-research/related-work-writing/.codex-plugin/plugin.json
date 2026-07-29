@@ -1,0 +1,18 @@
+{
+  "name": "related-work-writing",
+  "version": "1.0.0",
+  "description": "Write Related Work sections that compare and contrast prior work with your approach. Organize by the",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "related-work-writing",
+    "shortDescription": "Write Related Work sections that compare and contrast prior work with your approach. Organize by the",
+    "longDescription": "Write Related Work sections that compare and contrast prior work with your approach. Organize by theme, cite broadly, and explain how your work differs. Use when writing or improving the Related Work section of a paper.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

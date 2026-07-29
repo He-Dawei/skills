@@ -1,0 +1,18 @@
+{
+  "name": "create-video",
+  "version": "1.0.0",
+  "description": "Create videos from a text prompt using HeyGen's Video Agent. Use when: (1) Creating a video from a d",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "create-video",
+    "shortDescription": "Create videos from a text prompt using HeyGen's Video Agent. Use when: (1) Creating a video from a d",
+    "longDescription": "Create videos from a text prompt using HeyGen's Video Agent. Use when: (1) Creating a video from a description or idea, (2) Generating explainer, demo, or marketing videos from a prompt, (3) Making a video without specifying exact avatars, voices, or scenes, (4) Quick video prototyping or drafts, (5) One-shot prompt-to-video generation, (6) User says \"make me a video\" or \"create a video about X\".\n",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

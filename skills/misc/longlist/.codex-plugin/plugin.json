@@ -1,0 +1,18 @@
+{
+  "name": "longlist",
+  "version": "1.0.0",
+  "description": "Brainstorm a longlist of benefits and costs for a project. Outputs two clean tables (benefits and co",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "longlist",
+    "shortDescription": "Brainstorm a longlist of benefits and costs for a project. Outputs two clean tables (benefits and co",
+    "longDescription": "Brainstorm a longlist of benefits and costs for a project. Outputs two clean tables (benefits and costs), each with materiality (H/M/L), a cash flow tag (cash in / cash out / non-cash), a quantification method, and a monetisation method. Supports HMT Green Book, EU Better Regulation Guidelines, World Bank, Asian Development Bank, and the Victorian Treasury High Value High Risk (HVHR) framework.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

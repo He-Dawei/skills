@@ -1,0 +1,18 @@
+{
+  "name": "cheat-score",
+  "version": "1.0.0",
+  "description": "给单篇稿子打 rubric 分。**只在控制台输出，不写文件，不预测**。触发词：\"打分这篇 [path]\"/\"score this [path]\"/\"给这稿子打分\"/\"先打分看看\"。是 cheat-",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cheat-score",
+    "shortDescription": "给单篇稿子打 rubric 分。**只在控制台输出，不写文件，不预测**。触发词：\"打分这篇 [path]\"/\"score this [path]\"/\"给这稿子打分\"/\"先打分看看\"。是 cheat-",
+    "longDescription": "给单篇稿子打 rubric 分。**只在控制台输出，不写文件，不预测**。触发词：\"打分这篇 [path]\"/\"score this [path]\"/\"给这稿子打分\"/\"先打分看看\"。是 cheat-predict 之前的轻量探索动作。",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

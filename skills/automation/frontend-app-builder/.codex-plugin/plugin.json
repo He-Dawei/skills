@@ -1,0 +1,18 @@
+{
+  "name": "frontend-app-builder",
+  "version": "1.0.0",
+  "description": "Use for new frontend applications, dashboards, games, creative websites, hero sections, and visually",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "frontend-app-builder",
+    "shortDescription": "Use for new frontend applications, dashboards, games, creative websites, hero sections, and visually",
+    "longDescription": "Use for new frontend applications, dashboards, games, creative websites, hero sections, and visually driven UI from scratch, or when the user explicitly asks for a redesign/restyle/modernization. Builds from clean, airy, high-taste, readable image-generated concept design with section-specific references, faithful implementation, and browser testing.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

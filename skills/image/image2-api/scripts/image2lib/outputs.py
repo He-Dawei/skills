@@ -1,0 +1,117 @@
+from __future__ import annotations
+
+import mimetypes
+import os
+from datetime import datetime
+from pathlib import Path
+from typing import Any
+
+from .utils import safe_slug, write_json
+
+_FORMAT_EXTENSIONS = {
+    "png": ".png",
+    "jpeg": ".jpg",
+    "jpg": ".jpg",
+    "webp": ".webp",
+}
+
+
+def extension_for_format(image_format: str) -> str:
+    return _FORMAT_EXTENSIONS.get(image_format.lower(), ".png")
+
+
+class RunOutput:
+    def __init__(
+        self,
+        output_dir: str | None,
+        prompt: str,
+        prefix: str = "image",
+        name: str | None = None,
+    ) -> None:
+        # Always initialize self.prefix first so image_path() never hits
+        # AttributeError when the caller passes output_dir explicitly.
+        self.prefix = safe_slug(name or prefix, 32)
+        if output_dir:
+            path = Path(output_dir)
+            # If a name was provided alongside output_dir, prefer it as prefix.
+            if name:
+                self.prefix = safe_slug(name, 60)
+        else:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            if name:
+                slug = safe_slug(name, 60)
+                path = Path("output") / f"{slug}_{timestamp}"
+                self.prefix = slug
+            else:
+                path = Path("output") / f"{timestamp}_{safe_slug(prompt[:80])}"
+                self.prefix = safe_slug(prefix, 32)
+        self.path = path.resolve()
+        self.path.mkdir(parents=True, exist_ok=True)
+        (self.path / "prompt.txt").write_text(prompt.rstrip() + "\n", encoding="utf-8")
+
+    def image_path(self, index: int, output_format: str, total: int = 1) -> Path:
+        """Build the output path for the image at position ``index`` (1-based).
+
+        ``total`` is the user's requested count. Some relays return MORE
+        candidates than requested (e.g. fushengyunsuan returns 3 candidates
+        for count=1 because gpt-image-2-codex runs multiple passes). When
+        that happens, ``index`` will exceed ``total``. We must still produce
+        a unique filename for each candidate so they don't overwrite each
+        other. The rule: if ``index > total`` we treat it as an "extra"
+        candidate and always include the index in the filename.
+        """
+        ext = extension_for_format(output_format)
+        if total <= 1 and index <= 1:
+            return self.path / f"{self.prefix}{ext}"
+        return self.path / f"{self.prefix}_{index:02d}{ext}"
+
+    def write_request(self, request: dict[str, Any]) -> None:
+        write_json(self.path / "request.json", request)
+
+    def write_prompt_review(self, review: dict[str, Any]) -> None:
+        write_json(self.path / "prompt_review.json", review)
+
+    def write_response_summary(self, summary: dict[str, Any]) -> None:
+        write_json(self.path / "response_summary.json", summary)
+
+    def write_metadata(self, metadata: dict[str, Any]) -> None:
+        write_json(self.path / "metadata.json", metadata)
+
+    def cleanup_intermediates(self) -> list[str]:
+        """Remove non-image intermediate files from this run directory.
+
+        Triggered by env var IMAGE_API_CLEAN_INTERMEDIATES=1/true/yes/on.
+        Deletes prompt.txt, request.json, prompt_review.json,
+        response_summary.json, metadata.json — anything that is not a
+        recognized image format. Keeps .jpg/.png/.webp/.jpeg/.gif/.bmp.
+
+        Safe to call after a failed run too: just no-ops on missing files.
+        Returns the list of removed filenames for logging.
+        """
+        if not _clean_intermediates_enabled():
+            return []
+        image_extensions = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".bmp"}
+        removed: list[str] = []
+        for child in self.path.iterdir():
+            if not child.is_file():
+                continue
+            if child.suffix.lower() in image_extensions:
+                continue
+            try:
+                child.unlink()
+                removed.append(child.name)
+            except OSError:
+                # Best-effort cleanup; don't fail the task over it.
+                pass
+        return removed
+
+
+def _clean_intermediates_enabled() -> bool:
+    """Read IMAGE_API_CLEAN_INTERMEDIATES env var as a boolean."""
+    raw = os.getenv("IMAGE_API_CLEAN_INTERMEDIATES", "").strip().lower()
+    return raw in {"1", "true", "yes", "on"}
+
+
+def media_type_for(path: Path) -> str:
+    guessed, _ = mimetypes.guess_type(path.name)
+    return guessed or "application/octet-stream"

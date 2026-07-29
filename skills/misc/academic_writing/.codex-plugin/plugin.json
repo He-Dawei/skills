@@ -1,0 +1,18 @@
+{
+  "name": "academic-writing",
+  "version": "1.0.0",
+  "description": "Activate when the user is drafting any academic economics content from scratch (e.g., outlines, abst",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "academic-writing",
+    "shortDescription": "Activate when the user is drafting any academic economics content from scratch (e.g., outlines, abst",
+    "longDescription": "Activate when the user is drafting any academic economics content from scratch (e.g., outlines, abstracts, introductions, data/methods/identification sections, results narratives, conclusions, referee responses, table/figure captions) and needs economics-specific structure, phrasing options, and quality checks to produce publication-ready prose.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

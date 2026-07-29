@@ -1,0 +1,18 @@
+{
+  "name": "pymc",
+  "version": "1.0.0",
+  "description": "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "pymc",
+    "shortDescription": "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC",
+    "longDescription": "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference.",
+    "category": "data-science",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

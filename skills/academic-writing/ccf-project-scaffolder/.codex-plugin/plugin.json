@@ -1,0 +1,18 @@
+{
+  "name": "ccf-project-scaffolder",
+  "version": "1.0.0",
+  "description": "Create CCF paper project folders, select or copy LaTeX templates, initialize ccfa.yaml, and prepare ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ccf-project-scaffolder",
+    "shortDescription": "Create CCF paper project folders, select or copy LaTeX templates, initialize ccfa.yaml, and prepare ",
+    "longDescription": "Create CCF paper project folders, select or copy LaTeX templates, initialize ccfa.yaml, and prepare artifact directories. Use for project scaffolding and reproducible workspace setup. Do not generate research content.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

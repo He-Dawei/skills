@@ -1,0 +1,18 @@
+{
+  "name": "threejs-animation",
+  "version": "1.0.0",
+  "description": "Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use wh",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "threejs-animation",
+    "shortDescription": "Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use wh",
+    "longDescription": "Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use when animating objects, playing GLTF animations, creating procedural motion, or blending animations.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

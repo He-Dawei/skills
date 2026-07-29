@@ -1,0 +1,18 @@
+{
+  "name": "ljg-writes",
+  "version": "1.0.0",
+  "description": "写作引擎。像手术刀剖开一个观点，一层层剥到底。1000-1500 字。",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ljg-writes",
+    "shortDescription": "写作引擎。像手术刀剖开一个观点，一层层剥到底。1000-1500 字。",
+    "longDescription": "写作引擎。像手术刀剖开一个观点，一层层剥到底。1000-1500 字。",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

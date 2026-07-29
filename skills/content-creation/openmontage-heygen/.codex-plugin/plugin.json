@@ -1,0 +1,18 @@
+{
+  "name": "heygen",
+  "version": "1.0.0",
+  "description": "[DEPRECATED] Use `create-video` for prompt-based video generation or `avatar-video` for precise avat",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "heygen",
+    "shortDescription": "[DEPRECATED] Use `create-video` for prompt-based video generation or `avatar-video` for precise avat",
+    "longDescription": "[DEPRECATED] Use `create-video` for prompt-based video generation or `avatar-video` for precise avatar/scene control. This legacy skill combines both workflows — the newer focused skills provide clearer guidance.\n",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

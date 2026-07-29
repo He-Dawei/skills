@@ -1,0 +1,18 @@
+{
+  "name": "econ-write",
+  "version": "1.0.0",
+  "description": "Expert economics paper writing assistant synthesizing advice from 50+ top guides by Cochrane, McClos",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "econ-write",
+    "shortDescription": "Expert economics paper writing assistant synthesizing advice from 50+ top guides by Cochrane, McClos",
+    "longDescription": "Expert economics paper writing assistant synthesizing advice from 50+ top guides by Cochrane, McCloskey, Shapiro, Head, Bellemare, Goldin, Glaeser, Kremer, and other leading economists. USE THIS SKILL whenever the user writes, edits, reviews, rewrites, or structures any economics paper, thesis, job market paper, abstract, introduction, conclusion, results section, literature review, or referee response. Also handles LaTeX formatting, presentations, and paper audits. Covers all paper types (applied, theory, structural, mixed) and all sections.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

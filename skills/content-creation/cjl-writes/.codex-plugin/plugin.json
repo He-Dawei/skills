@@ -1,0 +1,18 @@
+{
+  "name": "cjl-writes",
+  "version": "1.0.0",
+  "description": "写作引擎。带着一个观点出发，在写的过程中把它想透。",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cjl-writes",
+    "shortDescription": "写作引擎。带着一个观点出发，在写的过程中把它想透。",
+    "longDescription": "写作引擎。带着一个观点出发，在写的过程中把它想透。",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

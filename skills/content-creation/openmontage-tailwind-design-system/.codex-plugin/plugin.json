@@ -1,0 +1,18 @@
+{
+  "name": "tailwind-design-system",
+  "version": "1.0.0",
+  "description": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsi",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "tailwind-design-system",
+    "shortDescription": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsi",
+    "longDescription": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

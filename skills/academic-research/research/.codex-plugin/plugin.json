@@ -1,0 +1,18 @@
+{
+  "name": "research",
+  "version": "1.0.0",
+  "description": "在任何有可量化指标的主题上，启动并驱动一个长期自主研究项目。建立项目目录和评测基建，跑\"假设→尝试→打分→教训\"循环，跨轮累积 lessons，并集成 /loop 自主推进。适用于\"研究 X\"、\"把 ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "research",
+    "shortDescription": "在任何有可量化指标的主题上，启动并驱动一个长期自主研究项目。建立项目目录和评测基建，跑\"假设→尝试→打分→教训\"循环，跨轮累积 lessons，并集成 /loop 自主推进。适用于\"研究 X\"、\"把 ",
+    "longDescription": "在任何有可量化指标的主题上，启动并驱动一个长期自主研究项目。建立项目目录和评测基建，跑\"假设→尝试→打分→教训\"循环，跨轮累积 lessons，并集成 /loop 自主推进。适用于\"研究 X\"、\"把 X 改到近完美\"、\"持续尝试 X 并学习\"——任何通过 hypothesis→attempt→score→lesson 循环能有效推进的场景。 | Bootstrap and drive a long-term self-improving research project on any topic with a measurable success metric. Builds measurement infrastructure, runs hypothesis→attempt→score→lesson cycles, integrates with /loop for autonomous progress.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

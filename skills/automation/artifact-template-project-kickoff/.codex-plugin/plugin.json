@@ -1,0 +1,18 @@
+{
+  "name": "artifact-template-project-kickoff",
+  "version": "1.0.0",
+  "description": "Create a presentation using the Project Kickoff template and its retained reference file. Use when t",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "artifact-template-project-kickoff",
+    "shortDescription": "Create a presentation using the Project Kickoff template and its retained reference file. Use when t",
+    "longDescription": "Create a presentation using the Project Kickoff template and its retained reference file. Use when the user selects or names Project Kickoff. Align teams on project goals, scope, roles, milestones, risks, and the working model.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ios-ettrace-performance",
+  "version": "1.0.0",
+  "description": "Capture and interpret iOS Simulator ETTrace profiles. Use when profiling launch or runtime latency, ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ios-ettrace-performance",
+    "shortDescription": "Capture and interpret iOS Simulator ETTrace profiles. Use when profiling launch or runtime latency, ",
+    "longDescription": "Capture and interpret iOS Simulator ETTrace profiles. Use when profiling launch or runtime latency, comparing traces, or finding CPU-heavy stacks.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

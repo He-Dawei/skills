@@ -1,0 +1,18 @@
+{
+  "name": "macro-briefing",
+  "version": "1.0.0",
+  "description": "Macroeconomic monitor. Supports UK, US, Euro area, and Australia. Pulls GDP, inflation, employment, ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "macro-briefing",
+    "shortDescription": "Macroeconomic monitor. Supports UK, US, Euro area, and Australia. Pulls GDP, inflation, employment, ",
+    "longDescription": "Macroeconomic monitor. Supports UK, US, Euro area, and Australia. Pulls GDP, inflation, employment, wages, rates, trade, housing, and fiscal data. Each country follows its central bank's reporting structure. Produces a single clean briefing with a traffic-light assessment and user-selectable sub-components.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cjl-relationship",
+  "version": "1.0.0",
+  "description": "Relationship analyst combining structural diagnostics (5-layer framework) with psychoanalytic depth ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cjl-relationship",
+    "shortDescription": "Relationship analyst combining structural diagnostics (5-layer framework) with psychoanalytic depth ",
+    "longDescription": "Relationship analyst combining structural diagnostics (5-layer framework) with psychoanalytic depth (transference, unconscious patterns, resistance). Guides users through dialogue to \"see\" the real structure of their relationship issues. Use when user says \"关系分析\", \"分析关系\", \"relationship\", \"人际关系\", or describes a specific relationship problem they want to understand.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

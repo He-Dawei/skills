@@ -1,0 +1,18 @@
+{
+  "name": "ai-video-gen",
+  "version": "1.0.0",
+  "description": "Generate AI videos from text prompts using multiple provider gateways. Use when: (1) Generating vide",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ai-video-gen",
+    "shortDescription": "Generate AI videos from text prompts using multiple provider gateways. Use when: (1) Generating vide",
+    "longDescription": "Generate AI videos from text prompts using multiple provider gateways. Use when: (1) Generating videos from text descriptions, (2) Creating AI-generated video clips for content production, (3) Image-to-video generation with a reference image, (4) Choosing between video generation providers (VEO, Kling, Sora, Runway, Seedance, MiniMax). Supports two gateways: HeyGen API and fal.ai API.\n",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

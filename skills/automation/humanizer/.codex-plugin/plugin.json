@@ -1,0 +1,18 @@
+{
+  "name": "humanizer",
+  "version": "1.0.0",
+  "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "humanizer",
+    "shortDescription": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound ",
+    "longDescription": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, passive\nvoice, negative parallelisms, and filler phrases.\n",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "swiftui-view-refactor",
+  "version": "1.0.0",
+  "description": "Refactor SwiftUI view files into stable, testable structure. Use when splitting large views, tighten",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "swiftui-view-refactor",
+    "shortDescription": "Refactor SwiftUI view files into stable, testable structure. Use when splitting large views, tighten",
+    "longDescription": "Refactor SwiftUI view files into stable, testable structure. Use when splitting large views, tightening data flow, or cleaning Observation ownership.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

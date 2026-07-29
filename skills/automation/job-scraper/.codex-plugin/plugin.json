@@ -1,0 +1,18 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "Finds new job postings matching your profile via installed portal-search CLIs (LinkedIn, local job b",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "scrape",
+    "shortDescription": "Finds new job postings matching your profile via installed portal-search CLIs (LinkedIn, local job b",
+    "longDescription": "Finds new job postings matching your profile via installed portal-search CLIs (LinkedIn, local job boards, and any skills added with /add-portal). Deduplicates across runs. Triggers on: job scrape, find jobs, search jobs, new jobs, job search, scrape jobs, /scrape\n",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

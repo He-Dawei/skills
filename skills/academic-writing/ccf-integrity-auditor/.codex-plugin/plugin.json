@@ -1,0 +1,18 @@
+{
+  "name": "ccf-integrity-auditor",
+  "version": "1.0.0",
+  "description": "Audit CCF paper integrity: claim-support alignment, result-to-claim consistency, numeric consistency",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ccf-integrity-auditor",
+    "shortDescription": "Audit CCF paper integrity: claim-support alignment, result-to-claim consistency, numeric consistency",
+    "longDescription": "Audit CCF paper integrity: claim-support alignment, result-to-claim consistency, numeric consistency, terminology consistency, figure/table-to-text consistency, existing citation existence, BibTeX metadata, and citation-context support. Use for evidence audit, citation audit, consistency check, 引用核验, claim审计, 数字一致性. Do not perform full scientific review or broad literature search.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

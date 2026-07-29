@@ -1,0 +1,18 @@
+{
+  "name": "literature-search",
+  "version": "1.0.0",
+  "description": "Search academic literature using Semantic Scholar, arXiv, and OpenAlex APIs. Returns structured JSON",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "literature-search",
+    "shortDescription": "Search academic literature using Semantic Scholar, arXiv, and OpenAlex APIs. Returns structured JSON",
+    "longDescription": "Search academic literature using Semantic Scholar, arXiv, and OpenAlex APIs. Returns structured JSONL with title, authors, year, venue, abstract, citations, and BibTeX. Use when the user needs to find papers, check related work, or build a bibliography.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

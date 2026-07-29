@@ -1,0 +1,18 @@
+{
+  "name": "stripe-best-practices",
+  "version": "1.0.0",
+  "description": "Guides Stripe integration decisions — API selection (Checkout Sessions vs PaymentIntents), Connect p",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "stripe-best-practices",
+    "shortDescription": "Guides Stripe integration decisions — API selection (Checkout Sessions vs PaymentIntents), Connect p",
+    "longDescription": "Guides Stripe integration decisions — API selection (Checkout Sessions vs PaymentIntents), Connect platform setup (Accounts v2, controller properties), billing/subscriptions, Treasury financial accounts, integration surfaces (Checkout, Payment Element), and migrating from deprecated Stripe APIs. Use when building, modifying, or reviewing any Stripe integration — including accepting payments, building marketplaces, integrating Stripe, processing payments, setting up subscriptions, or creating connected accounts.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

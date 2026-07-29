@@ -1,0 +1,18 @@
+{
+  "name": "paper-writing-section",
+  "version": "1.0.0",
+  "description": "Write a specific section of an academic paper (Abstract, Introduction, Background, Related Work, Met",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-writing-section",
+    "shortDescription": "Write a specific section of an academic paper (Abstract, Introduction, Background, Related Work, Met",
+    "longDescription": "Write a specific section of an academic paper (Abstract, Introduction, Background, Related Work, Methods, Experiments, Results, Discussion/Conclusion) with section-specific guidance and two-pass refinement. Use when the user wants to write, draft, or improve a paper section.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "Triage and orient GitHub repository, pull request, and issue work through the connected GitHub app. ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "github",
+    "shortDescription": "Triage and orient GitHub repository, pull request, and issue work through the connected GitHub app. ",
+    "longDescription": "Triage and orient GitHub repository, pull request, and issue work through the connected GitHub app. Use when the user asks for general GitHub help, wants PR or issue summaries, or needs repository context before choosing a more specific GitHub workflow.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

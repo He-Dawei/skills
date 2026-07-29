@@ -1,0 +1,18 @@
+{
+  "name": "math-reasoning",
+  "version": "1.0.0",
+  "description": "Formal mathematical reasoning for research papers — derive equations, write proofs, formalize proble",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "math-reasoning",
+    "shortDescription": "Formal mathematical reasoning for research papers — derive equations, write proofs, formalize proble",
+    "longDescription": "Formal mathematical reasoning for research papers — derive equations, write proofs, formalize problem settings, select statistical tests, and generate LaTeX math notation. Use when the user needs mathematical derivations, theorem proofs, notation tables, or statistical analysis formalization.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

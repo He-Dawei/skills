@@ -1,0 +1,18 @@
+{
+  "name": "artifact-template-minimal-letterhead",
+  "version": "1.0.0",
+  "description": "Create a document using the Minimal Letterhead template and its retained reference file. Use when th",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "artifact-template-minimal-letterhead",
+    "shortDescription": "Create a document using the Minimal Letterhead template and its retained reference file. Use when th",
+    "longDescription": "Create a document using the Minimal Letterhead template and its retained reference file. Use when the user selects or names Minimal Letterhead. Write professional business letters with sender, recipient, message, and signature fields in a minimal letterhead layout.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

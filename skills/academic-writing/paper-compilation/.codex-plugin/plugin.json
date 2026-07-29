@@ -1,0 +1,18 @@
+{
+  "name": "paper-compilation",
+  "version": "1.0.0",
+  "description": "Compile LaTeX papers to PDF with automatic error detection, chktex style checking, and citation/refe",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-compilation",
+    "shortDescription": "Compile LaTeX papers to PDF with automatic error detection, chktex style checking, and citation/refe",
+    "longDescription": "Compile LaTeX papers to PDF with automatic error detection, chktex style checking, and citation/reference validation. Runs the full pdflatex + bibtex pipeline. Use when the user wants to compile a paper, fix compilation errors, or debug LaTeX.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "figma-implement-motion",
+  "version": "1.0.0",
+  "description": "Translates Figma motion and animations into production-ready application code. Use when implementing",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "figma-implement-motion",
+    "shortDescription": "Translates Figma motion and animations into production-ready application code. Use when implementing",
+    "longDescription": "Translates Figma motion and animations into production-ready application code. Use when implementing animation/motion from a Figma design — user mentions \"implement this motion\", \"add animation from Figma\", \"animate this component\", provides a Figma URL whose node is animated, or when `get_design_context` returns motion data or instructs you to call `get_motion_context`.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

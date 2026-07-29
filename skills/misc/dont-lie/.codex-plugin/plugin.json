@@ -1,0 +1,18 @@
+{
+  "name": "anti-hallucination",
+  "version": "1.0.0",
+  "description": "ALWAYS activate this skill. Apply these rules to every task regardless of domain. This skill governs",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "anti-hallucination",
+    "shortDescription": "ALWAYS activate this skill. Apply these rules to every task regardless of domain. This skill governs",
+    "longDescription": "ALWAYS activate this skill. Apply these rules to every task regardless of domain. This skill governs how Claude Code verifies information, writes code, references documentation, and avoids fabricating functions, arguments, APIs, file paths, data structures, or facts. These rules override any inclination to guess.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "flux-best-practices",
+  "version": "1.0.0",
+  "description": "Comprehensive guide for BFL FLUX image generation models. Covers prompting, T2I, I2I, structured JSO",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "flux-best-practices",
+    "shortDescription": "Comprehensive guide for BFL FLUX image generation models. Covers prompting, T2I, I2I, structured JSO",
+    "longDescription": "Comprehensive guide for BFL FLUX image generation models. Covers prompting, T2I, I2I, structured JSON, hex colors, typography, multi-reference editing, and model-specific best practices for FLUX.2 and FLUX.1 families.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

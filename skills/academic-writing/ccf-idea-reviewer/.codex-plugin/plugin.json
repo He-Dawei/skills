@@ -1,0 +1,18 @@
+{
+  "name": "ccf-idea-reviewer",
+  "version": "1.0.0",
+  "description": "Strictly score, rank, compare, and triage early CCF research ideas with prior-art awareness and venu",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ccf-idea-reviewer",
+    "shortDescription": "Strictly score, rank, compare, and triage early CCF research ideas with prior-art awareness and venu",
+    "longDescription": "Strictly score, rank, compare, and triage early CCF research ideas with prior-art awareness and venue-fit risk. Use only for explicit idea scoring, idea ranking, idea review, acceptance-potential triage, idea评分, 选题评分, 选题排名, 严格评审. Do not polish manuscripts, brainstorm directions, or optimize a single idea unless scoring is explicit.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

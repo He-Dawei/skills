@@ -1,0 +1,18 @@
+{
+  "name": "opencli-browser-sitemap",
+  "version": "1.0.0",
+  "description": "Use when driving a website with opencli browser and sitemap context is available, requested, or need",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "opencli-browser-sitemap",
+    "shortDescription": "Use when driving a website with opencli browser and sitemap context is available, requested, or need",
+    "longDescription": "Use when driving a website with opencli browser and sitemap context is available, requested, or needed to avoid blind navigation. Guides agents to consume site sitemap files lazily, choose adapter/browser fallback paths, resume from state signatures, and mark stale sitemap entries without trusting them over live browser state.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

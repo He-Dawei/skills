@@ -1,0 +1,18 @@
+{
+  "name": "swiftui-performance-audit",
+  "version": "1.0.0",
+  "description": "Audit SwiftUI runtime performance from code first. Use when diagnosing slow rendering, janky scrolli",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "swiftui-performance-audit",
+    "shortDescription": "Audit SwiftUI runtime performance from code first. Use when diagnosing slow rendering, janky scrolli",
+    "longDescription": "Audit SwiftUI runtime performance from code first. Use when diagnosing slow rendering, janky scrolling, expensive updates, or profiling needs.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

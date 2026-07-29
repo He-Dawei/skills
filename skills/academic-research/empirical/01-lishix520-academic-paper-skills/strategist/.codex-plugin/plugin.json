@@ -1,0 +1,18 @@
+{
+  "name": "strategist",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "strategist",
+    "shortDescription": "No description",
+    "longDescription": "No description",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

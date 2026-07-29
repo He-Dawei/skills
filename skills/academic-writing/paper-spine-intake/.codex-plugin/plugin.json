@@ -1,0 +1,18 @@
+{
+  "name": "paper-spine-intake",
+  "version": "1.0.0",
+  "description": "Collects PaperSpine workflow options and writes config for flash/pro, scene, language, and inputs. (",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-spine-intake",
+    "shortDescription": "Collects PaperSpine workflow options and writes config for flash/pro, scene, language, and inputs. (",
+    "longDescription": "Collects PaperSpine workflow options and writes config for flash/pro, scene, language, and inputs. (internal /paperspine step)",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

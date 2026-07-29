@@ -1,0 +1,18 @@
+{
+  "name": "marginaleffects",
+  "version": "1.0.0",
+  "description": "Manual for the marginaleffects R and Python package, and guide to the book \"Model to Meaning\". Use w",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "marginaleffects",
+    "shortDescription": "Manual for the marginaleffects R and Python package, and guide to the book \"Model to Meaning\". Use w",
+    "longDescription": "Manual for the marginaleffects R and Python package, and guide to the book \"Model to Meaning\". Use when users ask about predictions, comparisons, slopes, marginal effects, average treatment effects (ATE/ATT/CATE), hypothesis testing, contrasts, counterfactuals, risk ratios, odds ratios, causal inference with G-computation, or need help with marginaleffects functions like predictions(), comparisons(), slopes(), hypotheses(), datagrid(), avg_predictions(), avg_comparisons(), avg_slopes(), or plot functions.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

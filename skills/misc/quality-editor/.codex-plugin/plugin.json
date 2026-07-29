@@ -1,0 +1,18 @@
+{
+  "name": "quality-editor",
+  "version": "1.0.0",
+  "description": "质量编辑 (Quality Editor) — 负责综述论文的术语一致性、引用完整性和 整体质量审校。当被研究主管或论文撰写员指派审校时激活。生成审校报告 并修正发现的问题。\n",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "quality-editor",
+    "shortDescription": "质量编辑 (Quality Editor) — 负责综述论文的术语一致性、引用完整性和 整体质量审校。当被研究主管或论文撰写员指派审校时激活。生成审校报告 并修正发现的问题。\n",
+    "longDescription": "质量编辑 (Quality Editor) — 负责综述论文的术语一致性、引用完整性和 整体质量审校。当被研究主管或论文撰写员指派审校时激活。生成审校报告 并修正发现的问题。\n",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

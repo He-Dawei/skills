@@ -1,0 +1,18 @@
+{
+  "name": "qutip",
+  "version": "1.0.0",
+  "description": "Quantum physics simulation library for open quantum systems. Use when studying master equations, Lin",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "qutip",
+    "shortDescription": "Quantum physics simulation library for open quantum systems. Use when studying master equations, Lin",
+    "longDescription": "Quantum physics simulation library for open quantum systems. Use when studying master equations, Lindblad dynamics, decoherence, quantum optics, or cavity QED. Best for physics research, open system dynamics, and educational simulations. NOT for circuit-based quantum computing—use qiskit, cirq, or pennylane for quantum algorithms and hardware execution.",
+    "category": "ai-ml",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

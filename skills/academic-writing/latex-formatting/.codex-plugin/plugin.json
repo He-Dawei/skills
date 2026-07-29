@@ -1,0 +1,18 @@
+{
+  "name": "latex-formatting",
+  "version": "1.0.0",
+  "description": "Handle LaTeX formatting, templates, and styling for academic papers. Set up conference templates (IC",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "latex-formatting",
+    "shortDescription": "Handle LaTeX formatting, templates, and styling for academic papers. Set up conference templates (IC",
+    "longDescription": "Handle LaTeX formatting, templates, and styling for academic papers. Set up conference templates (ICML, ICLR, NeurIPS, AAAI, ACL), fix formatting issues, manage packages, and ensure venue-specific compliance. Use when the user needs to set up a paper template, fix LaTeX formatting, or prepare for submission.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

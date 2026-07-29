@@ -1,0 +1,18 @@
+{
+  "name": "brainstorming",
+  "version": "1.0.0",
+  "description": "You MUST use this before any creative work - creating features, building components, adding function",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "brainstorming",
+    "shortDescription": "You MUST use this before any creative work - creating features, building components, adding function",
+    "longDescription": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+    "category": "thinking",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "paper-spine-rewrite",
+  "version": "1.0.0",
+  "description": "Rewrites an existing manuscript from confirmed motivation, research, paragraph-level rationale, and ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-spine-rewrite",
+    "shortDescription": "Rewrites an existing manuscript from confirmed motivation, research, paragraph-level rationale, and ",
+    "longDescription": "Rewrites an existing manuscript from confirmed motivation, research, paragraph-level rationale, and evidence. (internal /paperspine step)",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

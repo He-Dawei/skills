@@ -1,0 +1,18 @@
+{
+  "name": "remotion",
+  "version": "1.0.0",
+  "description": "Toolkit-specific Remotion patterns — custom transitions, shared components, and project conventions.",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "remotion",
+    "shortDescription": "Toolkit-specific Remotion patterns — custom transitions, shared components, and project conventions.",
+    "longDescription": "Toolkit-specific Remotion patterns — custom transitions, shared components, and project conventions. For core Remotion framework knowledge (hooks, animations, rendering, etc.), see the `remotion-official` skill.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

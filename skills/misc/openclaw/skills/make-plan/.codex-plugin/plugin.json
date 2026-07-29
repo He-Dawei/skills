@@ -1,0 +1,18 @@
+{
+  "name": "make-plan",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "make-plan",
+    "shortDescription": "No description",
+    "longDescription": "No description",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "openalex",
+  "version": "1.0.0",
+  "description": "Use when the user asks about academic literature, research papers, scholarly works, authors, citatio",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "openalex",
+    "shortDescription": "Use when the user asks about academic literature, research papers, scholarly works, authors, citatio",
+    "longDescription": "Use when the user asks about academic literature, research papers, scholarly works, authors, citations, institutions, journals, or any academic metadata. Trigger when users want to search for papers, find author profiles, track citations, discover related works, or explore academic topics. Also use when users mention DOIs, ORCIDs, h-index, publication venues, or research metrics.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

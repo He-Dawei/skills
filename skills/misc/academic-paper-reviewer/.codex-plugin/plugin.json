@@ -1,0 +1,18 @@
+{
+  "name": "academic-paper-reviewer",
+  "version": "1.0.0",
+  "description": "Multi-perspective academic paper review with dynamic reviewer personas. Simulates 5 independent revi",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "academic-paper-reviewer",
+    "shortDescription": "Multi-perspective academic paper review with dynamic reviewer personas. Simulates 5 independent revi",
+    "longDescription": "Multi-perspective academic paper review with dynamic reviewer personas. Simulates 5 independent reviewers (EIC + 3 peer reviewers + Devil's Advocate) with field-specific expertise. Supports full review, re-review (verification), quick assessment, methodology focus, and Socratic guided modes. Triggers on: review paper, peer review, manuscript review, referee report, review my paper, critique paper, simulate review, editorial review.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

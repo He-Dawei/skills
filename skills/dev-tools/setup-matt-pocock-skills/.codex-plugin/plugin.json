@@ -1,0 +1,18 @@
+{
+  "name": "setup-matt-pocock-skills",
+  "version": "1.0.0",
+  "description": "Configure this repo for the engineering skills — set up its issue tracker, triage label vocabulary, ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "setup-matt-pocock-skills",
+    "shortDescription": "Configure this repo for the engineering skills — set up its issue tracker, triage label vocabulary, ",
+    "longDescription": "Configure this repo for the engineering skills — set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

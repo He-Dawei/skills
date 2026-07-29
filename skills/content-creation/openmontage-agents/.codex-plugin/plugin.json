@@ -1,0 +1,18 @@
+{
+  "name": "agents",
+  "version": "1.0.0",
+  "description": "Build voice AI agents with ElevenLabs. Use when creating voice assistants, customer service bots, in",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "agents",
+    "shortDescription": "Build voice AI agents with ElevenLabs. Use when creating voice assistants, customer service bots, in",
+    "longDescription": "Build voice AI agents with ElevenLabs. Use when creating voice assistants, customer service bots, interactive voice characters, or any real-time voice conversation experience.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

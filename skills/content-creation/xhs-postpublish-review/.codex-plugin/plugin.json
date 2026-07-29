@@ -1,0 +1,18 @@
+{
+  "name": "xhs-postpublish-review",
+  "version": "1.0.0",
+  "description": "Lingzao lightweight XHS post-publish review Skill for Xiaohongshu data review using the note link, b",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "xhs-postpublish-review",
+    "shortDescription": "Lingzao lightweight XHS post-publish review Skill for Xiaohongshu data review using the note link, b",
+    "longDescription": "Lingzao lightweight XHS post-publish review Skill for Xiaohongshu data review using the note link, backend screenshots, title, cover, script, caption, 24-hour data, 48-hour data, or 7-day data. Diagnose exposure, click, read/completion, retention, saves, comments, shares, and follow conversion. Use for lingzao xhs postpublish review, Xiaohongshu data analysis, 发布后复盘, 小红书数据复盘, 后台截图分析, 24小时复盘, or 为什么这条数据不好.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cjl-paper-flow",
+  "version": "1.0.0",
+  "description": "Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs,",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cjl-paper-flow",
+    "shortDescription": "Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs,",
+    "longDescription": "Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs, or paper names. For each paper, runs cjl-paper (generates org analysis) then cjl-card -l (generates long reading card PNG). Use when user says '论文流', 'paper flow', '读论文并做卡片', '论文卡片', or provides multiple papers wanting both analysis and cards.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

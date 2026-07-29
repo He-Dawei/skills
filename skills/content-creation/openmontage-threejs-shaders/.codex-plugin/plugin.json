@@ -1,0 +1,18 @@
+{
+  "name": "threejs-shaders",
+  "version": "1.0.0",
+  "description": "Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual e",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "threejs-shaders",
+    "shortDescription": "Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual e",
+    "longDescription": "Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

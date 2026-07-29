@@ -1,0 +1,18 @@
+{
+  "name": "paper-revision",
+  "version": "1.0.0",
+  "description": "Revise papers based on reviewer feedback. Map reviewer concerns to specific sections, apply targeted",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-revision",
+    "shortDescription": "Revise papers based on reviewer feedback. Map reviewer concerns to specific sections, apply targeted",
+    "longDescription": "Revise papers based on reviewer feedback. Map reviewer concerns to specific sections, apply targeted edits, run additional experiments if needed, and verify improvements. Use after receiving peer review with revision requests.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

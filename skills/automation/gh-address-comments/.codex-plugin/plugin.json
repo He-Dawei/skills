@@ -1,0 +1,18 @@
+{
+  "name": "gh-address-comments",
+  "version": "1.0.0",
+  "description": "Address actionable GitHub pull request review feedback. Use when the user wants to inspect unresolve",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "gh-address-comments",
+    "shortDescription": "Address actionable GitHub pull request review feedback. Use when the user wants to inspect unresolve",
+    "longDescription": "Address actionable GitHub pull request review feedback. Use when the user wants to inspect unresolved review threads, requested changes, or inline review comments on a PR, then implement selected fixes. Use the GitHub app for PR metadata and flat comment reads, and use the bundled GraphQL script via `gh` whenever thread-level state, resolution status, or inline review context matters.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

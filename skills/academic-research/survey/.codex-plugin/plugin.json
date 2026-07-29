@@ -1,0 +1,18 @@
+{
+  "name": "survey",
+  "version": "1.0.0",
+  "description": "对一个研究主题做快速背景调研——找 SOTA、benchmark、常见方法、gap，产出结构化 Markdown survey 供 /idea 或 /research 引用。不做完整文献综述，只做\"够",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "survey",
+    "shortDescription": "对一个研究主题做快速背景调研——找 SOTA、benchmark、常见方法、gap，产出结构化 Markdown survey 供 /idea 或 /research 引用。不做完整文献综述，只做\"够",
+    "longDescription": "对一个研究主题做快速背景调研——找 SOTA、benchmark、常见方法、gap，产出结构化 Markdown survey 供 /idea 或 /research 引用。不做完整文献综述，只做\"够用的坐标系\"（15-20 分钟级别的摸底），3-8 条高信号来源即止。默认中文。 | Quick background survey for a research topic — finds SOTA / benchmarks / method families / gaps from 3-8 sources, produces a structured markdown survey to inform /idea or /research. Not a full lit review.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

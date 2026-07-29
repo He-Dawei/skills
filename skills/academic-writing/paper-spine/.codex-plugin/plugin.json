@@ -1,0 +1,18 @@
+{
+  "name": "paper-spine",
+  "version": "1.0.0",
+  "description": "Write, rewrite, or build a paper or report (journal, conference, report, review, competition) end to",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-spine",
+    "shortDescription": "Write, rewrite, or build a paper or report (journal, conference, report, review, competition) end to",
+    "longDescription": "Write, rewrite, or build a paper or report (journal, conference, report, review, competition) end to end, then output LaTeX/PDF/Word. The main PaperSpine entry point that orchestrates every step.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

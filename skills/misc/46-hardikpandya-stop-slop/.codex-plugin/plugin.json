@@ -1,0 +1,18 @@
+{
+  "name": "stop-slop",
+  "version": "1.0.0",
+  "description": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate pr",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "stop-slop",
+    "shortDescription": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate pr",
+    "longDescription": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

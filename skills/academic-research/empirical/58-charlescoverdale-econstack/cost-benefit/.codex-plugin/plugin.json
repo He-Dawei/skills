@@ -1,0 +1,18 @@
+{
+  "name": "cost-benefit",
+  "version": "1.0.0",
+  "description": "Cost-benefit analysis. Produces economic NPV and financial NPV side by side, with BCR, optimism bias",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cost-benefit",
+    "shortDescription": "Cost-benefit analysis. Produces economic NPV and financial NPV side by side, with BCR, optimism bias",
+    "longDescription": "Cost-benefit analysis. Produces economic NPV and financial NPV side by side, with BCR, optimism bias (with mitigation), Marginal Excess Tax Burden, real-terms rebasing, WELLBY / QALY / VPF wellbeing valuation, sensitivity, switching values, EANC for unequal-life options, validation gate, and a one-line headline verdict (socially worthwhile vs financially self-sustaining). Backed by the greenbook R package (HM Treasury Green Book primitives) when available, with graceful fallback. Supports HMT Green Book, EU Better Regulation, World Bank, ADB, and Victorian HVHR. Reads a longlist markdown file directly via --from.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

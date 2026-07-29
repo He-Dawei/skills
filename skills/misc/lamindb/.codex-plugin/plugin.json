@@ -1,0 +1,18 @@
+{
+  "name": "lamindb",
+  "version": "1.0.0",
+  "description": "Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "lamindb",
+    "shortDescription": "Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and ",
+    "longDescription": "Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and models. Covers setup, artifact registration, query/search, lineage tracking, validation, ontology-backed annotation with Bionty, collections, branches, storage, and workflow integrations.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

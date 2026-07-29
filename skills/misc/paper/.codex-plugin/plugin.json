@@ -1,0 +1,18 @@
+{
+  "name": "paper",
+  "version": "1.0.0",
+  "description": "把一个用 /research 启动的项目的 state/ 目录（research_log、lessons、best 分数、manifest）变成结构化的 Markdown 研究报告。在 cwd 或给定",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper",
+    "shortDescription": "把一个用 /research 启动的项目的 state/ 目录（research_log、lessons、best 分数、manifest）变成结构化的 Markdown 研究报告。在 cwd 或给定",
+    "longDescription": "把一个用 /research 启动的项目的 state/ 目录（research_log、lessons、best 分数、manifest）变成结构化的 Markdown 研究报告。在 cwd 或给定目录里识别 state/，抽取时间线 / 进展表 / lessons 分类 / 瓶颈分析，生成可直接 GitHub 渲染的 MD。不生成 LaTeX、不写代码、不做新实验。 | Generate a Markdown research report from an existing /research project's state/ directory (log, lessons, best scores, manifest).",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

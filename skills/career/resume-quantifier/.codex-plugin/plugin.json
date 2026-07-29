@@ -1,0 +1,18 @@
+{
+  "name": "resume-quantifier",
+  "version": "1.0.0",
+  "description": "Find opportunities to add metrics and estimate numbers when exact data unavailable",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "resume-quantifier",
+    "shortDescription": "Find opportunities to add metrics and estimate numbers when exact data unavailable",
+    "longDescription": "Find opportunities to add metrics and estimate numbers when exact data unavailable",
+    "category": "career",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

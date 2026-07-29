@@ -1,0 +1,18 @@
+{
+  "name": "nature-paper-to-patent",
+  "version": "1.0.0",
+  "description": "Convert scientific papers, theses, technical reports, source code, figures, or research manuscripts ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "nature-paper-to-patent",
+    "shortDescription": "Convert scientific papers, theses, technical reports, source code, figures, or research manuscripts ",
+    "longDescription": "Convert scientific papers, theses, technical reports, source code, figures, or research manuscripts into evidence-grounded Chinese invention patent drafts. Use when an AI agent must extract patentable technical contributions, map every claimed feature to source evidence, preserve core formulas as editable Office Math, generate claim-aligned flowcharts and methodology figures, compare a paper with an existing patent, audit support and consistency, or deliver separate Chinese DOCX files for claims, specification, abstract, and abstract figure.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

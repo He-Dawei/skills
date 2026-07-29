@@ -1,0 +1,18 @@
+{
+  "name": "writing-plans",
+  "version": "1.0.0",
+  "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "writing-plans",
+    "shortDescription": "Use when you have a spec or requirements for a multi-step task, before touching code",
+    "longDescription": "Use when you have a spec or requirements for a multi-step task, before touching code",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

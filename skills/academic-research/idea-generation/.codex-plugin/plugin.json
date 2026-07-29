@@ -1,0 +1,18 @@
+{
+  "name": "idea-generation",
+  "version": "1.0.0",
+  "description": "Generate novel research ideas with iterative refinement and novelty checking against literature. Sco",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "idea-generation",
+    "shortDescription": "Generate novel research ideas with iterative refinement and novelty checking against literature. Sco",
+    "longDescription": "Generate novel research ideas with iterative refinement and novelty checking against literature. Score ideas on Interestingness, Feasibility, and Novelty. Use when brainstorming research directions or validating idea novelty.",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

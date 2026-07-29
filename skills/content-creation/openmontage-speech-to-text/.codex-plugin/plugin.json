@@ -1,0 +1,18 @@
+{
+  "name": "speech-to-text",
+  "version": "1.0.0",
+  "description": "Transcribe audio to text using ElevenLabs Scribe v2. Use when converting audio/video to text, genera",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "speech-to-text",
+    "shortDescription": "Transcribe audio to text using ElevenLabs Scribe v2. Use when converting audio/video to text, genera",
+    "longDescription": "Transcribe audio to text using ElevenLabs Scribe v2. Use when converting audio/video to text, generating subtitles, transcribing meetings, or processing spoken content.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

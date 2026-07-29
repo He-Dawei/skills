@@ -1,0 +1,18 @@
+{
+  "name": "econ-audit",
+  "version": "1.0.0",
+  "description": "Audit economic analysis outputs (fiscal briefings, macro briefings, market research, longlists, and ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "econ-audit",
+    "shortDescription": "Audit economic analysis outputs (fiscal briefings, macro briefings, market research, longlists, and ",
+    "longDescription": "Audit economic analysis outputs (fiscal briefings, macro briefings, market research, longlists, and other quantitative economic documents) against methodology standards, academic literature, and common errors. Runs structured checks across core categories including counterfactual, additionality, discounting, double counting, distributional analysis, Aqua Book RIGOUR, and Flyvbjerg-style strategic misrepresentation detection. Returns a RAG scorecard with issues ranked by severity.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

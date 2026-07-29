@@ -1,0 +1,18 @@
+{
+  "name": "paper-spine-research",
+  "version": "1.0.0",
+  "description": "Researches target requirements, downloads reference materials, learns strong examples, and prepares ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-spine-research",
+    "shortDescription": "Researches target requirements, downloads reference materials, learns strong examples, and prepares ",
+    "longDescription": "Researches target requirements, downloads reference materials, learns strong examples, and prepares motivation options. (internal /paperspine step)",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

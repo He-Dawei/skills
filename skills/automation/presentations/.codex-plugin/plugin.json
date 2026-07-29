@@ -1,0 +1,18 @@
+{
+  "name": "Presentations",
+  "version": "1.0.0",
+  "description": "Create or edit PowerPoint or Google Slides decks",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "Presentations",
+    "shortDescription": "Create or edit PowerPoint or Google Slides decks",
+    "longDescription": "Create or edit PowerPoint or Google Slides decks",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

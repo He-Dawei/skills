@@ -1,0 +1,18 @@
+{
+  "name": "paper-assembly",
+  "version": "1.0.0",
+  "description": "Orchestrate the full paper pipeline end-to-end. Manage state propagation between phases (literature ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "paper-assembly",
+    "shortDescription": "Orchestrate the full paper pipeline end-to-end. Manage state propagation between phases (literature ",
+    "longDescription": "Orchestrate the full paper pipeline end-to-end. Manage state propagation between phases (literature → plan → code → experiments → figures → tables → writing → review), support checkpointing and resumption. Use for assembling a complete paper from components.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

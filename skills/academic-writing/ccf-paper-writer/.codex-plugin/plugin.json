@@ -1,0 +1,18 @@
+{
+  "name": "ccf-paper-writer",
+  "version": "1.0.0",
+  "description": "Plan, draft, revise, polish, compress, and presentation-adapt CCF research paper text while preservi",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ccf-paper-writer",
+    "shortDescription": "Plan, draft, revise, polish, compress, and presentation-adapt CCF research paper text while preservi",
+    "longDescription": "Plan, draft, revise, polish, compress, and presentation-adapt CCF research paper text while preserving user-supplied idea scope and evidence. Use for paper writing, abstract/introduction/related work/method/experiment writing, polishing, page/word compression, slides/poster/talk/Q&A preparation, 润色论文, 写作, 压缩论文, 报告展示. Do not perform full review, evidence audit, submission-package checks, or rebuttal as the main task.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

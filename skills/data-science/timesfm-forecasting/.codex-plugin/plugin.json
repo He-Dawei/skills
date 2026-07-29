@@ -1,0 +1,18 @@
+{
+  "name": "timesfm-forecasting",
+  "version": "1.0.0",
+  "description": "Zero-shot time series forecasting with Google's TimesFM foundation model. Use for any univariate tim",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "timesfm-forecasting",
+    "shortDescription": "Zero-shot time series forecasting with Google's TimesFM foundation model. Use for any univariate tim",
+    "longDescription": "Zero-shot time series forecasting with Google's TimesFM foundation model. Use for any univariate time series (sales, sensors, energy, vitals, weather) without training a custom model. Supports CSV/DataFrame/array inputs with point forecasts and prediction intervals. Includes a preflight system checker script to verify RAM/GPU before first use.",
+    "category": "data-science",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

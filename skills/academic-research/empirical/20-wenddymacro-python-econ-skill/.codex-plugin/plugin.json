@@ -1,0 +1,18 @@
+{
+  "name": "python-econ-computing",
+  "version": "1.0.0",
+  "description": "Use when writing Python code for DSGE models, HANK models, numerical economic computation, causal in",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "python-econ-computing",
+    "shortDescription": "Use when writing Python code for DSGE models, HANK models, numerical economic computation, causal in",
+    "longDescription": "Use when writing Python code for DSGE models, HANK models, numerical economic computation, causal inference, or quantitative economic data analysis",
+    "category": "academic-research",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

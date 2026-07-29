@@ -1,0 +1,18 @@
+{
+  "name": "cjl-word-flow",
+  "version": "1.0.0",
+  "description": "Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cjl-word-flow",
+    "shortDescription": "Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs",
+    "longDescription": "Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs cjl-word (generates deep semantics analysis) then cjl-card -i (generates infograph PNG). Use when user says '词卡', 'word card', 'word flow', or provides English words wanting both analysis and visual card.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

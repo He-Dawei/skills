@@ -1,0 +1,18 @@
+{
+  "name": "notebooklm-research",
+  "version": "1.0.0",
+  "description": "Full-autopilot AI research agent powered by Google NotebookLM (notebooklm-py v0.3.4). Ingests source",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "notebooklm-research",
+    "shortDescription": "Full-autopilot AI research agent powered by Google NotebookLM (notebooklm-py v0.3.4). Ingests source",
+    "longDescription": "Full-autopilot AI research agent powered by Google NotebookLM (notebooklm-py v0.3.4). Ingests sources (URL, text, PDF, DOCX, YouTube, Google Drive), runs deep web research, asks cited questions, and generates 10 native artifact types (audio podcast, video, cinematic video, slide deck, report, quiz, flashcards, mind map, infographic, data table, study guide). Produces original content drafts via Claude, with optional publishing to social platforms via threads-viral-agent integration. Use this skill when the user mentions: NotebookLM, research with sources, create notebook, generate podcast from articles, turn research into content, trending topic research, research pipeline, source-based analysis, cited research answers, generate slides, generate quiz, make flashcards, deep web research, create infographic, compare sources, research report, study guide, source analysis, or knowledge synthesis.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

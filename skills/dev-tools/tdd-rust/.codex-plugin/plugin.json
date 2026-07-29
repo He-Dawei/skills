@@ -1,0 +1,18 @@
+{
+  "name": "tdd-rust",
+  "version": "1.0.0",
+  "description": "TDD workflow for RTK filter development. Red-Green-Refactor with Rust idioms. Real fixtures, token s",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "tdd-rust",
+    "shortDescription": "TDD workflow for RTK filter development. Red-Green-Refactor with Rust idioms. Real fixtures, token s",
+    "longDescription": "TDD workflow for RTK filter development. Red-Green-Refactor with Rust idioms. Real fixtures, token savings assertions, snapshot tests with insta. Auto-triggers on new filter implementation.",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

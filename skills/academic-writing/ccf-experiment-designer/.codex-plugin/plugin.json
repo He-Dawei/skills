@@ -1,0 +1,18 @@
+{
+  "name": "ccf-experiment-designer",
+  "version": "1.0.0",
+  "description": "Design CCF paper evidence packages: datasets, baselines, metrics, ablations, robustness tests, resul",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ccf-experiment-designer",
+    "shortDescription": "Design CCF paper evidence packages: datasets, baselines, metrics, ablations, robustness tests, resul",
+    "longDescription": "Design CCF paper evidence packages: datasets, baselines, metrics, ablations, robustness tests, result-table templates, and real-result figure/table presentation. Use for experiment design, benchmark planning, baseline selection, ablation design, result tables, publication figures from supplied numbers, 设计实验, 对比实验, 消融, 结果图表. Do not invent results.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

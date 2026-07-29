@@ -1,0 +1,18 @@
+{
+  "name": "artifact-template-design-report",
+  "version": "1.0.0",
+  "description": "Create a document using the Design Report template and its retained reference file. Use when the use",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "artifact-template-design-report",
+    "shortDescription": "Create a document using the Design Report template and its retained reference file. Use when the use",
+    "longDescription": "Create a document using the Design Report template and its retained reference file. Use when the user selects or names Design Report. Produce design reports with an executive summary, key findings, implications, recommendations, and appendix.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

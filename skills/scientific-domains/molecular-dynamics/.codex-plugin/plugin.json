@@ -1,0 +1,18 @@
+{
+  "name": "molecular-dynamics",
+  "version": "1.0.0",
+  "description": "Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis. Set up protein/small mole",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "molecular-dynamics",
+    "shortDescription": "Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis. Set up protein/small mole",
+    "longDescription": "Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis. Set up protein/small molecule systems, define force fields, run energy minimization and production MD, analyze trajectories (RMSD, RMSF, contact maps, free energy surfaces). For structural biology, drug binding, and biophysics.",
+    "category": "scientific-domains",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}
