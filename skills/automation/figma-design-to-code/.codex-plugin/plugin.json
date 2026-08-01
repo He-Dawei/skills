@@ -1,7 +1,7 @@
 {
   "name": "figma-design-to-code",
   "version": "1.0.0",
-  "description": "Use this skill when implementing a Figma design as code (design → code) — the read-FROM-Figma direct",
+  "description": "\"Use this skill when implementing a Figma design as code (design → code) — the read-FROM-Figma direc",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "figma-design-to-code",
-    "shortDescription": "Use this skill when implementing a Figma design as code (design → code) — the read-FROM-Figma direct",
-    "longDescription": "Use this skill when implementing a Figma design as code (design → code) — the read-FROM-Figma direction. Triggers: 'implement this Figma design', 'build this screen from Figma', 'turn this Figma into code', 'code this up from Figma', 'design to code', or a figma.com design URL provided alongside a codebase. Encodes the workflow for reading a node out of Figma with get_design_context and adapting its reference output to the target project — reusing existing components, tokens, and conventions, and honoring Code Connect mappings, component docs, design annotations, and design tokens by priority. Complements figma-code-connect (component mapping) and figma-generate-design / figma-use (the reverse, code → design direction).",
+    "shortDescription": "\"Use this skill when implementing a Figma design as code (design → code) — the read-FROM-Figma direc",
+    "longDescription": "\"Use this skill when implementing a Figma design as code (design → code) — the read-FROM-Figma direction. Triggers: 'implement this Figma design', 'build this screen from Figma', 'turn this Figma into code', 'code this up from Figma', 'design to code', or a figma.com design URL provided alongside a codebase. Encodes the workflow for reading a node out of Figma with get_design_context and adapting its reference output to the target project — reusing existing components, tokens, and conventions, and honoring Code Connect mappings, component docs, design annotations, and design tokens by priority. Complements figma-code-connect (component mapping) and figma-generate-design / figma-use (the reverse, code → design direction).\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

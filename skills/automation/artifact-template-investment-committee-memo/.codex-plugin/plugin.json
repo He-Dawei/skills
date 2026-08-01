@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-investment-committee-memo",
   "version": "1.0.0",
-  "description": "Create a document using the Investment Committee Memo template and its retained reference file. Use ",
+  "description": "\"Create a document using the Investment Committee Memo template and its retained reference file. Use",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-investment-committee-memo",
-    "shortDescription": "Create a document using the Investment Committee Memo template and its retained reference file. Use ",
-    "longDescription": "Create a document using the Investment Committee Memo template and its retained reference file. Use when the user selects or names Investment Committee Memo. Prepare investment committee memos with the thesis, transaction details, financial analysis, risks, and recommendation.",
+    "shortDescription": "\"Create a document using the Investment Committee Memo template and its retained reference file. Use",
+    "longDescription": "\"Create a document using the Investment Committee Memo template and its retained reference file. Use when the user selects or names Investment Committee Memo. Prepare investment committee memos with the thesis, transaction details, financial analysis, risks, and recommendation.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

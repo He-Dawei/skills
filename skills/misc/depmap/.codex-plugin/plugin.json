@@ -1,0 +1,18 @@
+{
+  "name": "depmap",
+  "version": "1.0.0",
+  "description": "Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "depmap",
+    "shortDescription": "Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos",
+    "longDescription": "Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos), drug sensitivity data, and gene effect profiles. Use for identifying cancer-specific vulnerabilities, synthetic lethal interactions, and validating oncology drug targets.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

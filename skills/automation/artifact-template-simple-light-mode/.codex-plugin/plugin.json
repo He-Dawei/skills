@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-simple-light-mode",
   "version": "1.0.0",
-  "description": "Create a presentation using the Simple Light Mode template and its retained reference file. Use when",
+  "description": "\"Create a presentation using the Simple Light Mode template and its retained reference file. Use whe",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-simple-light-mode",
-    "shortDescription": "Create a presentation using the Simple Light Mode template and its retained reference file. Use when",
-    "longDescription": "Create a presentation using the Simple Light Mode template and its retained reference file. Use when the user selects or names Simple Light Mode. Create clean light-mode presentations with spacious typography, simple sections, charts, and imagery.",
+    "shortDescription": "\"Create a presentation using the Simple Light Mode template and its retained reference file. Use whe",
+    "longDescription": "\"Create a presentation using the Simple Light Mode template and its retained reference file. Use when the user selects or names Simple Light Mode. Create clean light-mode presentations with spacious typography, simple sections, charts, and imagery.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

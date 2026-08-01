@@ -1,7 +1,7 @@
 {
   "name": "paper-comic",
   "version": "1.0.0",
-  "description": "论文方法图解——用视觉图解彻底讲清楚一篇论文到底做了什么、怎么做的。\n自动分析论文核心方法，先推荐封面/概述图/机制细节图的生成方案，必须由用户确认范围、张数、语言、风格后再生成。\n支持温暖笔记风和论",
+  "description": "|",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "paper-comic",
-    "shortDescription": "论文方法图解——用视觉图解彻底讲清楚一篇论文到底做了什么、怎么做的。\n自动分析论文核心方法，先推荐封面/概述图/机制细节图的生成方案，必须由用户确认范围、张数、语言、风格后再生成。\n支持温暖笔记风和论",
-    "longDescription": "论文方法图解——用视觉图解彻底讲清楚一篇论文到底做了什么、怎么做的。\n自动分析论文核心方法，先推荐封面/概述图/机制细节图的生成方案，必须由用户确认范围、张数、语言、风格后再生成。\n支持温暖笔记风和论文框架图风。",
+    "shortDescription": "|",
+    "longDescription": "|",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

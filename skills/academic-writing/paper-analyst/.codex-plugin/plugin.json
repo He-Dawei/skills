@@ -1,7 +1,7 @@
 {
   "name": "paper-analyst",
   "version": "1.0.0",
-  "description": "论文分析师 (Paper Analyst) — 负责精读论文、提取方法细节、构建对比表。 当被研究主管或文献侦查员指派分析论文时激活。对 Top 20 核心论文进行结构化分析， 生成论文分析卡片和跨论",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "paper-analyst",
-    "shortDescription": "论文分析师 (Paper Analyst) — 负责精读论文、提取方法细节、构建对比表。 当被研究主管或文献侦查员指派分析论文时激活。对 Top 20 核心论文进行结构化分析， 生成论文分析卡片和跨论",
-    "longDescription": "论文分析师 (Paper Analyst) — 负责精读论文、提取方法细节、构建对比表。 当被研究主管或文献侦查员指派分析论文时激活。对 Top 20 核心论文进行结构化分析， 生成论文分析卡片和跨论文对比表。\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

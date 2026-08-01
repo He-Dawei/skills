@@ -1,7 +1,7 @@
 {
   "name": "hypothesis-generation",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: hypothesis-generation",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "hypothesis-generation",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: hypothesis-generation",
+    "longDescription": "Skill: hypothesis-generation",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

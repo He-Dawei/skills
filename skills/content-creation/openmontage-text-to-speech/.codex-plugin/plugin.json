@@ -1,7 +1,7 @@
 {
   "name": "text-to-speech",
   "version": "1.0.0",
-  "description": "Generate speech audio from text using HeyGen's Starfish TTS model. Use when: (1) Generating standalo",
+  "description": "|",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "text-to-speech",
-    "shortDescription": "Generate speech audio from text using HeyGen's Starfish TTS model. Use when: (1) Generating standalo",
-    "longDescription": "Generate speech audio from text using HeyGen's Starfish TTS model. Use when: (1) Generating standalone speech audio files from text, (2) Converting text to speech with voice selection, speed, and pitch control, (3) Creating audio for voiceovers, narration, or podcasts, (4) Working with HeyGen's /v1/audio endpoints, (5) Listing available TTS voices by language or gender.\n",
+    "shortDescription": "|",
+    "longDescription": "|",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

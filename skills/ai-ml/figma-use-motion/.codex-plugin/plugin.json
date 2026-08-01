@@ -1,7 +1,7 @@
 {
   "name": "figma-use-motion",
   "version": "1.0.0",
-  "description": "Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframes",
+  "description": "\"Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframe",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "figma-use-motion",
-    "shortDescription": "Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframes",
-    "longDescription": "Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframes, animation styles, easing, and timeline duration. Load alongside figma-use whenever a task involves adding, editing, or inspecting animation on a node.",
+    "shortDescription": "\"Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframe",
+    "longDescription": "\"Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframes, animation styles, easing, and timeline duration. Load alongside figma-use whenever a task involves adding, editing, or inspecting animation on a node.\"",
     "category": "ai-ml",
     "capabilities": [],
     "developerName": "Shared Skills"

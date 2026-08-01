@@ -1,0 +1,18 @@
+{
+  "name": "grill-with-docs",
+  "version": "1.0.0",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "grill-with-docs",
+    "shortDescription": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as ",
+    "longDescription": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

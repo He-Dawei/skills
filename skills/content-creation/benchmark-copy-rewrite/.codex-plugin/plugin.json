@@ -1,7 +1,7 @@
 {
   "name": "benchmark-copy-rewrite",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Lingzao lightweight benchmark copy rewrite Skill for XHS and Xiaohongshu content imitation without c",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "benchmark-copy-rewrite",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Lingzao lightweight benchmark copy rewrite Skill for XHS and Xiaohongshu content imitation without c",
+    "longDescription": "Lingzao lightweight benchmark copy rewrite Skill for XHS and Xiaohongshu content imitation without copying: extract a reusable writing template from benchmark copy, viral captions, sales scripts, or fixed frameworks, then fill in the user's own topic, product, account direction, audience, city, case, and proof. Use for lingzao benchmark copy rewrite, xhs copywriting template, 对标文案仿写, 套框架, 固定框架填充, 风格差不多, or 按这个模板写.",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

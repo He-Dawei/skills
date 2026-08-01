@@ -1,0 +1,18 @@
+{
+  "name": "shannon",
+  "version": "1.0.0",
+  "description": "AI pentester for web apps. Use when user asks about security testing, vulnerability scanning, penetr",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "shannon",
+    "shortDescription": "AI pentester for web apps. Use when user asks about security testing, vulnerability scanning, penetr",
+    "longDescription": "AI pentester for web apps. Use when user asks about security testing, vulnerability scanning, penetration testing, or code security audit.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

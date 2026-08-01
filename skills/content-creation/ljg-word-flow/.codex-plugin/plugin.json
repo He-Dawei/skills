@@ -1,7 +1,7 @@
 {
   "name": "ljg-word-flow",
   "version": "1.0.0",
-  "description": "Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs",
+  "description": "\"Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, run",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ljg-word-flow",
-    "shortDescription": "Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs",
-    "longDescription": "Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs ljg-word (generates deep semantics analysis) then ljg-card -i (generates infograph PNG). Use when user says '词卡', 'word card', 'word flow', or provides English words wanting both analysis and visual card.",
+    "shortDescription": "\"Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, run",
+    "longDescription": "\"Word flow: deep-dive word analysis + infograph card in one go. Takes one or more English words, runs ljg-word (generates deep semantics analysis) then ljg-card -i (generates infograph PNG). Use when user says '词卡', 'word card', 'word flow', or provides English words wanting both analysis and visual card.\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

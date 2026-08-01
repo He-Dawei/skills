@@ -1,7 +1,7 @@
 {
   "name": "autoresearch",
   "version": "1.0.0",
-  "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+  "description": "\"Autonomous iteration loop: modify, verify, keep/discard against any metric\"",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "autoresearch",
-    "shortDescription": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
-    "longDescription": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+    "shortDescription": "\"Autonomous iteration loop: modify, verify, keep/discard against any metric\"",
+    "longDescription": "\"Autonomous iteration loop: modify, verify, keep/discard against any metric\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

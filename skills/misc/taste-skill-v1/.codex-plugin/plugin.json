@@ -1,0 +1,18 @@
+{
+  "name": "design-taste-frontend-v1",
+  "version": "1.0.0",
+  "description": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current def",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "design-taste-frontend-v1",
+    "shortDescription": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current def",
+    "longDescription": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current default is `design-taste-frontend` (v2 experimental), which is a substantial rewrite. Use this v1 install name only if you need exact backward compatibility.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

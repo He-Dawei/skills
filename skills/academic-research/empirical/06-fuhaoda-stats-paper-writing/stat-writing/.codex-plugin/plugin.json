@@ -1,7 +1,7 @@
 {
   "name": "stat-writing",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: stat-writing",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "stat-writing",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: stat-writing",
+    "longDescription": "Skill: stat-writing",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

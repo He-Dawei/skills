@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-system-design",
   "version": "1.0.0",
-  "description": "Create a document using the System Design template and its retained reference file. Use when the use",
+  "description": "\"Create a document using the System Design template and its retained reference file. Use when the us",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-system-design",
-    "shortDescription": "Create a document using the System Design template and its retained reference file. Use when the use",
-    "longDescription": "Create a document using the System Design template and its retained reference file. Use when the user selects or names System Design. Document system architecture, requirements, components, data flows, APIs, tradeoffs, and operational considerations.",
+    "shortDescription": "\"Create a document using the System Design template and its retained reference file. Use when the us",
+    "longDescription": "\"Create a document using the System Design template and its retained reference file. Use when the user selects or names System Design. Document system architecture, requirements, components, data flows, APIs, tradeoffs, and operational considerations.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

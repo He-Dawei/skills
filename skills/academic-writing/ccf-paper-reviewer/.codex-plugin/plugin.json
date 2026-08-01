@@ -1,7 +1,7 @@
 {
   "name": "ccf-paper-reviewer",
   "version": "1.0.0",
-  "description": "Review CCF/target-venue manuscripts end to end: scientific novelty, soundness, evidence, simulated r",
+  "description": "\"Review CCF/target-venue manuscripts end to end: scientific novelty, soundness, evidence, simulated ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-paper-reviewer",
-    "shortDescription": "Review CCF/target-venue manuscripts end to end: scientific novelty, soundness, evidence, simulated r",
-    "longDescription": "Review CCF/target-venue manuscripts end to end: scientific novelty, soundness, evidence, simulated reviewers, AC/meta-review, score risk, writing logic, paragraph clarity, LaTeX/format presentation, and reviewer-facing revision actions. Use for paper review, scientific review, writing review, format review, 审稿, 模拟审稿, 论文评分, 写作评审, 逐段评审, LaTeX检查. Do not rewrite the manuscript as the main task and do not write rebuttals.",
+    "shortDescription": "\"Review CCF/target-venue manuscripts end to end: scientific novelty, soundness, evidence, simulated ",
+    "longDescription": "\"Review CCF/target-venue manuscripts end to end: scientific novelty, soundness, evidence, simulated reviewers, AC/meta-review, score risk, writing logic, paragraph clarity, LaTeX/format presentation, and reviewer-facing revision actions. Use for paper review, scientific review, writing review, format review, 审稿, 模拟审稿, 论文评分, 写作评审, 逐段评审, LaTeX检查. Do not rewrite the manuscript as the main task and do not write rebuttals.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

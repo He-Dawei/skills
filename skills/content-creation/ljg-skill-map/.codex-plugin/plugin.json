@@ -1,7 +1,7 @@
 {
   "name": "ljg-skill-map",
   "version": "1.0.0",
-  "description": "Skill map viewer. Scans all installed skills and renders a visual overview — name, version, descript",
+  "description": "\"Skill map viewer. Scans all installed skills and renders a visual overview — name, version, descrip",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ljg-skill-map",
-    "shortDescription": "Skill map viewer. Scans all installed skills and renders a visual overview — name, version, descript",
-    "longDescription": "Skill map viewer. Scans all installed skills and renders a visual overview — name, version, description, category at a glance. Use when user says 'skills', '技能', '技能地图', 'skill map', '我有哪些技能', '看看技能', '列出技能', 'list skills'. Also trigger when user asks what skills are available or installed.",
+    "shortDescription": "\"Skill map viewer. Scans all installed skills and renders a visual overview — name, version, descrip",
+    "longDescription": "\"Skill map viewer. Scans all installed skills and renders a visual overview — name, version, description, category at a glance. Use when user says 'skills', '技能', '技能地图', 'skill map', '我有哪些技能', '看看技能', '列出技能', 'list skills'. Also trigger when user asks what skills are available or installed.\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

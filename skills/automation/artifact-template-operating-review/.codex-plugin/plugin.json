@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-operating-review",
   "version": "1.0.0",
-  "description": "Create a presentation using the Operating Review template and its retained reference file. Use when ",
+  "description": "\"Create a presentation using the Operating Review template and its retained reference file. Use when",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-operating-review",
-    "shortDescription": "Create a presentation using the Operating Review template and its retained reference file. Use when ",
-    "longDescription": "Create a presentation using the Operating Review template and its retained reference file. Use when the user selects or names Operating Review. Run weekly operating reviews with scorecards, functional updates, risks, decisions, and action items.",
+    "shortDescription": "\"Create a presentation using the Operating Review template and its retained reference file. Use when",
+    "longDescription": "\"Create a presentation using the Operating Review template and its retained reference file. Use when the user selects or names Operating Review. Run weekly operating reviews with scorecards, functional updates, risks, decisions, and action items.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

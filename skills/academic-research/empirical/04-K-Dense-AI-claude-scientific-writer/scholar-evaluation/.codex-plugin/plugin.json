@@ -1,7 +1,7 @@
 {
   "name": "scholar-evaluation",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: scholar-evaluation",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "scholar-evaluation",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: scholar-evaluation",
+    "longDescription": "Skill: scholar-evaluation",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

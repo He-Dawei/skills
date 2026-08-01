@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-financial-budget",
   "version": "1.0.0",
-  "description": "Create a spreadsheet using the Financial Budget template and its retained reference file. Use when t",
+  "description": "\"Create a spreadsheet using the Financial Budget template and its retained reference file. Use when ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-financial-budget",
-    "shortDescription": "Create a spreadsheet using the Financial Budget template and its retained reference file. Use when t",
-    "longDescription": "Create a spreadsheet using the Financial Budget template and its retained reference file. Use when the user selects or names Financial Budget. Model actuals, budget and scenario forecasts, variances, cash runway, and departmental plans.",
+    "shortDescription": "\"Create a spreadsheet using the Financial Budget template and its retained reference file. Use when ",
+    "longDescription": "\"Create a spreadsheet using the Financial Budget template and its retained reference file. Use when the user selects or names Financial Budget. Model actuals, budget and scenario forecasts, variances, cash runway, and departmental plans.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

@@ -1,7 +1,7 @@
 {
   "name": "causal-inference",
   "version": "1.0.0",
-  "description": "Production-grade Bayesian causal inference with PyMC, CausalPy, and DoWhy. Enforces DAG-first thinki",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "causal-inference",
-    "shortDescription": "Production-grade Bayesian causal inference with PyMC, CausalPy, and DoWhy. Enforces DAG-first thinki",
-    "longDescription": "Production-grade Bayesian causal inference with PyMC, CausalPy, and DoWhy. Enforces DAG-first thinking, mandatory user checkpoints for assumptions, design-specific refutation, and defensible reporting with causal language guardrails. Trigger on: causal inference, causal effect estimation, treatment effects, counterfactuals, difference-in-differences (DiD), synthetic control, regression discontinuity (RDD), interrupted time series (ITS), instrumental variables (IV), propensity scores, DAGs, causal graphs, confounders, backdoor criterion, do-calculus, interventional distributions, pm.do(), pm.observe(), CausalPy, DoWhy, mediation analysis, refutation, sensitivity analysis, parallel trends, placebo tests, or any question of the form \"does X cause Y\" or \"what is the effect of X on Y.\"\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

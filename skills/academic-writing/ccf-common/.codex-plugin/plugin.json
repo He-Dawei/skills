@@ -1,7 +1,7 @@
 {
   "name": "ccf-common",
   "version": "1.0.0",
-  "description": "Shared governance for the CCFA family: routing, trigger registry, task modes, handoff modes, source ",
+  "description": "\"Shared governance for the CCFA family: routing, trigger registry, task modes, handoff modes, source",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-common",
-    "shortDescription": "Shared governance for the CCFA family: routing, trigger registry, task modes, handoff modes, source ",
-    "longDescription": "Shared governance for the CCFA family: routing, trigger registry, task modes, handoff modes, source registry, privacy/evidence policy, ccfa.yaml, and artifact contracts. Use only when maintaining or auditing CCFA skills; not for ordinary research tasks.",
+    "shortDescription": "\"Shared governance for the CCFA family: routing, trigger registry, task modes, handoff modes, source",
+    "longDescription": "\"Shared governance for the CCFA family: routing, trigger registry, task modes, handoff modes, source registry, privacy/evidence policy, ccfa.yaml, and artifact contracts. Use only when maintaining or auditing CCFA skills; not for ordinary research tasks.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-business-review",
   "version": "1.0.0",
-  "description": "Create a presentation using the Business Review template and its retained reference file. Use when t",
+  "description": "\"Create a presentation using the Business Review template and its retained reference file. Use when ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-business-review",
-    "shortDescription": "Create a presentation using the Business Review template and its retained reference file. Use when t",
-    "longDescription": "Create a presentation using the Business Review template and its retained reference file. Use when the user selects or names Business Review. Review business performance, KPIs, segment results, strategic priorities, decisions, and outlook.",
+    "shortDescription": "\"Create a presentation using the Business Review template and its retained reference file. Use when ",
+    "longDescription": "\"Create a presentation using the Business Review template and its retained reference file. Use when the user selects or names Business Review. Review business performance, KPIs, segment results, strategic priorities, decisions, and outlook.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

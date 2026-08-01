@@ -1,7 +1,7 @@
 {
   "name": "frontend-testing-debugging",
   "version": "1.0.0",
-  "description": "Use when testing, debugging, or making targeted improvements to rendered frontend apps through the B",
+  "description": "\"Use when testing, debugging, or making targeted improvements to rendered frontend apps through the ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "frontend-testing-debugging",
-    "shortDescription": "Use when testing, debugging, or making targeted improvements to rendered frontend apps through the B",
-    "longDescription": "Use when testing, debugging, or making targeted improvements to rendered frontend apps through the Build Web Apps or web dev plugin: local dev servers, UI regressions, interaction bugs, console errors, responsive layout, and visual QA. Check whether the Browser plugin is available and use it first when it is; otherwise use regular Playwright with the recorded reason.",
+    "shortDescription": "\"Use when testing, debugging, or making targeted improvements to rendered frontend apps through the ",
+    "longDescription": "\"Use when testing, debugging, or making targeted improvements to rendered frontend apps through the Build Web Apps or web dev plugin: local dev servers, UI regressions, interaction bugs, console errors, responsive layout, and visual QA. Check whether the Browser plugin is available and use it first when it is; otherwise use regular Playwright with the recorded reason.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

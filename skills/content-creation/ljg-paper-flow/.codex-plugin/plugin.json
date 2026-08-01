@@ -1,7 +1,7 @@
 {
   "name": "ljg-paper-flow",
   "version": "1.0.0",
-  "description": "Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs,",
+  "description": "\"Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ljg-paper-flow",
-    "shortDescription": "Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs,",
-    "longDescription": "Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs, or paper names. For each paper, runs ljg-paper (generates org analysis) then ljg-card -v (generates visual sketchnote PNG). Use when user says '论文流', 'paper flow', '读论文并做卡片', '论文卡片', or provides multiple papers wanting both analysis and cards.",
+    "shortDescription": "\"Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs",
+    "longDescription": "\"Paper workflow: read papers + cast cards in one go. Takes one or more arxiv links, paper URLs, PDFs, or paper names. For each paper, runs ljg-paper (generates org analysis) then ljg-card -v (generates visual sketchnote PNG). Use when user says '论文流', 'paper flow', '读论文并做卡片', '论文卡片', or provides multiple papers wanting both analysis and cards.\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

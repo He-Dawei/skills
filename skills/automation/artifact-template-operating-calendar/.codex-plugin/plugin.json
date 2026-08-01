@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-operating-calendar",
   "version": "1.0.0",
-  "description": "Create a spreadsheet using the Operating Calendar template and its retained reference file. Use when",
+  "description": "\"Create a spreadsheet using the Operating Calendar template and its retained reference file. Use whe",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-operating-calendar",
-    "shortDescription": "Create a spreadsheet using the Operating Calendar template and its retained reference file. Use when",
-    "longDescription": "Create a spreadsheet using the Operating Calendar template and its retained reference file. Use when the user selects or names Operating Calendar. Plan annual and monthly operating milestones, campaigns, launches, deadlines, and recurring events.",
+    "shortDescription": "\"Create a spreadsheet using the Operating Calendar template and its retained reference file. Use whe",
+    "longDescription": "\"Create a spreadsheet using the Operating Calendar template and its retained reference file. Use when the user selects or names Operating Calendar. Plan annual and monthly operating milestones, campaigns, launches, deadlines, and recurring events.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

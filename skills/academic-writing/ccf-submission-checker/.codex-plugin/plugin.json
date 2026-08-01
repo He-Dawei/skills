@@ -1,7 +1,7 @@
 {
   "name": "ccf-submission-checker",
   "version": "1.0.0",
-  "description": "Check CCF conference submission readiness: venue LaTeX/template/page/anonymity/camera-ready rules, L",
+  "description": "\"Check CCF conference submission readiness: venue LaTeX/template/page/anonymity/camera-ready rules, ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-submission-checker",
-    "shortDescription": "Check CCF conference submission readiness: venue LaTeX/template/page/anonymity/camera-ready rules, L",
-    "longDescription": "Check CCF conference submission readiness: venue LaTeX/template/page/anonymity/camera-ready rules, LaTeX/PDF build, metadata, fonts, supplementary files, artifact/reproducibility package, code/data/model release plan, licenses, seeds, and policy freshness. Use for submission check, venue format, NeurIPS/CVPR/ICML template/page limit, artifact package, 投稿检查, 会议格式. Do not polish manuscript content.",
+    "shortDescription": "\"Check CCF conference submission readiness: venue LaTeX/template/page/anonymity/camera-ready rules, ",
+    "longDescription": "\"Check CCF conference submission readiness: venue LaTeX/template/page/anonymity/camera-ready rules, LaTeX/PDF build, metadata, fonts, supplementary files, artifact/reproducibility package, code/data/model release plan, licenses, seeds, and policy freshness. Use for submission check, venue format, NeurIPS/CVPR/ICML template/page limit, artifact package, 投稿检查, 会议格式. Do not polish manuscript content.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

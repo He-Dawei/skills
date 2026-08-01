@@ -1,7 +1,7 @@
 {
   "name": "infographics",
   "version": "1.0.0",
-  "description": "Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemi",
+  "description": "\"Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gem",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "infographics",
-    "shortDescription": "Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemi",
-    "longDescription": "Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemini 3 Pro for quality review. Integrates research-lookup and web search for accurate data. Supports 10 infographic types, 8 industry styles, and colorblind-safe palettes.",
+    "shortDescription": "\"Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gem",
+    "longDescription": "\"Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemini 3 Pro for quality review. Integrates research-lookup and web search for accurate data. Supports 10 infographic types, 8 industry styles, and colorblind-safe palettes.\"",
     "category": "visualization",
     "capabilities": [],
     "developerName": "Shared Skills"

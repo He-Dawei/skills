@@ -1,7 +1,7 @@
 {
   "name": "ccf-pipeline-orchestrator",
   "version": "1.0.0",
-  "description": "Plan and coordinate CCF paper-project stages, goals, constraints, success criteria, gates, artifacts",
+  "description": "\"Plan and coordinate CCF paper-project stages, goals, constraints, success criteria, gates, artifact",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-pipeline-orchestrator",
-    "shortDescription": "Plan and coordinate CCF paper-project stages, goals, constraints, success criteria, gates, artifacts",
-    "longDescription": "Plan and coordinate CCF paper-project stages, goals, constraints, success criteria, gates, artifacts, handoffs, and ccfa.yaml status across the CCFA family. Use for workflow planning, task decomposition, project status, stage gates, next-skill routing, 任务拆解, 流程规划. Do not perform downstream writing, review, search, experiment design, or rebuttal itself.",
+    "shortDescription": "\"Plan and coordinate CCF paper-project stages, goals, constraints, success criteria, gates, artifact",
+    "longDescription": "\"Plan and coordinate CCF paper-project stages, goals, constraints, success criteria, gates, artifacts, handoffs, and ccfa.yaml status across the CCFA family. Use for workflow planning, task decomposition, project status, stage gates, next-skill routing, 任务拆解, 流程规划. Do not perform downstream writing, review, search, experiment design, or rebuttal itself.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

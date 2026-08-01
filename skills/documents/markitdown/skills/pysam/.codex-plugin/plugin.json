@@ -1,0 +1,18 @@
+{
+  "name": "pysam",
+  "version": "1.0.0",
+  "description": "Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, e",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "pysam",
+    "shortDescription": "Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, e",
+    "longDescription": "Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, extract regions, calculate coverage, for NGS data processing pipelines.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

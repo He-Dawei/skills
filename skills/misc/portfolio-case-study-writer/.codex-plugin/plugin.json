@@ -1,0 +1,18 @@
+{
+  "name": "portfolio-case-study-writer",
+  "version": "1.0.0",
+  "description": "Transform resume bullets into detailed portfolio case studies",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "portfolio-case-study-writer",
+    "shortDescription": "Transform resume bullets into detailed portfolio case studies",
+    "longDescription": "Transform resume bullets into detailed portfolio case studies",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

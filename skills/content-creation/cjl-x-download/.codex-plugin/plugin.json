@@ -1,7 +1,7 @@
 {
   "name": "cjl-x-download",
   "version": "1.0.0",
-  "description": "Download images and videos from X (Twitter) posts to ~/Downloads. Use when user shares an X/Twitter ",
+  "description": "\"Download images and videos from X (Twitter) posts to ~/Downloads. Use when user shares an X/Twitter",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "cjl-x-download",
-    "shortDescription": "Download images and videos from X (Twitter) posts to ~/Downloads. Use when user shares an X/Twitter ",
-    "longDescription": "Download images and videos from X (Twitter) posts to ~/Downloads. Use when user shares an X/Twitter link and wants to save media, or says '下载', 'download', '保存图片', '保存视频', or provides a x.com/twitter.com URL with intent to download media.",
+    "shortDescription": "\"Download images and videos from X (Twitter) posts to ~/Downloads. Use when user shares an X/Twitter",
+    "longDescription": "\"Download images and videos from X (Twitter) posts to ~/Downloads. Use when user shares an X/Twitter link and wants to save media, or says '下载', 'download', '保存图片', '保存视频', or provides a x.com/twitter.com URL with intent to download media.\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

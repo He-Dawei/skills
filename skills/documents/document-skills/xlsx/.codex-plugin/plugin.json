@@ -1,7 +1,7 @@
 {
   "name": "xlsx",
   "version": "1.0.0",
-  "description": "Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization,",
+  "description": "\"Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "xlsx",
-    "shortDescription": "Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization,",
-    "longDescription": "Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization, recalculate formulas, for spreadsheet processing and analysis.",
+    "shortDescription": "\"Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization",
+    "longDescription": "\"Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization, recalculate formulas, for spreadsheet processing and analysis.\"",
     "category": "documents",
     "capabilities": [],
     "developerName": "Shared Skills"

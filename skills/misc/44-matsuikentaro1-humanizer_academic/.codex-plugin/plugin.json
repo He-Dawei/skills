@@ -1,7 +1,7 @@
 {
   "name": "humanizer_academic",
   "version": "1.0.0",
-  "description": "Remove signs of AI-generated writing from academic medical papers. Use when editing\nor reviewing man",
+  "description": "|",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "humanizer_academic",
-    "shortDescription": "Remove signs of AI-generated writing from academic medical papers. Use when editing\nor reviewing man",
-    "longDescription": "Remove signs of AI-generated writing from academic medical papers. Use when editing\nor reviewing manuscripts to make them sound more natural and professionally written.\nBased on Wikipedia's \"Signs of AI writing\" guide, adapted for medical literature.\nDetects and fixes patterns including: inflated significance claims, superficial\n-ing analyses, vague attributions, AI vocabulary words, copula avoidance,\nexcessive hedging, generic conclusions, informal word choices (linked/beyond/via/where/yield),\noverly assertive causal claims, and artificially condensed expressions.\nPreserves legitimate academic transitions (Notably, Prior studies have shown, etc.).\n",
+    "shortDescription": "|",
+    "longDescription": "|",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

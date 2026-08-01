@@ -1,7 +1,7 @@
 {
   "name": "getting-started",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: getting-started",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "getting-started",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: getting-started",
+    "longDescription": "Skill: getting-started",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

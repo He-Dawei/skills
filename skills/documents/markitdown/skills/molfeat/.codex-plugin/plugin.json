@@ -1,0 +1,18 @@
+{
+  "name": "molfeat",
+  "version": "1.0.0",
+  "description": "Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (Chem",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "molfeat",
+    "shortDescription": "Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (Chem",
+    "longDescription": "Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert SMILES to features, for QSAR and molecular ML.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

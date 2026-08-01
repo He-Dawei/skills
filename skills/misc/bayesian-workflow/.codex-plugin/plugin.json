@@ -1,7 +1,7 @@
 {
   "name": "bayesian-workflow",
   "version": "1.0.0",
-  "description": "Opinionated Bayesian modeling workflow with PyMC and ArviZ. Contains critical guardrails (nutpie sam",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "bayesian-workflow",
-    "shortDescription": "Opinionated Bayesian modeling workflow with PyMC and ArviZ. Contains critical guardrails (nutpie sam",
-    "longDescription": "Opinionated Bayesian modeling workflow with PyMC and ArviZ. Contains critical guardrails (nutpie sampler, prior/posterior predictive checks, LOO-PIT calibration, prior sensitivity checks, 94% HDI, non-centered parameterizations, reproducible seeds) that agents won't apply unprompted — always consult before writing Bayesian model code. Trigger on: building probabilistic/Bayesian models, prior elicitation, MCMC inference, convergence diagnostics (divergences, R-hat, ESS), model comparison (LOO-CV, ELPD, stacking weights), hierarchical/multilevel models, count regressions, logistic regression with uncertainty, prior sensitivity analysis, reporting Bayesian results, or mentions of PyMC, ArviZ, InferenceData, credible intervals, posterior distributions, shrinkage, uncertainty quantification. Also trigger for model comparison, diagnosing sampling problems, choosing priors, or presenting stats to non-technical audiences.\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

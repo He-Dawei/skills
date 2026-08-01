@@ -1,0 +1,18 @@
+{
+  "name": "design-taste-frontend",
+  "version": "1.0.0",
+  "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, in",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "design-taste-frontend",
+    "shortDescription": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, in",
+    "longDescription": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design systems when applicable, audit-first on redesigns, strict pre-flight check.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

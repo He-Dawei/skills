@@ -1,7 +1,7 @@
 {
   "name": "implement",
   "version": "1.0.0",
-  "description": "Implement a piece of work based on a PRD or set of issues.",
+  "description": "\"Implement a piece of work based on a PRD or set of issues.\"",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "implement",
-    "shortDescription": "Implement a piece of work based on a PRD or set of issues.",
-    "longDescription": "Implement a piece of work based on a PRD or set of issues.",
+    "shortDescription": "\"Implement a piece of work based on a PRD or set of issues.\"",
+    "longDescription": "\"Implement a piece of work based on a PRD or set of issues.\"",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

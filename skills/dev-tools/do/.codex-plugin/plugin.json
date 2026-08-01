@@ -1,7 +1,7 @@
 {
   "name": "do",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: do",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "do",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: do",
+    "longDescription": "Skill: do",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

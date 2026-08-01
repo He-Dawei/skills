@@ -1,7 +1,7 @@
 {
   "name": "scientific-writing",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: scientific-writing",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "scientific-writing",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: scientific-writing",
+    "longDescription": "Skill: scientific-writing",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

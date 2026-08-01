@@ -1,7 +1,7 @@
 {
   "name": "debugging-methodology",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Use when encountering any bug, error, crash, test failure, or unexpected behavior — before proposing",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "debugging-methodology",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Use when encountering any bug, error, crash, test failure, or unexpected behavior — before proposing",
+    "longDescription": "Use when encountering any bug, error, crash, test failure, or unexpected behavior — before proposing or making any code change. Enforces 5-step diagnostic discipline: restate error, scope impact, enumerate causes, choose minimal fix, define verification.",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

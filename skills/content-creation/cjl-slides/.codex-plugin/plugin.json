@@ -1,7 +1,7 @@
 {
   "name": "cjl-slides",
   "version": "1.0.0",
-  "description": "Create stunning HTML presentations in 24 international design styles with strict design rules.\nExpor",
+  "description": "|",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "cjl-slides",
-    "shortDescription": "Create stunning HTML presentations in 24 international design styles with strict design rules.\nExpor",
-    "longDescription": "Create stunning HTML presentations in 24 international design styles with strict design rules.\nExport to .pptx for PowerPoint editing.\n\n## Design Philosophy\n- Aesthetic-first: each style is a curated visual system, not just colors\n- Font whitelist enforcement: prevents AI-generic typography\n- Container ratio lock (16:9): ensures consistent rendering across devices\n- Zero external dependencies: pure HTML/CSS/JS, works offline\n\n## Usage\n1. Activate → Select style by name/number or browse 24 options\n2. Provide content (topic, audience, key points) or upload .pptx for conversion\n3. Review generated HTML slides → request modifications (color/font/layout)\n4. Optionally export .pptx for manual editing in PowerPoint\n\n## Precautions\n- Fonts are restricted to a whitelist; custom fonts require adding to the allowed list first\n- Chart.js CDN is used; if blocked, falls back to jsdelivr mirror\n- HTML files must retain their relative structure when shared\n- .pptx export preserves exact colors and fonts but layout uses pptx-native elements\n\n## Credits\nDesign rules adapted from \"专精 HTML 演示文稿的顶级视觉设计师\" (24 design styles reference).\nBase HTML structure and tooling inspired by zarazhangrui/frontend-slides.\n",
+    "shortDescription": "|",
+    "longDescription": "|",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

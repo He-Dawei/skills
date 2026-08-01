@@ -1,7 +1,7 @@
 {
   "name": "openclaw-do",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: openclaw-do",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "openclaw-do",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: openclaw-do",
+    "longDescription": "Skill: openclaw-do",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

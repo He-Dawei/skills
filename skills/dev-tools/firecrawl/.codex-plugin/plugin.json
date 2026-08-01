@@ -1,7 +1,7 @@
 {
   "name": "firecrawl",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Use when you need to scrape web pages, crawl websites, search the web, or extract structured data fr",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "firecrawl",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Use when you need to scrape web pages, crawl websites, search the web, or extract structured data fr",
+    "longDescription": "Use when you need to scrape web pages, crawl websites, search the web, or extract structured data from URLs — turn any web page into clean Markdown or structured JSON for LLM consumption. Triggers include: \"scrape this page\", \"extract content from URL\", \"crawl this site\", \"search the web for X and get full content\", \"turn this webpage into markdown\", \"get data from this website\".",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

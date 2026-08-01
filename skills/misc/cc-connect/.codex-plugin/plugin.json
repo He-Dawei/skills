@@ -1,0 +1,18 @@
+{
+  "name": "cc-connect",
+  "version": "1.0.0",
+  "description": "Bridge AI agents to messaging platforms. Use when user wants to connect Claude Code to Feishu/DingTa",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cc-connect",
+    "shortDescription": "Bridge AI agents to messaging platforms. Use when user wants to connect Claude Code to Feishu/DingTa",
+    "longDescription": "Bridge AI agents to messaging platforms. Use when user wants to connect Claude Code to Feishu/DingTalk/Slack/Telegram/Discord/LINE/WeChat Work.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

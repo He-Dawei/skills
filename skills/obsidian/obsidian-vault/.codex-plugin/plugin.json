@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-vault",
+  "version": "1.0.0",
+  "description": "Search, create, and manage notes in the Obsidian vault with wikilinks and index notes. Use when user",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "obsidian-vault",
+    "shortDescription": "Search, create, and manage notes in the Obsidian vault with wikilinks and index notes. Use when user",
+    "longDescription": "Search, create, and manage notes in the Obsidian vault with wikilinks and index notes. Use when user wants to find, create, or organize notes in Obsidian.",
+    "category": "obsidian",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

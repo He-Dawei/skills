@@ -1,0 +1,18 @@
+{
+  "name": "issue-triage",
+  "version": "1.0.0",
+  "description": ">",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "issue-triage",
+    "shortDescription": ">",
+    "longDescription": ">",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-strategy-memorandum",
   "version": "1.0.0",
-  "description": "Create a document using the Strategy Memorandum template and its retained reference file. Use when t",
+  "description": "\"Create a document using the Strategy Memorandum template and its retained reference file. Use when ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-strategy-memorandum",
-    "shortDescription": "Create a document using the Strategy Memorandum template and its retained reference file. Use when t",
-    "longDescription": "Create a document using the Strategy Memorandum template and its retained reference file. Use when the user selects or names Strategy Memorandum. Present strategic context, choices, rationale, risks, milestones, and a clear recommendation.",
+    "shortDescription": "\"Create a document using the Strategy Memorandum template and its retained reference file. Use when ",
+    "longDescription": "\"Create a document using the Strategy Memorandum template and its retained reference file. Use when the user selects or names Strategy Memorandum. Present strategic context, choices, rationale, risks, milestones, and a clear recommendation.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

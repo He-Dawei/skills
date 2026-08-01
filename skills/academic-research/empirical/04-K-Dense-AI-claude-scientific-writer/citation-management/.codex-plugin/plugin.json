@@ -1,7 +1,7 @@
 {
   "name": "citation-management",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: citation-management",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "citation-management",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: citation-management",
+    "longDescription": "Skill: citation-management",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

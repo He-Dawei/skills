@@ -1,0 +1,18 @@
+{
+  "name": "performance",
+  "version": "1.0.0",
+  "description": "CLI performance optimization - startup time, memory usage, token savings benchmarking",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "performance",
+    "shortDescription": "CLI performance optimization - startup time, memory usage, token savings benchmarking",
+    "longDescription": "CLI performance optimization - startup time, memory usage, token savings benchmarking",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

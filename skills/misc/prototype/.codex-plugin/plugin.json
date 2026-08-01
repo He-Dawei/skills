@@ -1,0 +1,18 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "Build a throwaway prototype to flesh out a design — a runnable terminal app for state/business-logic",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "prototype",
+    "shortDescription": "Build a throwaway prototype to flesh out a design — a runnable terminal app for state/business-logic",
+    "longDescription": "Build a throwaway prototype to flesh out a design — a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

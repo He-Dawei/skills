@@ -1,0 +1,18 @@
+{
+  "name": "cirq",
+  "version": "1.0.0",
+  "description": "Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-a",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "cirq",
+    "shortDescription": "Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-a",
+    "longDescription": "Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum characterization experiments. Best for Google hardware, noise modeling, and low-level circuit design. For IBM hardware use qiskit; for quantum ML with autodiff use pennylane; for physics simulations use qutip.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

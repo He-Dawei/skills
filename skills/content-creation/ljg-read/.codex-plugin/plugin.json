@@ -1,7 +1,7 @@
 {
   "name": "ljg-read",
   "version": "1.0.0",
-  "description": "Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) w",
+  "description": "\"Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ljg-read",
-    "shortDescription": "Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) w",
-    "longDescription": "Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) with translation, structural annotation, deep questioning, and cross-domain insights. Detects language, translates English to Chinese (faithfulness-expressiveness-elegance), guides reader to understand the author and encounter real questions. Use when user says '伴读', '陪我读', '读这篇', 'read with me', 'companion read', or shares a text/URL wanting guided reading.",
+    "shortDescription": "\"Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) ",
+    "longDescription": "\"Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) with translation, structural annotation, deep questioning, and cross-domain insights. Detects language, translates English to Chinese (faithfulness-expressiveness-elegance), guides reader to understand the author and encounter real questions. Use when user says '伴读', '陪我读', '读这篇', 'read with me', 'companion read', or shares a text/URL wanting guided reading.\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

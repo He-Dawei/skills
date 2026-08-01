@@ -1,0 +1,18 @@
+{
+  "name": "matlab",
+  "version": "1.0.0",
+  "description": "MATLAB and GNU Octave numerical computing for matrix operations, data analysis, visualization, and s",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "matlab",
+    "shortDescription": "MATLAB and GNU Octave numerical computing for matrix operations, data analysis, visualization, and s",
+    "longDescription": "MATLAB and GNU Octave numerical computing for matrix operations, data analysis, visualization, and scientific computing. Use when writing MATLAB/Octave scripts for linear algebra, signal processing, image processing, differential equations, optimization, statistics, or creating scientific visualizations. Also use when the user needs help with MATLAB syntax, functions, or wants to convert between MATLAB and Python code. Scripts can be executed with MATLAB or the open-source GNU Octave interpreter.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

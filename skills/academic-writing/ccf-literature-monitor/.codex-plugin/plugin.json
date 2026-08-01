@@ -1,7 +1,7 @@
 {
   "name": "ccf-literature-monitor",
   "version": "1.0.0",
-  "description": "Monitor arXiv, OpenReview, conference feeds, labs, projects, and competitor papers for new work that",
+  "description": "\"Monitor arXiv, OpenReview, conference feeds, labs, projects, and competitor papers for new work tha",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-literature-monitor",
-    "shortDescription": "Monitor arXiv, OpenReview, conference feeds, labs, projects, and competitor papers for new work that",
-    "longDescription": "Monitor arXiv, OpenReview, conference feeds, labs, projects, and competitor papers for new work that may overlap with a user's idea. Use for arxiv-watch, novelty-check, trend-scouting, competitor-tracking, paper tracking, 竞品监控, 新论文追踪, 论文跟踪, 类似 idea 监控. Link findings to ccf-literature-searcher, ccf-idea-reviewer, ccf-idea-optimizer, ccf-paper-writer, and ccf-integrity-auditor.",
+    "shortDescription": "\"Monitor arXiv, OpenReview, conference feeds, labs, projects, and competitor papers for new work tha",
+    "longDescription": "\"Monitor arXiv, OpenReview, conference feeds, labs, projects, and competitor papers for new work that may overlap with a user's idea. Use for arxiv-watch, novelty-check, trend-scouting, competitor-tracking, paper tracking, 竞品监控, 新论文追踪, 论文跟踪, 类似 idea 监控. Link findings to ccf-literature-searcher, ccf-idea-reviewer, ccf-idea-optimizer, ccf-paper-writer, and ccf-integrity-auditor.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

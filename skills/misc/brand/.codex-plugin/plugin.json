@@ -1,0 +1,18 @@
+{
+  "name": "brand",
+  "version": "1.0.0",
+  "description": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate fo",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "brand",
+    "shortDescription": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate fo",
+    "longDescription": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

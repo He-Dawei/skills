@@ -1,7 +1,7 @@
 {
   "name": "pentagi",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Use when setting up or using PentAGI — an autonomous AI-powered penetration testing platform with mu",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "pentagi",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Use when setting up or using PentAGI — an autonomous AI-powered penetration testing platform with mu",
+    "longDescription": "Use when setting up or using PentAGI — an autonomous AI-powered penetration testing platform with multi-agent orchestration. Triggers: \"pentest with AI\", \"autonomous security testing\", \"AI penetration testing\", \"set up PentAGI\", \"Docker pentest lab\", \"automated vulnerability assessment\", \"AI red team\".",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

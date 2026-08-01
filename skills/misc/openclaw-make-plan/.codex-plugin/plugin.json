@@ -1,7 +1,7 @@
 {
   "name": "openclaw-make-plan",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: openclaw-make-plan",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "openclaw-make-plan",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: openclaw-make-plan",
+    "longDescription": "Skill: openclaw-make-plan",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

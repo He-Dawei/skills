@@ -1,0 +1,18 @@
+{
+  "name": "citation-management",
+  "version": "1.0.0",
+  "description": "Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "citation-management",
+    "shortDescription": "Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers",
+    "longDescription": "Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

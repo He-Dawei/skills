@@ -1,7 +1,7 @@
 {
   "name": "autoresearch-skill",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: autoresearch-skill",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "autoresearch-skill",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: autoresearch-skill",
+    "longDescription": "Skill: autoresearch-skill",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

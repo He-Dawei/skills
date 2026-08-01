@@ -1,7 +1,7 @@
 {
   "name": "faceswap",
   "version": "1.0.0",
-  "description": "Swap faces in a video using AI via the HeyGen API. Use when: (1) Replacing a face in a video with an",
+  "description": "|",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "faceswap",
-    "shortDescription": "Swap faces in a video using AI via the HeyGen API. Use when: (1) Replacing a face in a video with an",
-    "longDescription": "Swap faces in a video using AI via the HeyGen API. Use when: (1) Replacing a face in a video with another face, (2) Face swapping from a source image onto a target video, (3) Creating personalized videos by swapping in a person's face, (4) Working with HeyGen's /v1/workflows/executions endpoint for face swap processing.\n",
+    "shortDescription": "|",
+    "longDescription": "|",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

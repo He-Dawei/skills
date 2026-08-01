@@ -1,7 +1,7 @@
 {
   "name": "ai-image-prompts-skill",
   "version": "1.0.0",
-  "description": "Recommend curated prompts from a 10,000+ real-world image generation prompt library.\nWorks with ANY ",
+  "description": "|",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ai-image-prompts-skill",
-    "shortDescription": "Recommend curated prompts from a 10,000+ real-world image generation prompt library.\nWorks with ANY ",
-    "longDescription": "Recommend curated prompts from a 10,000+ real-world image generation prompt library.\nWorks with ANY AI image model — Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5,\nMidjourney, DALL-E 3, Flux, Stable Diffusion, and more.\n\nUse this skill when users want to:\n- Find proven image generation prompts (any model)\n- Get prompt inspiration for portraits, products, social media, posters, etc.\n- Create illustrations for articles, videos, podcasts, or marketing content\n- Browse categorized prompt templates with sample images\n- Translate and understand prompt techniques\n",
+    "shortDescription": "|",
+    "longDescription": "|",
     "category": "image",
     "capabilities": [],
     "developerName": "Shared Skills"

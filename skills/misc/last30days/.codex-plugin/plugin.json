@@ -1,7 +1,7 @@
 {
   "name": "last30days",
   "version": "1.0.0",
-  "description": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement fr",
+  "description": "\"Research what people actually say about any topic in the last 30 days. Pulls posts and engagement f",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "last30days",
-    "shortDescription": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement fr",
-    "longDescription": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web.",
+    "shortDescription": "\"Research what people actually say about any topic in the last 30 days. Pulls posts and engagement f",
+    "longDescription": "\"Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web.\"",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

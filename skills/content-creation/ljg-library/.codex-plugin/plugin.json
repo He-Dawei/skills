@@ -1,7 +1,7 @@
 {
   "name": "ljg-library",
   "version": "1.0.0",
-  "description": "一本书 → 一框清晰的「取景框」→ 一张 2050 图书馆借书卡（PNG）。卡上有真实封面、作者头像、书目信息；取景框 block 完整、流畅、清晰地表述该书独创的「看世界的方式」，图解 block ",
+  "description": "\"一本书 → 一框清晰的「取景框」→ 一张 2050 图书馆借书卡（PNG）。卡上有真实封面、作者头像、书目信息；取景框 block 完整、流畅、清晰地表述该书独创的「看世界的方式」，图解 block",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ljg-library",
-    "shortDescription": "一本书 → 一框清晰的「取景框」→ 一张 2050 图书馆借书卡（PNG）。卡上有真实封面、作者头像、书目信息；取景框 block 完整、流畅、清晰地表述该书独创的「看世界的方式」，图解 block ",
-    "longDescription": "一本书 → 一框清晰的「取景框」→ 一张 2050 图书馆借书卡（PNG）。卡上有真实封面、作者头像、书目信息；取景框 block 完整、流畅、清晰地表述该书独创的「看世界的方式」，图解 block 白底黑墨、用手绘解释风格，主角是继刚本人墨像（嵌入头像抠底而成），把这套思想演成一幕戏、直观可懂。浅色光学玻璃风、卡身强调色从封面动态提取、宽高自适应。合上书记住这副眼睛，就没白读。Use when user says '取景框卡', '图书馆卡', 'library card', '书卡', '铸书卡', '一本书一句话一张卡', '/ljg-library', or provides a book name and wants it distilled into one collectible card. NOT FOR 拆书结构分析（用 ljg-book）、纯文字金句（用 ljg-card -b）、信息图（用 ljg-card -i）、视觉笔记（用 ljg-card -v）。",
+    "shortDescription": "\"一本书 → 一框清晰的「取景框」→ 一张 2050 图书馆借书卡（PNG）。卡上有真实封面、作者头像、书目信息；取景框 block 完整、流畅、清晰地表述该书独创的「看世界的方式」，图解 block",
+    "longDescription": "\"一本书 → 一框清晰的「取景框」→ 一张 2050 图书馆借书卡（PNG）。卡上有真实封面、作者头像、书目信息；取景框 block 完整、流畅、清晰地表述该书独创的「看世界的方式」，图解 block 白底黑墨、用手绘解释风格，主角是继刚本人墨像（嵌入头像抠底而成），把这套思想演成一幕戏、直观可懂。浅色光学玻璃风、卡身强调色从封面动态提取、宽高自适应。合上书记住这副眼睛，就没白读。Use when user says '取景框卡', '图书馆卡', 'library card', '书卡', '铸书卡', '一本书一句话一张卡', '/ljg-library', or provides a book name and wants it distilled into one collectible card. NOT FOR 拆书结构分析（用 ljg-book）、纯文字金句（用 ljg-card -b）、信息图（用 ljg-card -i）、视觉笔记（用 ljg-card -v）。\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

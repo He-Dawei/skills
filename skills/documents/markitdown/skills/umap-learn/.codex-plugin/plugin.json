@@ -1,0 +1,18 @@
+{
+  "name": "umap-learn",
+  "version": "1.0.0",
+  "description": "Use UMAP-learn for nonlinear dimensionality reduction, 2D/3D embeddings, clustering preprocessing, s",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "umap-learn",
+    "shortDescription": "Use UMAP-learn for nonlinear dimensionality reduction, 2D/3D embeddings, clustering preprocessing, s",
+    "longDescription": "Use UMAP-learn for nonlinear dimensionality reduction, 2D/3D embeddings, clustering preprocessing, supervised or semi-supervised UMAP, DensMAP, AlignedUMAP, and Parametric UMAP workflows.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

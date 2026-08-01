@@ -1,0 +1,18 @@
+{
+  "name": "experiment-code",
+  "version": "1.0.0",
+  "description": "Write ML experiment code with iterative improvement. Generate training/evaluation pipelines, debug e",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "experiment-code",
+    "shortDescription": "Write ML experiment code with iterative improvement. Generate training/evaluation pipelines, debug e",
+    "longDescription": "Write ML experiment code with iterative improvement. Generate training/evaluation pipelines, debug errors, and optimize results through code reflection. Use when implementing experiments for a research paper.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

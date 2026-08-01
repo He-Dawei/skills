@@ -1,7 +1,7 @@
 {
   "name": "research-proposal",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: research-proposal",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "research-proposal",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: research-proposal",
+    "longDescription": "Skill: research-proposal",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

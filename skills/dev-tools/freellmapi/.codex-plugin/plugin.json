@@ -1,7 +1,7 @@
 {
   "name": "freellmapi",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Use when setting up or using the FreeLLMAPI proxy — aggregates 28 free LLM provider tiers (~4B token",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "freellmapi",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Use when setting up or using the FreeLLMAPI proxy — aggregates 28 free LLM provider tiers (~4B token",
+    "longDescription": "Use when setting up or using the FreeLLMAPI proxy — aggregates 28 free LLM provider tiers (~4B tokens/month) behind one OpenAI-compatible /v1 endpoint. Also use when configuring Claude Code to use free models via the Anthropic Messages API shim, when setting up fallback chains across free providers, or when troubleshooting provider rate limits and failover. Triggers: \"use free models\", \"aggregate free LLM APIs\", \"set up LLM proxy\", \"Claude Code with free models\", \"Anthropic API alternative\", \"free inference\".",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

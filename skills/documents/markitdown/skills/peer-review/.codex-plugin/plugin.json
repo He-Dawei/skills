@@ -1,0 +1,18 @@
+{
+  "name": "peer-review",
+  "version": "1.0.0",
+  "description": "Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer rev",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "peer-review",
+    "shortDescription": "Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer rev",
+    "longDescription": "Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards compliance (CONSORT/STROBE), and constructive feedback. Best for actual review writing, manuscript revision. For evaluating claims/evidence quality use scientific-critical-thinking; for quantitative scoring frameworks use scholar-evaluation.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

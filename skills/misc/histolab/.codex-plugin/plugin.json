@@ -1,0 +1,18 @@
+{
+  "name": "histolab",
+  "version": "1.0.0",
+  "description": "Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection,",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "histolab",
+    "shortDescription": "Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection,",
+    "longDescription": "Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection, tile extraction, and stain normalization for H&E images. Best for simple pipelines, dataset preparation, and quick tile-based analysis. For advanced spatial proteomics, multiplexed imaging, or deep learning pipelines use pathml.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

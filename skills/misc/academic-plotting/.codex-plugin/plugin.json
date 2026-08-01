@@ -1,7 +1,7 @@
 {
   "name": "academic-plotting",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: academic-plotting",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "academic-plotting",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: academic-plotting",
+    "longDescription": "Skill: academic-plotting",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

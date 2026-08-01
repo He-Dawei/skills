@@ -1,7 +1,7 @@
 {
   "name": "iptv",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Use when you need IPTV channel playlists, live TV streams, electronic program guide (EPG) data, or T",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "iptv",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Use when you need IPTV channel playlists, live TV streams, electronic program guide (EPG) data, or T",
+    "longDescription": "Use when you need IPTV channel playlists, live TV streams, electronic program guide (EPG) data, or TV channel metadata from around the world. Triggers: \"IPTV channels\", \"live TV playlist\", \"watch TV online\", \"M3U playlist\", \"find channels for [country]\", \"electronic program guide\", \"TV channel database\".",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

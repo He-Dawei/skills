@@ -1,7 +1,7 @@
 {
   "name": "engineering-figure-agent",
   "version": "1.0.0",
-  "description": "Create engineering and CS paper figures from local paper context, method notes, code, data tables, o",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "engineering-figure-agent",
-    "shortDescription": "Create engineering and CS paper figures from local paper context, method notes, code, data tables, o",
-    "longDescription": "Create engineering and CS paper figures from local paper context, method notes, code, data tables, or existing drafts. Use for figure briefs, conceptual diagrams, architecture figures, algorithm workflows, exact publication plots, prompt refinement, and light figure critique.",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "visualization",
     "capabilities": [],
     "developerName": "Shared Skills"

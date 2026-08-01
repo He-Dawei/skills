@@ -1,0 +1,18 @@
+{
+  "name": "image2-api",
+  "version": "1.0.0",
+  "description": "This skill should be used when the user asks to generate, edit, localize, composite, or batch-create",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "image2-api",
+    "shortDescription": "This skill should be used when the user asks to generate, edit, localize, composite, or batch-create",
+    "longDescription": "This skill should be used when the user asks to generate, edit, localize, composite, or batch-create images through an OpenAI-compatible Images API or a third-party GPT Image 2 relay. Trigger on explicit mentions of gpt-image-2, an image model alias, custom base URL, /v1/images/generations, /v1/images/edits, API-based image generation, prompt compilation or review for an API call, reference images, masks, or reproducible image run metadata. Do not select it solely for ordinary built-in image generation when no API or relay workflow is requested.",
+    "category": "image",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

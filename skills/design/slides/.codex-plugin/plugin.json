@@ -1,0 +1,18 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting fo",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "slides",
+    "shortDescription": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting fo",
+    "longDescription": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+    "category": "design",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-project-tracker",
   "version": "1.0.0",
-  "description": "Create a spreadsheet using the Project Tracker template and its retained reference file. Use when th",
+  "description": "\"Create a spreadsheet using the Project Tracker template and its retained reference file. Use when t",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-project-tracker",
-    "shortDescription": "Create a spreadsheet using the Project Tracker template and its retained reference file. Use when th",
-    "longDescription": "Create a spreadsheet using the Project Tracker template and its retained reference file. Use when the user selects or names Project Tracker. Manage workstreams, tasks, owners, status, priority, dates, launch pulse, and a Gantt schedule.",
+    "shortDescription": "\"Create a spreadsheet using the Project Tracker template and its retained reference file. Use when t",
+    "longDescription": "\"Create a spreadsheet using the Project Tracker template and its retained reference file. Use when the user selects or names Project Tracker. Manage workstreams, tasks, owners, status, priority, dates, launch pulse, and a Gantt schedule.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

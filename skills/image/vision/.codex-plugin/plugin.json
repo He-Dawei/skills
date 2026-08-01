@@ -1,7 +1,7 @@
 {
   "name": "vision",
   "version": "1.0.0",
-  "description": "Use this skill whenever the user shares an image (local path, URL, or attachment) and needs it analy",
+  "description": "\"Use this skill whenever the user shares an image (local path, URL, or attachment) and needs it anal",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "vision",
-    "shortDescription": "Use this skill whenever the user shares an image (local path, URL, or attachment) and needs it analy",
-    "longDescription": "Use this skill whenever the user shares an image (local path, URL, or attachment) and needs it analyzed, described, or recognized. Also trigger when user asks to 'look at this image', 'what's in this picture', 'describe this screenshot', or any image-related question. This skill bridges models without native vision by calling a vision-capable model API.",
+    "shortDescription": "\"Use this skill whenever the user shares an image (local path, URL, or attachment) and needs it anal",
+    "longDescription": "\"Use this skill whenever the user shares an image (local path, URL, or attachment) and needs it analyzed, described, or recognized. Also trigger when user asks to 'look at this image', 'what's in this picture', 'describe this screenshot', or any image-related question. This skill bridges models without native vision by calling a vision-capable model API.\"",
     "category": "image",
     "capabilities": [],
     "developerName": "Shared Skills"

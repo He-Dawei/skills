@@ -1,0 +1,18 @@
+{
+  "name": "scholar-evaluation",
+  "version": "1.0.0",
+  "description": "Systematically evaluate scholarly work using the ScholarEval framework, providing structured assessm",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "scholar-evaluation",
+    "shortDescription": "Systematically evaluate scholarly work using the ScholarEval framework, providing structured assessm",
+    "longDescription": "Systematically evaluate scholarly work using the ScholarEval framework, providing structured assessment across research quality dimensions including problem formulation, methodology, analysis, and writing with quantitative scoring and actionable feedback.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

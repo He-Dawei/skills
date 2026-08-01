@@ -1,7 +1,7 @@
 {
   "name": "radare2",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Use when analyzing binary files, reverse engineering, disassembling executables, debugging, patching",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "radare2",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Use when analyzing binary files, reverse engineering, disassembling executables, debugging, patching",
+    "longDescription": "Use when analyzing binary files, reverse engineering, disassembling executables, debugging, patching binaries, CTF challenges, malware analysis, or inspecting ELF/PE/Mach-O file structure. Triggers: \"analyze this binary\", \"reverse this\", \"disassemble\", \"what does this exe do\", \"CTF binary\", \"patch this file\", \"check for strings in binary\", \"find the password in this executable\".",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

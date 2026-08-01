@@ -1,7 +1,7 @@
 {
   "name": "hr-breaker",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: hr-breaker",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "hr-breaker",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: hr-breaker",
+    "longDescription": "Skill: hr-breaker",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

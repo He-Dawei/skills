@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-experiment-analysis",
   "version": "1.0.0",
-  "description": "Create a document using the Experiment Analysis template and its retained reference file. Use when t",
+  "description": "\"Create a document using the Experiment Analysis template and its retained reference file. Use when ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-experiment-analysis",
-    "shortDescription": "Create a document using the Experiment Analysis template and its retained reference file. Use when t",
-    "longDescription": "Create a document using the Experiment Analysis template and its retained reference file. Use when the user selects or names Experiment Analysis. Analyze experiments with hypotheses, methodology, results, interpretation, limitations, and next steps.",
+    "shortDescription": "\"Create a document using the Experiment Analysis template and its retained reference file. Use when ",
+    "longDescription": "\"Create a document using the Experiment Analysis template and its retained reference file. Use when the user selects or names Experiment Analysis. Analyze experiments with hypotheses, methodology, results, interpretation, limitations, and next steps.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

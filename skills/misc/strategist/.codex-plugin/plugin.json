@@ -1,7 +1,7 @@
 {
   "name": "strategist",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: strategist",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "strategist",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: strategist",
+    "longDescription": "Skill: strategist",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

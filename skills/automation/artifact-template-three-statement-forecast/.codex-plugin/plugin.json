@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-three-statement-forecast",
   "version": "1.0.0",
-  "description": "Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. Us",
+  "description": "\"Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. U",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-three-statement-forecast",
-    "shortDescription": "Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. Us",
-    "longDescription": "Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. Use when the user selects or names Three-Statement Forecast. Build an integrated income statement, balance sheet, and cash flow forecast with assumptions, checks, and an executive summary.",
+    "shortDescription": "\"Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. U",
+    "longDescription": "\"Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. Use when the user selects or names Three-Statement Forecast. Build an integrated income statement, balance sheet, and cash flow forecast with assumptions, checks, and an executive summary.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

@@ -1,7 +1,7 @@
 {
   "name": "rtk-triage",
   "version": "1.0.0",
-  "description": "Triage complet RTK : exécute issue-triage + pr-triage en parallèle, puis croise les données pour dét",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "rtk-triage",
-    "shortDescription": "Triage complet RTK : exécute issue-triage + pr-triage en parallèle, puis croise les données pour dét",
-    "longDescription": "Triage complet RTK : exécute issue-triage + pr-triage en parallèle, puis croise les données pour détecter doubles couvertures, trous sécurité, P0 sans PR, et conflits internes. Sauvegarde dans claudedocs/RTK-YYYY-MM-DD.md. Args: \"en\"/\"fr\" pour la langue (défaut: fr), \"save\" pour forcer la sauvegarde.\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

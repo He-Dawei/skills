@@ -1,7 +1,7 @@
 {
   "name": "ccf-skill-forger",
   "version": "1.0.0",
-  "description": "Design, create, update, validate, and audit Codex/CCFA skills, trigger wording, resources, reference",
+  "description": "\"Design, create, update, validate, and audit Codex/CCFA skills, trigger wording, resources, referenc",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-skill-forger",
-    "shortDescription": "Design, create, update, validate, and audit Codex/CCFA skills, trigger wording, resources, reference",
-    "longDescription": "Design, create, update, validate, and audit Codex/CCFA skills, trigger wording, resources, references, scripts, path privacy, family governance, and CCFA documentation SVG diagrams. Use for skill maintenance, new skill creation, routing conflict cleanup, Markdown/SVG docs maintenance, and release validation. Do not perform research writing or review work.",
+    "shortDescription": "\"Design, create, update, validate, and audit Codex/CCFA skills, trigger wording, resources, referenc",
+    "longDescription": "\"Design, create, update, validate, and audit Codex/CCFA skills, trigger wording, resources, references, scripts, path privacy, family governance, and CCFA documentation SVG diagrams. Use for skill maintenance, new skill creation, routing conflict cleanup, Markdown/SVG docs maintenance, and release validation. Do not perform research writing or review work.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

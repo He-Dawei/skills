@@ -1,7 +1,7 @@
 {
   "name": "pdf-converter",
   "version": "1.0.0",
-  "description": "PDF converter powered by MinerU — convert PDF to Word, Markdown, HTML, LaTeX, or plain text. Also ha",
+  "description": "\"PDF converter powered by MinerU — convert PDF to Word, Markdown, HTML, LaTeX, or plain text. Also h",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "pdf-converter",
-    "shortDescription": "PDF converter powered by MinerU — convert PDF to Word, Markdown, HTML, LaTeX, or plain text. Also ha",
-    "longDescription": "PDF converter powered by MinerU — convert PDF to Word, Markdown, HTML, LaTeX, or plain text. Also handles image-to-text OCR, scanned document recognition, and Office formats (DOCX, PPTX, Excel). Supports 80+ languages. Use this skill when the user wants to convert, extract, read, parse, or summarize any PDF or document. Also applies when the user shares a PDF file or link and asks about its content, needs tables or formulas extracted, wants PDF OCR, or says things like 'turn this into a doc' or 'what does this paper say'.",
+    "shortDescription": "\"PDF converter powered by MinerU — convert PDF to Word, Markdown, HTML, LaTeX, or plain text. Also h",
+    "longDescription": "\"PDF converter powered by MinerU — convert PDF to Word, Markdown, HTML, LaTeX, or plain text. Also handles image-to-text OCR, scanned document recognition, and Office formats (DOCX, PPTX, Excel). Supports 80+ languages. Use this skill when the user wants to convert, extract, read, parse, or summarize any PDF or document. Also applies when the user shares a PDF file or link and asks about its content, needs tables or formulas extracted, wants PDF OCR, or says things like 'turn this into a doc' or 'what does this paper say'.\"",
     "category": "documents",
     "capabilities": [],
     "developerName": "Shared Skills"

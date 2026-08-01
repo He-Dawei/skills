@@ -1,7 +1,7 @@
 {
   "name": "cheat-retro",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "T+N 天数据回收 + 复盘 + 把实绩观察写入 rubric-memo.md。这是校准循环的反馈环节——不复盘的预测等于占星。触发词：\"复盘 [path]\"/\"retro this\"/\"T+3d 数",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "cheat-retro",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "T+N 天数据回收 + 复盘 + 把实绩观察写入 rubric-memo.md。这是校准循环的反馈环节——不复盘的预测等于占星。触发词：\"复盘 [path]\"/\"retro this\"/\"T+3d 数",
+    "longDescription": "T+N 天数据回收 + 复盘 + 把实绩观察写入 rubric-memo.md。这是校准循环的反馈环节——不复盘的预测等于占星。触发词：\"复盘 [path]\"/\"retro this\"/\"T+3d 数据来了\"/\"抓数据 [path]\"/\"把这篇复盘了\"。",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

@@ -1,7 +1,7 @@
 {
   "name": "rtk-tdd",
   "version": "1.0.0",
-  "description": "Enforces TDD (Red-Green-Refactor) for Rust development. Auto-triggers on implementation, testing, re",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "rtk-tdd",
-    "shortDescription": "Enforces TDD (Red-Green-Refactor) for Rust development. Auto-triggers on implementation, testing, re",
-    "longDescription": "Enforces TDD (Red-Green-Refactor) for Rust development. Auto-triggers on implementation, testing, refactoring, and bug fixing tasks. Provides Rust-idiomatic testing patterns with anyhow/thiserror, cfg(test), and Arrange-Act-Assert workflow.\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

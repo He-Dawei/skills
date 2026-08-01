@@ -1,7 +1,7 @@
 {
   "name": "40-py-econometrics-pyfixest",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: 40-py-econometrics-pyfixest",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "40-py-econometrics-pyfixest",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: 40-py-econometrics-pyfixest",
+    "longDescription": "Skill: 40-py-econometrics-pyfixest",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

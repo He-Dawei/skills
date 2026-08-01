@@ -1,7 +1,7 @@
 {
   "name": "xhs-prepublish-check",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Lingzao lightweight XHS pre-publish check Skill for Xiaohongshu notes before publishing: content cla",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "xhs-prepublish-check",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Lingzao lightweight XHS pre-publish check Skill for Xiaohongshu notes before publishing: content cla",
+    "longDescription": "Lingzao lightweight XHS pre-publish check Skill for Xiaohongshu notes before publishing: content clarity, cover recognition, title clickability, first 3 lines or first 3 seconds, keyword embedding, audience fit, and publish readiness. Use for lingzao xhs prepublish check, Xiaohongshu pre-publish review, 发布前检查, 发前帮我看, 标题封面正文检查, or 这条能不能发.",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

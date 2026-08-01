@@ -1,7 +1,7 @@
 {
   "name": "ccf-literature-searcher",
   "version": "1.0.0",
-  "description": "Search and screen literature, related work, datasets, benchmarks, citation evidence, and research op",
+  "description": "\"Search and screen literature, related work, datasets, benchmarks, citation evidence, and research o",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-literature-searcher",
-    "shortDescription": "Search and screen literature, related work, datasets, benchmarks, citation evidence, and research op",
-    "longDescription": "Search and screen literature, related work, datasets, benchmarks, citation evidence, and research opportunity maps for CCF workflows. Use for literature search, related work, prior art, benchmark search, direction scouting, 文献检索, 相关工作, benchmark搜索, 方向调研. Do not audit only already-cited references or write the manuscript as the main task.",
+    "shortDescription": "\"Search and screen literature, related work, datasets, benchmarks, citation evidence, and research o",
+    "longDescription": "\"Search and screen literature, related work, datasets, benchmarks, citation evidence, and research opportunity maps for CCF workflows. Use for literature search, related work, prior art, benchmark search, direction scouting, 文献检索, 相关工作, benchmark搜索, 方向调研. Do not audit only already-cited references or write the manuscript as the main task.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

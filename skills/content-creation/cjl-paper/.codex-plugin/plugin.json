@@ -1,7 +1,7 @@
 {
   "name": "cjl-paper",
   "version": "1.0.0",
-  "description": "Paper reader for non-academics. Takes a paper and extracts its ideas for personal use. Focuses on un",
+  "description": "\"Paper reader for non-academics. Takes a paper and extracts its ideas for personal use. Focuses on u",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "cjl-paper",
-    "shortDescription": "Paper reader for non-academics. Takes a paper and extracts its ideas for personal use. Focuses on un",
-    "longDescription": "Paper reader for non-academics. Takes a paper and extracts its ideas for personal use. Focuses on understanding, not academic critique. Use when user shares an arxiv link, paper URL, PDF, or asks to analyze a research paper. Trigger words: '读论文', '分析论文', 'paper', or when user shares an academic paper.",
+    "shortDescription": "\"Paper reader for non-academics. Takes a paper and extracts its ideas for personal use. Focuses on u",
+    "longDescription": "\"Paper reader for non-academics. Takes a paper and extracts its ideas for personal use. Focuses on understanding, not academic critique. Use when user shares an arxiv link, paper URL, PDF, or asks to analyze a research paper. Trigger words: '读论文', '分析论文', 'paper', or when user shares an academic paper.\"",
     "category": "content-creation",
     "capabilities": [],
     "developerName": "Shared Skills"

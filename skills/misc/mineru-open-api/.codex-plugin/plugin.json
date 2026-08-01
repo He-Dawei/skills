@@ -1,0 +1,18 @@
+{
+  "name": "mineru-open-api",
+  "version": "1.0.0",
+  "description": "Document to Markdown converter. Use when user wants to convert PDF/DOCX/PPTX to Markdown, extract te",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "mineru-open-api",
+    "shortDescription": "Document to Markdown converter. Use when user wants to convert PDF/DOCX/PPTX to Markdown, extract te",
+    "longDescription": "Document to Markdown converter. Use when user wants to convert PDF/DOCX/PPTX to Markdown, extract text from documents, or parse document content for AI processing.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

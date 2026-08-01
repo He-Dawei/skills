@@ -1,7 +1,7 @@
 {
   "name": "literature-review",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: literature-review",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "literature-review",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: literature-review",
+    "longDescription": "Skill: literature-review",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

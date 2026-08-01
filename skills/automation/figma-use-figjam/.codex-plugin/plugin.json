@@ -1,7 +1,7 @@
 {
   "name": "figma-use-figjam",
   "version": "1.0.0",
-  "description": "This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongside ",
+  "description": "\"This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongside",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "figma-use-figjam",
-    "shortDescription": "This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongside ",
-    "longDescription": "This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongside figma-use which has foundational context for using the use_figma tool.",
+    "shortDescription": "\"This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongside",
+    "longDescription": "\"This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongside figma-use which has foundational context for using the use_figma tool.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

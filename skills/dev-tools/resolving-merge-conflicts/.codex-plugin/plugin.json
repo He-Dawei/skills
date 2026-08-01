@@ -1,7 +1,7 @@
 {
   "name": "resolving-merge-conflicts",
   "version": "1.0.0",
-  "description": "Use when you need to resolve an in-progress git merge/rebase conflict.",
+  "description": "\"Use when you need to resolve an in-progress git merge/rebase conflict.\"",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "resolving-merge-conflicts",
-    "shortDescription": "Use when you need to resolve an in-progress git merge/rebase conflict.",
-    "longDescription": "Use when you need to resolve an in-progress git merge/rebase conflict.",
+    "shortDescription": "\"Use when you need to resolve an in-progress git merge/rebase conflict.\"",
+    "longDescription": "\"Use when you need to resolve an in-progress git merge/rebase conflict.\"",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

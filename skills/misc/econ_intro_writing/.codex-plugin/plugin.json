@@ -1,7 +1,7 @@
 {
   "name": "econ-intro-writing",
   "version": "1.0.0",
-  "description": "Guide for writing the introduction to an academic economics paper. Use this skill whenever the user ",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "econ-intro-writing",
-    "shortDescription": "Guide for writing the introduction to an academic economics paper. Use this skill whenever the user ",
-    "longDescription": "Guide for writing the introduction to an academic economics paper. Use this skill whenever the user asks for help writing, drafting, revising, or structuring an introduction to an economics paper - whether empirical micro, development economics, applied economics, or related fields. Also trigger when the user mentions \"intro,\" \"introduction section,\" \"opening paragraphs,\" or asks how to motivate, frame, or present their research question in a paper. This skill synthesizes best practices from David Evans (CGDev), Keith Head, Claudia Sahm, Marc Bellemare, and Deirdre McCloskey.",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

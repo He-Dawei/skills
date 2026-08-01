@@ -1,7 +1,7 @@
 {
   "name": "bids",
   "version": "1.0.0",
-  "description": "Use this skill when working with Brain Imaging Data Structure (BIDS) datasets: organizing neuroscien",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "bids",
-    "shortDescription": "Use this skill when working with Brain Imaging Data Structure (BIDS) datasets: organizing neuroscien",
-    "longDescription": "Use this skill when working with Brain Imaging Data Structure (BIDS) datasets: organizing neuroscience and biomedical data (MRI, EEG, MEG, iEEG, PET, microscopy, NIRS, motion capture, EMG, MR spectroscopy, behavioral), querying BIDS layouts, validating compliance, converting DICOM to BIDS, writing metadata sidecars, or creating BIDS derivatives.\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "scientific-domains",
     "capabilities": [],
     "developerName": "Shared Skills"

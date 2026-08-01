@@ -1,7 +1,7 @@
 {
   "name": "make-plan",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: make-plan",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "make-plan",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: make-plan",
+    "longDescription": "Skill: make-plan",
     "category": "misc",
     "capabilities": [],
     "developerName": "Shared Skills"

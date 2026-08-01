@@ -1,7 +1,7 @@
 {
   "name": "survey-writer",
   "version": "1.0.0",
-  "description": "综述写手 (Survey Writer) — 负责按模板撰写综述论文各章节。 当被研究主管或论文分析师指派写作时激活。基于论文分析卡片和对比表， 按学术写作规范撰写完整的综述论文。\n",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "survey-writer",
-    "shortDescription": "综述写手 (Survey Writer) — 负责按模板撰写综述论文各章节。 当被研究主管或论文分析师指派写作时激活。基于论文分析卡片和对比表， 按学术写作规范撰写完整的综述论文。\n",
-    "longDescription": "综述写手 (Survey Writer) — 负责按模板撰写综述论文各章节。 当被研究主管或论文分析师指派写作时激活。基于论文分析卡片和对比表， 按学术写作规范撰写完整的综述论文。\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

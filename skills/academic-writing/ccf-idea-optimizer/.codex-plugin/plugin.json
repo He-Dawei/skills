@@ -1,7 +1,7 @@
 {
   "name": "ccf-idea-optimizer",
   "version": "1.0.0",
-  "description": "Turn rough CCF research directions into concrete problem, gap, insight, method, novelty, and evidenc",
+  "description": "\"Turn rough CCF research directions into concrete problem, gap, insight, method, novelty, and eviden",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ccf-idea-optimizer",
-    "shortDescription": "Turn rough CCF research directions into concrete problem, gap, insight, method, novelty, and evidenc",
-    "longDescription": "Turn rough CCF research directions into concrete problem, gap, insight, method, novelty, and evidence plans. Use for idea optimization, fuzzy idea concretization, research direction shaping, early direction exploration, salvage routes, 优化idea, 具象化idea, 研究思路优化, 找方向, 方向探索. Do not rank or score multiple ideas as the main output.",
+    "shortDescription": "\"Turn rough CCF research directions into concrete problem, gap, insight, method, novelty, and eviden",
+    "longDescription": "\"Turn rough CCF research directions into concrete problem, gap, insight, method, novelty, and evidence plans. Use for idea optimization, fuzzy idea concretization, research direction shaping, early direction exploration, salvage routes, 优化idea, 具象化idea, 研究思路优化, 找方向, 方向探索. Do not rank or score multiple ideas as the main output.\"",
     "category": "academic-writing",
     "capabilities": [],
     "developerName": "Shared Skills"

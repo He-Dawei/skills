@@ -1,0 +1,18 @@
+{
+  "name": "wowerpoint",
+  "version": "1.0.0",
+  "description": "Turn one document into a kawaii NotebookLM slide-deck PDF. Use for \"wowerpoint this\", \"make a deck a",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "wowerpoint",
+    "shortDescription": "Turn one document into a kawaii NotebookLM slide-deck PDF. Use for \"wowerpoint this\", \"make a deck a",
+    "longDescription": "Turn one document into a kawaii NotebookLM slide-deck PDF. Use for \"wowerpoint this\", \"make a deck about <file>\", \"turn this report into slides\", or any request to render a single document as shareable narrative slides.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

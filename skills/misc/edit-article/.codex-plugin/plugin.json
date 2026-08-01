@@ -1,0 +1,18 @@
+{
+  "name": "edit-article",
+  "version": "1.0.0",
+  "description": "Edit and improve articles by restructuring sections, improving clarity, and tightening prose. Use wh",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "edit-article",
+    "shortDescription": "Edit and improve articles by restructuring sections, improving clarity, and tightening prose. Use wh",
+    "longDescription": "Edit and improve articles by restructuring sections, improving clarity, and tightening prose. Use when user wants to edit, revise, or improve an article draft.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

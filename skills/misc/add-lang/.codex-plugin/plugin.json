@@ -1,0 +1,18 @@
+{
+  "name": "add-lang",
+  "version": "1.0.0",
+  "description": "Add tree-sitter language support to codegraph end-to-end — wire the grammar + extractor, write tests",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "add-lang",
+    "shortDescription": "Add tree-sitter language support to codegraph end-to-end — wire the grammar + extractor, write tests",
+    "longDescription": "Add tree-sitter language support to codegraph end-to-end — wire the grammar + extractor, write tests, then benchmark extraction quality and retrieval value on 3 popular real-world repos. Use when the user runs /add-lang <language> or asks to add/support a new language (e.g. Lua, Elixir, Zig, OCaml) in codegraph.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-market-trends-report",
   "version": "1.0.0",
-  "description": "Create a presentation using the Market Trends Report template and its retained reference file. Use w",
+  "description": "\"Create a presentation using the Market Trends Report template and its retained reference file. Use ",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-market-trends-report",
-    "shortDescription": "Create a presentation using the Market Trends Report template and its retained reference file. Use w",
-    "longDescription": "Create a presentation using the Market Trends Report template and its retained reference file. Use when the user selects or names Market Trends Report. Communicate market or industry trends, supporting evidence, implications, and recommended responses.",
+    "shortDescription": "\"Create a presentation using the Market Trends Report template and its retained reference file. Use ",
+    "longDescription": "\"Create a presentation using the Market Trends Report template and its retained reference file. Use when the user selects or names Market Trends Report. Communicate market or industry trends, supporting evidence, implications, and recommended responses.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"

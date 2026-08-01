@@ -1,7 +1,7 @@
 {
   "name": "medical-imaging-review",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: medical-imaging-review",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "medical-imaging-review",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: medical-imaging-review",
+    "longDescription": "Skill: medical-imaging-review",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

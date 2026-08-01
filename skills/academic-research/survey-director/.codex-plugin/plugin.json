@@ -1,7 +1,7 @@
 {
   "name": "survey-director",
   "version": "1.0.0",
-  "description": "综述总监 (Survey Director) — 负责AI/ML前沿综述论文的选题规划、大纲设计、 任务分配与终审。当用户提出综述写作需求时激活。协调 5 个 Agent 完成从选题到终稿的全流程。\n",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "survey-director",
-    "shortDescription": "综述总监 (Survey Director) — 负责AI/ML前沿综述论文的选题规划、大纲设计、 任务分配与终审。当用户提出综述写作需求时激活。协调 5 个 Agent 完成从选题到终稿的全流程。\n",
-    "longDescription": "综述总监 (Survey Director) — 负责AI/ML前沿综述论文的选题规划、大纲设计、 任务分配与终审。当用户提出综述写作需求时激活。协调 5 个 Agent 完成从选题到终稿的全流程。\n",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

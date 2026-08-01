@@ -1,7 +1,7 @@
 {
   "name": "pptx",
   "version": "1.0.0",
-  "description": "Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for pro",
+  "description": "\"Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for pr",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "pptx",
-    "shortDescription": "Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for pro",
-    "longDescription": "Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for programmatic presentation creation and modification.",
+    "shortDescription": "\"Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for pr",
+    "longDescription": "\"Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for programmatic presentation creation and modification.\"",
     "category": "documents",
     "capabilities": [],
     "developerName": "Shared Skills"

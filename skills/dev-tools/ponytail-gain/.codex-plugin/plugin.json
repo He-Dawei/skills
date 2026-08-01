@@ -1,7 +1,7 @@
 {
   "name": "ponytail-gain",
   "version": "1.0.0",
-  "description": "Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the ",
+  "description": ">",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "ponytail-gain",
-    "shortDescription": "Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the ",
-    "longDescription": "Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the benchmark medians. One-shot display, not a persistent mode, and not a per-repo number. Trigger: /ponytail-gain, \"ponytail gain\", \"what does ponytail save\", \"show ponytail impact\", \"ponytail scoreboard\".",
+    "shortDescription": ">",
+    "longDescription": ">",
     "category": "dev-tools",
     "capabilities": [],
     "developerName": "Shared Skills"

@@ -1,7 +1,7 @@
 {
   "name": "paper-slide-deck",
   "version": "1.0.0",
-  "description": "No description",
+  "description": "Skill: paper-slide-deck",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "paper-slide-deck",
-    "shortDescription": "No description",
-    "longDescription": "No description",
+    "shortDescription": "Skill: paper-slide-deck",
+    "longDescription": "Skill: paper-slide-deck",
     "category": "academic-research",
     "capabilities": [],
     "developerName": "Shared Skills"

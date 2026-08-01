@@ -1,7 +1,7 @@
 {
   "name": "artifact-template-team-alignment",
   "version": "1.0.0",
-  "description": "Create a presentation using the Team Alignment template and its retained reference file. Use when th",
+  "description": "\"Create a presentation using the Team Alignment template and its retained reference file. Use when t",
   "author": {
     "name": "Shared Skills"
   },
@@ -9,8 +9,8 @@
   "keywords": [],
   "interface": {
     "displayName": "artifact-template-team-alignment",
-    "shortDescription": "Create a presentation using the Team Alignment template and its retained reference file. Use when th",
-    "longDescription": "Create a presentation using the Team Alignment template and its retained reference file. Use when the user selects or names Team Alignment. Facilitate team offsites and planning with context, goals, priorities, decisions, and action items.",
+    "shortDescription": "\"Create a presentation using the Team Alignment template and its retained reference file. Use when t",
+    "longDescription": "\"Create a presentation using the Team Alignment template and its retained reference file. Use when the user selects or names Team Alignment. Facilitate team offsites and planning with context, goals, priorities, decisions, and action items.\"",
     "category": "automation",
     "capabilities": [],
     "developerName": "Shared Skills"
