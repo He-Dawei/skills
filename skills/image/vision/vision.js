@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
- * Vision skill — 调用千问 VL 模型识图，OpenAI 兼容格式。
+ * Vision skill — 调用视觉模型识图，OpenAI 兼容格式。
+ * 实际模型由 .env 的 VISION_MODEL 决定（当前为 deepseek-v4-flash-vision-exp）。
  *
  * 用法:
  *   node vision.js <图片路径> [问题]
@@ -8,7 +9,7 @@
  *
  * 配置: 同目录 .env 文件或环境变量
  *   DASHSCOPE_API_KEY — 阿里云百炼 API Key
- *   VISION_MODEL      — 模型名 (默认 qwen3.5-omni-plus-2026-03-15)
+ *   VISION_MAX_TOKENS — 单次最大输出 token（默认 4096，推理模型勿调小）
  */
 
 const fs = require("fs");
@@ -103,7 +104,11 @@ async function main() {
         { type: "text", text: prompt },
       ]}],
       stream: false,
-      max_tokens: 1024,
+      // max_tokens 必须留足。当前 .env 配的模型是推理模型，会先输出
+      // reasoning_content 再输出 content。中文约 1 token/字，实测单帧
+      // reasoning 可达 2200 字。原值 1024 会被思考吃光，导致 content
+      // 返回空字符串 —— 而且不报错，静默失败。实测长 prompt 下 38/43 帧中招。
+      max_tokens: Number(process.env.VISION_MAX_TOKENS || 4096),
     });
     console.log(result);
   } catch (err) {
