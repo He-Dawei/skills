@@ -1,0 +1,18 @@
+{
+  "input_path": "C:\\Users\\44527\\iCloudDrive\\Downloads\\富爸爸商学院+富爸爸致富需要做的6件事+富爸爸穷爸爸+富爸爸提高你的财商+富爸爸财务自由之路(修订版)(套装共5册) (〔美〕罗伯特·清崎；〔美〕莎... (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "format": "epub",
+  "extractor": "ebooklib",
+  "title": "序言　这就是你所需要的",
+  "author": "",
+  "char_count": 116733,
+  "section_count": 12,
+  "page_count": 0,
+  "is_scanned": false,
+  "ocr_ratio": 0.0,
+  "chars_per_unit": 1496.6,
+  "removed_noise_lines": 0,
+  "language": "zh",
+  "sliced_from": "序言.*这就是你所需要的",
+  "sliced_to": "第\\s*16\\s*节",
+  "ingested_at": "2026-09-23T15:48:37+08:00"
+}

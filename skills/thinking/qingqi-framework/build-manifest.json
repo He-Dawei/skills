@@ -1,0 +1,12 @@
+{
+  "name": "source-meta.json",
+  "category": "thinking",
+  "target": "C:\\Users\\44527\\.claude\\skills-repo\\skills\\thinking\\qingqi-framework",
+  "installed_to_skills_repo": true,
+  "references_copied": [
+    "evidence.json",
+    "source-meta.json"
+  ],
+  "skill_md_chars": 3558,
+  "built_at": "2026-09-23T18:46:18+08:00"
+}
