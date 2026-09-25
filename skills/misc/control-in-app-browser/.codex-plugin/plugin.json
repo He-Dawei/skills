@@ -1,0 +1,18 @@
+{
+  "name": "control-in-app-browser",
+  "version": "1.0.0",
+  "description": "\"Control the in-app Browser for opening, navigating, inspecting visible or interactive page state, c",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "control-in-app-browser",
+    "shortDescription": "\"Control the in-app Browser for opening, navigating, inspecting visible or interactive page state, c",
+    "longDescription": "\"Control the in-app Browser for opening, navigating, inspecting visible or interactive page state, clicking, typing, screenshots, and local web testing. It can have existing signed-in sessions. For semantic operations on linked resources, prefer a purpose-built connector, API, or CLI when available.\"",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

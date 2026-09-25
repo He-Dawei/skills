@@ -1,0 +1,18 @@
+{
+  "name": "chatcut-plugin-basics",
+  "version": "1.0.0",
+  "description": "\"Use for video editing or video creation work that should be editable in ChatCut, even when the user",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "chatcut-plugin-basics",
+    "shortDescription": "\"Use for video editing or video creation work that should be editable in ChatCut, even when the user",
+    "longDescription": "\"Use for video editing or video creation work that should be editable in ChatCut, even when the user does not explicitly mention ChatCut. Covers local/attached video editing, captions/subtitles, transcription, trimming, talking-head cleanup, highlights, B-roll, overlays, generation, export, project/editor opening, importing, targeting, verifying, watching, and identifying the active ChatCut project/editor URL. Also use when ChatCut tools appear missing, unavailable, or not connected: that is normally an unauthenticated MCP server rather than a broken install, and this skill says what to tell the user.\"",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

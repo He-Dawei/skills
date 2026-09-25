@@ -1,0 +1,18 @@
+{
+  "name": "visualize",
+  "version": "1.0.0",
+  "description": "\"Create visualizations and interactive tools directly in conversation. Use when asked to show how so",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "visualize",
+    "shortDescription": "\"Create visualizations and interactive tools directly in conversation. Use when asked to show how so",
+    "longDescription": "\"Create visualizations and interactive tools directly in conversation. Use when asked to show how something works, make simulators or labs, maps, plots, charts or graphs, comparisons, scenarios, adjustable inputs, and exploration beyond regular text.\"",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

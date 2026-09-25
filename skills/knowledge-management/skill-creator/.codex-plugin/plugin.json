@@ -1,0 +1,18 @@
+{
+  "name": "skill-creator",
+  "version": "1.0.0",
+  "description": "Guide for creating or updating reusable agent skills with focused instructions, optional scripts, re",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "skill-creator",
+    "shortDescription": "Guide for creating or updating reusable agent skills with focused instructions, optional scripts, re",
+    "longDescription": "Guide for creating or updating reusable agent skills with focused instructions, optional scripts, references, assets, and validation. Use when an agent needs to create, improve, package, or validate a skill.",
+    "category": "documents",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

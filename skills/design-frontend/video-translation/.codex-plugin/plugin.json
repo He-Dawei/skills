@@ -1,0 +1,18 @@
+{
+  "name": "video-translation",
+  "version": "1.0.0",
+  "description": "|",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "video-translation",
+    "shortDescription": "|",
+    "longDescription": "|",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

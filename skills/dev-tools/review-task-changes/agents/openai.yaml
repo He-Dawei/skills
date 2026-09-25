@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Change Review"
+  short_description: "Review scope, compatibility, errors, and duplication"
+  default_prompt: "Use $review-task-changes to review the completed task changes before final delivery."

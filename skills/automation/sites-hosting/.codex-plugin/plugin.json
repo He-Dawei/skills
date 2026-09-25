@@ -1,0 +1,18 @@
+{
+  "name": "sites-hosting",
+  "version": "1.0.0",
+  "description": "Host websites with Sites. Always use after `sites-building`, and use for website publishing, deploym",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "sites-hosting",
+    "shortDescription": "Host websites with Sites. Always use after `sites-building`, and use for website publishing, deploym",
+    "longDescription": "Host websites with Sites. Always use after `sites-building`, and use for website publishing, deployment, hosting management, or projects containing `.openai/hosting.json`.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

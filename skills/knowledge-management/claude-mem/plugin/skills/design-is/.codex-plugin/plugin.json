@@ -1,0 +1,18 @@
+{
+  "name": "design-is",
+  "version": "1.0.0",
+  "description": "Audit a design against Dieter Rams' ten \"Good design is...\" principles, then hand off a /make-plan p",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "design-is",
+    "shortDescription": "Audit a design against Dieter Rams' ten \"Good design is...\" principles, then hand off a /make-plan p",
+    "longDescription": "Audit a design against Dieter Rams' ten \"Good design is...\" principles, then hand off a /make-plan prompt for one of three outcomes — new design, refine design, or redesign. Use when the user says \"audit this design\", \"design review\", \"check this UI against Rams\", \"is this UI good\", \"critique this design\", \"design audit\", or asks for a critique that should lead to a plan.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

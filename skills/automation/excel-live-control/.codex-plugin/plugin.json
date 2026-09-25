@@ -1,0 +1,18 @@
+{
+  "name": "\"excel-live-control\"",
+  "version": "1.0.0",
+  "description": "\"Control an open or active Microsoft Excel workbook through the ChatGPT add-in or connected session.",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "\"excel-live-control\"",
+    "shortDescription": "\"Control an open or active Microsoft Excel workbook through the ChatGPT add-in or connected session.",
+    "longDescription": "\"Control an open or active Microsoft Excel workbook through the ChatGPT add-in or connected session. Use when the user tags the Microsoft Excel app in Codex or follows up on an established live Excel task. Do not use for standalone spreadsheet files or Google Sheets.\"",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

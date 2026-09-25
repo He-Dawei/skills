@@ -1,0 +1,18 @@
+{
+  "name": "widget-forms",
+  "version": "1.0.0",
+  "description": "Ask for structured ChatCut input using the current plugin host's supported form surface.",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "widget-forms",
+    "shortDescription": "Ask for structured ChatCut input using the current plugin host's supported form surface.",
+    "longDescription": "Ask for structured ChatCut input using the current plugin host's supported form surface.",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

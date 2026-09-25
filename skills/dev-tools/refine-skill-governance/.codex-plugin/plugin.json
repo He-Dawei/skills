@@ -1,0 +1,18 @@
+{
+  "name": "refine-skill-governance",
+  "version": "1.0.0",
+  "description": "Evaluate completed-task learnings and recommend whether to retain them as a reusable skill, an autom",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "refine-skill-governance",
+    "shortDescription": "Evaluate completed-task learnings and recommend whether to retain them as a reusable skill, an autom",
+    "longDescription": "Evaluate completed-task learnings and recommend whether to retain them as a reusable skill, an automated workflow, both, or neither. Use at substantive task closeout or when refining, layering, deduplicating, validating, or governing installed skills so each skill continues to trigger only in the correct scenario.",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

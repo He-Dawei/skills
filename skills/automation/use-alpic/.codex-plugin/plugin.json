@@ -1,0 +1,18 @@
+{
+  "name": "use-alpic",
+  "version": "1.0.0",
+  "description": "Use Alpic Cloud and the `alpic` CLI for deployed MCP apps/servers, including deploys, builds, logs, ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "use-alpic",
+    "shortDescription": "Use Alpic Cloud and the `alpic` CLI for deployed MCP apps/servers, including deploys, builds, logs, ",
+    "longDescription": "Use Alpic Cloud and the `alpic` CLI for deployed MCP apps/servers, including deploys, builds, logs, debugging, environments, environment variables, tunnels, playgrounds, audits, auth, domains, IP restrictions, analytics, insights, versioning, and MCP Registry publishing.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

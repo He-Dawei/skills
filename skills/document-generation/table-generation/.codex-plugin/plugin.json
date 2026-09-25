@@ -1,0 +1,18 @@
+{
+  "name": "table-generation",
+  "version": "1.0.0",
+  "description": "Generate publication-quality LaTeX tables from experimental results. Convert JSON/CSV data to bookta",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "table-generation",
+    "shortDescription": "Generate publication-quality LaTeX tables from experimental results. Convert JSON/CSV data to bookta",
+    "longDescription": "Generate publication-quality LaTeX tables from experimental results. Convert JSON/CSV data to booktabs-styled tables with bold best results, multi-row layouts, and proper captions. Use when creating result tables, comparison tables, or ablation tables for papers.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

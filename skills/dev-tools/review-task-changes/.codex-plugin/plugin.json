@@ -1,0 +1,18 @@
+{
+  "name": "review-task-changes",
+  "version": "1.0.0",
+  "description": "Review completed implementation or configuration work before final delivery. Use after any task that",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "review-task-changes",
+    "shortDescription": "Review completed implementation or configuration work before final delivery. Use after any task that",
+    "longDescription": "Review completed implementation or configuration work before final delivery. Use after any task that changes code, configuration, schemas, data, or files, especially to check whether edits exceeded the requested scope, touched unrelated files, broke API or data compatibility, missed failure states, or introduced duplicate maintenance logic.",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

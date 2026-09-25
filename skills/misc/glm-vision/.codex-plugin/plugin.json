@@ -1,0 +1,18 @@
+{
+  "name": "glm-vision",
+  "version": "1.0.0",
+  "description": "\"PRIMARY image recognition — use FIRST whenever user shares any image (local path, URL, attachment, ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "glm-vision",
+    "shortDescription": "\"PRIMARY image recognition — use FIRST whenever user shares any image (local path, URL, attachment, ",
+    "longDescription": "\"PRIMARY image recognition — use FIRST whenever user shares any image (local path, URL, attachment, screenshot, photo, diagram). Calls GLM vision models via MCP tool with automatic fallback (GLM-4.6V → GLM-4.1V-Thinking-FlashX → GLM-4.6V-Flash). Only fall back to 'vision' skill if this MCP tool is unavailable or fails. Triggers on: any image file, 'look at this', 'what's in this picture', 'describe this screenshot', 'analyze this image', '识别图片', '看看这张图'.\"",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

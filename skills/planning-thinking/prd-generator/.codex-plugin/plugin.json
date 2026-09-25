@@ -1,0 +1,18 @@
+{
+  "name": "prd-generator",
+  "version": "1.0.0",
+  "description": "协助产品经理生成专业的产品需求文档(PRD)，通过交互式问答收集信息，进行竞品研究，迭代优化各模块内容，最终输出结构化的PRD文档。",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "prd-generator",
+    "shortDescription": "协助产品经理生成专业的产品需求文档(PRD)，通过交互式问答收集信息，进行竞品研究，迭代优化各模块内容，最终输出结构化的PRD文档。",
+    "longDescription": "协助产品经理生成专业的产品需求文档(PRD)，通过交互式问答收集信息，进行竞品研究，迭代优化各模块内容，最终输出结构化的PRD文档。",
+    "category": "career",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

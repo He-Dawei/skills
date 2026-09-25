@@ -1,0 +1,18 @@
+{
+  "name": "remotion-render",
+  "version": "1.0.0",
+  "description": "Export a Remotion video",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "remotion-render",
+    "shortDescription": "Export a Remotion video",
+    "longDescription": "Export a Remotion video",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

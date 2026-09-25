@@ -1,0 +1,18 @@
+{
+  "name": "remotion-multimedia",
+  "version": "1.0.0",
+  "description": "Interacting with Mediabunny",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "remotion-multimedia",
+    "shortDescription": "Interacting with Mediabunny",
+    "longDescription": "Interacting with Mediabunny",
+    "category": "ai-ml",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

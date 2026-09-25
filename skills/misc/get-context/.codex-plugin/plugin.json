@@ -1,0 +1,18 @@
+{
+  "name": "get-context",
+  "version": "1.0.0",
+  "description": "\"Mandatory design-brief gate for clarifying the product and outcome. Use before ideation, image-to-c",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "get-context",
+    "shortDescription": "\"Mandatory design-brief gate for clarifying the product and outcome. Use before ideation, image-to-c",
+    "longDescription": "\"Mandatory design-brief gate for clarifying the product and outcome. Use before ideation, image-to-code builds, redesigns, or product UI work to clarify missing product information and play back the brief before proceeding.\"",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

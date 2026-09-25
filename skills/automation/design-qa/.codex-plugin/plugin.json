@@ -1,0 +1,18 @@
+{
+  "name": "design-qa",
+  "version": "1.0.0",
+  "description": "\"Internal prototype QA helper. Use only after a Product Design prototype, URL-to-code build, or imag",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "design-qa",
+    "shortDescription": "\"Internal prototype QA helper. Use only after a Product Design prototype, URL-to-code build, or imag",
+    "longDescription": "\"Internal prototype QA helper. Use only after a Product Design prototype, URL-to-code build, or image-to-code build has a source visual target and a rendered implementation to compare before handoff. Do not use for broad UX critique, design critique, product audits, or flow reviews; route those user-facing requests to audit.\"",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "chatcut",
+  "version": "1.0.0",
+  "description": "Create AI-edited videos via ChatCut from a prompt and a list of assets (URLs or local file paths). U",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "chatcut",
+    "shortDescription": "Create AI-edited videos via ChatCut from a prompt and a list of assets (URLs or local file paths). U",
+    "longDescription": "Create AI-edited videos via ChatCut from a prompt and a list of assets (URLs or local file paths). Use when the user asks to make/edit/generate a video, highlight reel, talking-head cut, social clip, promo, or similar — and provides or implies media to work from, whether that's links or files on their machine.",
+    "category": "video-audio",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

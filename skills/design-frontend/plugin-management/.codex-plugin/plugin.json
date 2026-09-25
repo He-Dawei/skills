@@ -1,0 +1,18 @@
+{
+  "name": "plugin-management",
+  "version": "1.0.0",
+  "description": "Discover and suggest relevant plugins, inspect app permissions and dependencies, and manage plugin c",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "plugin-management",
+    "shortDescription": "Discover and suggest relevant plugins, inspect app permissions and dependencies, and manage plugin c",
+    "longDescription": "Discover and suggest relevant plugins, inspect app permissions and dependencies, and manage plugin connections or removal. Use when the user asks about plugins or when a task would materially benefit from an external app, account, service, or data source that available tools cannot access.",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

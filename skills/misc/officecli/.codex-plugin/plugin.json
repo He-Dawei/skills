@@ -1,0 +1,18 @@
+{
+  "name": "officecli",
+  "version": "1.0.0",
+  "description": "Create, analyze, proofread, and modify Office documents (.docx, .xlsx, .pptx) using the officecli CL",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "officecli",
+    "shortDescription": "Create, analyze, proofread, and modify Office documents (.docx, .xlsx, .pptx) using the officecli CL",
+    "longDescription": "Create, analyze, proofread, and modify Office documents (.docx, .xlsx, .pptx) using the officecli CLI tool. Use when the user wants to create, inspect, check formatting, find issues, add charts, or modify Office documents.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

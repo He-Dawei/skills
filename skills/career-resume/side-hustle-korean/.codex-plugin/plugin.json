@@ -1,0 +1,18 @@
+{
+  "name": "side-hustle-universal",
+  "version": "1.0.0",
+  "description": "Use when user in China wants to make money online with low budget and minimal time. Triggers on 副业, ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "side-hustle-universal",
+    "shortDescription": "Use when user in China wants to make money online with low budget and minimal time. Triggers on 副业, ",
+    "longDescription": "Use when user in China wants to make money online with low budget and minimal time. Triggers on 副业, 赚钱, 闲鱼, AI代写, AI代做, 虚拟产品, 小红书变现, 短视频剪辑, 日入500, making money. Covers v4 3-channel system: Xianyu AI services (AI writing/PPT/resume/scripts/photo), Xianyu virtual products (resume/contract templates, exam prep), Xiaohongshu content-driven lead gen. All product files pre-generated and ready to sell.",
+    "category": "career",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

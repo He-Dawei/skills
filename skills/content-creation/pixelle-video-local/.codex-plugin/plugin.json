@@ -1,0 +1,18 @@
+{
+  "name": "pixelle-video-local",
+  "version": "1.0.0",
+  "description": "Route video-generation requests through the user's local Pixelle-Video service. Use whenever the use",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "pixelle-video-local",
+    "shortDescription": "Route video-generation requests through the user's local Pixelle-Video service. Use whenever the use",
+    "longDescription": "Route video-generation requests through the user's local Pixelle-Video service. Use whenever the user asks to create, generate, render, or make a video. Before selecting any video backend, ask whether to use local Pixelle-Video at http://localhost:8000; an explicit Pixelle selection counts as yes. If yes, start or verify the API, submit the asynchronous video request, and poll it to completion. If no, hand off to the appropriate non-Pixelle video skill.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "slide-generation",
+  "version": "1.0.0",
+  "description": "Convert a completed paper into presentation slides (Beamer LaTeX) or poster. Extract key figures, ta",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "slide-generation",
+    "shortDescription": "Convert a completed paper into presentation slides (Beamer LaTeX) or poster. Extract key figures, ta",
+    "longDescription": "Convert a completed paper into presentation slides (Beamer LaTeX) or poster. Extract key figures, tables, equations, and create a narrative flow for oral presentation. Identified gap in existing tools — designed from best practices.",
+    "category": "academic-writing",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

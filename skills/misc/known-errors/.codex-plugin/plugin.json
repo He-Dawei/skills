@@ -1,0 +1,18 @@
+{
+  "name": "known-errors",
+  "version": "1.0.0",
+  "description": "Diagnose ChatCut plugin tool failures, rejected mutations, unexpected response shapes, and blocked i",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "known-errors",
+    "shortDescription": "Diagnose ChatCut plugin tool failures, rejected mutations, unexpected response shapes, and blocked i",
+    "longDescription": "Diagnose ChatCut plugin tool failures, rejected mutations, unexpected response shapes, and blocked import, generation, or render operations.",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

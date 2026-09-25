@@ -1,0 +1,18 @@
+{
+  "name": "xhs-account-diagnosis",
+  "version": "1.0.0",
+  "description": "Lingzao lightweight XHS account diagnosis Skill for Xiaohongshu account analysis, homepage positioni",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "xhs-account-diagnosis",
+    "shortDescription": "Lingzao lightweight XHS account diagnosis Skill for Xiaohongshu account analysis, homepage positioni",
+    "longDescription": "Lingzao lightweight XHS account diagnosis Skill for Xiaohongshu account analysis, homepage positioning, content line, title and cover pattern, audience fit, follow reason, and next 7-30 day creator actions. Use when the user asks for lingzao xhs account diagnosis, Xiaohongshu account analysis, 小红书账号诊断, 主页诊断, 涨粉问题, 账号定位, 内容主线, or 为什么账号不涨粉.",
+    "category": "content-creation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

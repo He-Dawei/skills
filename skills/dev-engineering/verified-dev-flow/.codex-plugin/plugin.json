@@ -1,0 +1,18 @@
+{
+  "name": "verified-dev-flow",
+  "version": "1.0.0",
+  "description": "用四阶段循环（编写计划 → 审查计划 → 实施 → 审查实施）严格、可追溯地完成软件项目需求；适用于 Claude Code、Codex 或其他具备文件读取、编辑与终端能力的编码代理。阶段间通过文档传",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "verified-dev-flow",
+    "shortDescription": "用四阶段循环（编写计划 → 审查计划 → 实施 → 审查实施）严格、可追溯地完成软件项目需求；适用于 Claude Code、Codex 或其他具备文件读取、编辑与终端能力的编码代理。阶段间通过文档传",
+    "longDescription": "用四阶段循环（编写计划 → 审查计划 → 实施 → 审查实施）严格、可追溯地完成软件项目需求；适用于 Claude Code、Codex 或其他具备文件读取、编辑与终端能力的编码代理。阶段间通过文档传递信息；支持脚本驱动的独立 agent 调用，也支持在当前代理内按阶段手动执行。当用户提到“按计划走”、“先写方案再实施”、“严格规划再落地”、“自动化计划与执行”、“verified-dev-flow”、“四阶段流程”、“先评审方案”，或调用 /verified-dev-flow 时，必须使用本 skill。",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

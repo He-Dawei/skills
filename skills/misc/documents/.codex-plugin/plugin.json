@@ -1,0 +1,18 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "Create, edit, redline, and comment on `.docx`, Word, and Google Docs-targeted document artifacts ins",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "documents",
+    "shortDescription": "Create, edit, redline, and comment on `.docx`, Word, and Google Docs-targeted document artifacts ins",
+    "longDescription": "Create, edit, redline, and comment on `.docx`, Word, and Google Docs-targeted document artifacts inside the container, with a strict render-and-verify workflow. Use `render_docx.py` to generate page PNGs (and optional PDF) for visual QA, then iterate until layout is flawless before delivering the final document.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

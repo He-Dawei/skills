@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Refinement Governance"
+  short_description: "Choose skill or automation retention and govern skill layers"
+  default_prompt: "Use $refine-skill-governance to decide how this task learnings should be retained and governed."

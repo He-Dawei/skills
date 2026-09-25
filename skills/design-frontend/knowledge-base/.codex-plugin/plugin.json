@@ -1,0 +1,18 @@
+{
+  "name": "knowledge-base",
+  "version": "1.0.0",
+  "description": "Search and answer from the local LLM-Wiki knowledge base before using web sources. Use for research,",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "knowledge-base",
+    "shortDescription": "Search and answer from the local LLM-Wiki knowledge base before using web sources. Use for research,",
+    "longDescription": "Search and answer from the local LLM-Wiki knowledge base before using web sources. Use for research, explanations, comparisons, summaries, writing, planning, or any task that may relate to the user's saved sources, concepts, collections, tags, or prior learning notes.",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

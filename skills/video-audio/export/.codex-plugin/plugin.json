@@ -1,0 +1,18 @@
+{
+  "name": "export",
+  "version": "1.0.0",
+  "description": "Export or deliver a ChatCut project through the hosted connector, including video, audio, subtitles,",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "export",
+    "shortDescription": "Export or deliver a ChatCut project through the hosted connector, including video, audio, subtitles,",
+    "longDescription": "Export or deliver a ChatCut project through the hosted connector, including video, audio, subtitles, XML, and render-status checks.",
+    "category": "video-audio",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

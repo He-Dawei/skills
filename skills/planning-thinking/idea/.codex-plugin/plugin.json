@@ -1,0 +1,18 @@
+{
+  "name": "idea",
+  "version": "1.0.0",
+  "description": "在启动 /research 之前帮用户**把模糊主题收敛成具体可做的研究问题**。输入一个粗糙的方向（例如\"提升图像生成质量\"、\"让 LLM 更会写代码\"），产出 3–5 个具体、可证伪、有评测指标、",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "idea",
+    "shortDescription": "在启动 /research 之前帮用户**把模糊主题收敛成具体可做的研究问题**。输入一个粗糙的方向（例如\"提升图像生成质量\"、\"让 LLM 更会写代码\"），产出 3–5 个具体、可证伪、有评测指标、",
+    "longDescription": "在启动 /research 之前帮用户**把模糊主题收敛成具体可做的研究问题**。输入一个粗糙的方向（例如\"提升图像生成质量\"、\"让 LLM 更会写代码\"），产出 3–5 个具体、可证伪、有评测指标、可行性明确的问题候选，每个带 scope 和 why-interesting。不做实验、不跑代码，只做问题形式化。 | Converge a vague research direction into 3–5 concrete, falsifiable problem formulations with metrics and scope — the step before /research.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

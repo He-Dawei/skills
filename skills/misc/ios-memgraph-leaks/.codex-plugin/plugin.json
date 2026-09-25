@@ -1,0 +1,18 @@
+{
+  "name": "ios-memgraph-leaks",
+  "version": "1.0.0",
+  "description": "Capture and inspect iOS leaks and memgraphs. Use when debugging leaked objects, retain cycles, memor",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "ios-memgraph-leaks",
+    "shortDescription": "Capture and inspect iOS leaks and memgraphs. Use when debugging leaked objects, retain cycles, memor",
+    "longDescription": "Capture and inspect iOS leaks and memgraphs. Use when debugging leaked objects, retain cycles, memory growth, or before/after leak evidence.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

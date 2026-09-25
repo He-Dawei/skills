@@ -1,0 +1,18 @@
+{
+  "name": "grill-me",
+  "version": "1.0.0",
+  "description": "Relentlessly interview the user to sharpen and stress-test a plan, design, decision, or idea until e",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "grill-me",
+    "shortDescription": "Relentlessly interview the user to sharpen and stress-test a plan, design, decision, or idea until e",
+    "longDescription": "Relentlessly interview the user to sharpen and stress-test a plan, design, decision, or idea until every important branch and dependency is resolved. Use when the user explicitly invokes $grill-me or /grill-me, says \"grill me\", asks to be challenged or interviewed before acting, or wants to reach a precise shared understanding before implementation.",
+    "category": "thinking",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

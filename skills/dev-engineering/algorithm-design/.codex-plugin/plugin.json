@@ -1,0 +1,18 @@
+{
+  "name": "algorithm-design",
+  "version": "1.0.0",
+  "description": "Design algorithms with LaTeX pseudocode and UML diagrams. Generate algorithmic environments, Mermaid",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "algorithm-design",
+    "shortDescription": "Design algorithms with LaTeX pseudocode and UML diagrams. Generate algorithmic environments, Mermaid",
+    "longDescription": "Design algorithms with LaTeX pseudocode and UML diagrams. Generate algorithmic environments, Mermaid class/sequence diagrams, and ensure consistency between pseudocode and implementation. Use when formalizing methods for a paper.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

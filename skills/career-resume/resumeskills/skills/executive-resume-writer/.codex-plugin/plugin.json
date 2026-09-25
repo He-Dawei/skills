@@ -1,0 +1,18 @@
+{
+  "name": "executive-resume-writer",
+  "version": "1.0.0",
+  "description": "Create C-suite and VP level resumes emphasizing strategic leadership",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "executive-resume-writer",
+    "shortDescription": "Create C-suite and VP level resumes emphasizing strategic leadership",
+    "longDescription": "Create C-suite and VP level resumes emphasizing strategic leadership",
+    "category": "career",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

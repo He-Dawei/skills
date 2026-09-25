@@ -1,0 +1,18 @@
+{
+  "name": "remotion-studio",
+  "version": "1.0.0",
+  "description": "Preview a Remotion video",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "remotion-studio",
+    "shortDescription": "Preview a Remotion video",
+    "longDescription": "Preview a Remotion video",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

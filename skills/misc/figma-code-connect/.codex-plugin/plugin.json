@@ -1,0 +1,18 @@
+{
+  "name": "figma-code-connect",
+  "version": "1.0.0",
+  "description": "Creates and maintains Figma Code Connect template files that map Figma components to code snippets. ",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "figma-code-connect",
+    "shortDescription": "Creates and maintains Figma Code Connect template files that map Figma components to code snippets. ",
+    "longDescription": "Creates and maintains Figma Code Connect template files that map Figma components to code snippets. Use when the user mentions Code Connect, Figma component mapping, design-to-code translation, or asks to create/update .figma.ts or .figma.js files.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

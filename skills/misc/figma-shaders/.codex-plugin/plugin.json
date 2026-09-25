@@ -1,0 +1,18 @@
+{
+  "name": "figma-shaders",
+  "version": "1.0.0",
+  "description": "\"**MANDATORY prerequisite** — load this skill before calling `create_shader` or `update_shader`. Use",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "figma-shaders",
+    "shortDescription": "\"**MANDATORY prerequisite** — load this skill before calling `create_shader` or `update_shader`. Use",
+    "longDescription": "\"**MANDATORY prerequisite** — load this skill before calling `create_shader` or `update_shader`. Use when the user asks to create, author, change, fix, or iterate on a shader effect, shader fill, custom effect, custom fill, or procedural shader in Figma.\"",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "github-vault-router",
+  "version": "1.0.0",
+  "description": "Initialize or maintain a GitHub project intake, mandatory thin discovery plus semantic project-refer",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "github-vault-router",
+    "shortDescription": "Initialize or maintain a GitHub project intake, mandatory thin discovery plus semantic project-refer",
+    "longDescription": "Initialize or maintain a GitHub project intake, mandatory thin discovery plus semantic project-reference routing, Agent capability cold-storage, or L1/L2 routing vault. Use when the user gives this repository link, asks to build or migrate the workflow, evaluate a GitHub repo into the vault, surface a relevant retained GitHub reference during a substantive task, inventory a Skill/Plugin/MCP/CLI, or update routing. Do not use for ordinary coding unrelated to repository intake or capability governance.",
+    "category": "ai-ml",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

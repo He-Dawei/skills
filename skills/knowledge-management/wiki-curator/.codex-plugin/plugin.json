@@ -1,0 +1,18 @@
+{
+  "name": "wiki-curator",
+  "version": "1.0.0",
+  "description": "Maintain the llm-wiki knowledge base using the LLM Wiki pattern. Use for ingesting sources, linting,",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "wiki-curator",
+    "shortDescription": "Maintain the llm-wiki knowledge base using the LLM Wiki pattern. Use for ingesting sources, linting,",
+    "longDescription": "Maintain the llm-wiki knowledge base using the LLM Wiki pattern. Use for ingesting sources, linting, archiving queries, and keeping the wiki healthy.",
+    "category": "knowledge-management",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

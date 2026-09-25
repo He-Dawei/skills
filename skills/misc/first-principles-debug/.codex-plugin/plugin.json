@@ -1,0 +1,18 @@
+{
+  "name": "first-principles-debug",
+  "version": "1.0.0",
+  "description": "When encountering an error, bug, or test failure that resists initial fix attempts — before proposin",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "first-principles-debug",
+    "shortDescription": "When encountering an error, bug, or test failure that resists initial fix attempts — before proposin",
+    "longDescription": "When encountering an error, bug, or test failure that resists initial fix attempts — before proposing any fix, restate the error, scope the impact, enumerate possible causes, choose the minimal fix path, and define verification. Also: before formal output, apply first-principles scrutiny to user input — if logical flaws or cognitive biases are detected, point them out directly with actionable improvements. No flattery, no pandering, no avoidance.",
+    "category": "thinking",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

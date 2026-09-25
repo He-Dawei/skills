@@ -1,0 +1,18 @@
+{
+  "name": "baoyu-electron-extract",
+  "version": "1.0.0",
+  "description": "Extracts resources and JavaScript from any installed Electron app (`.asar` bundle), restoring origin",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "baoyu-electron-extract",
+    "shortDescription": "Extracts resources and JavaScript from any installed Electron app (`.asar` bundle), restoring origin",
+    "longDescription": "Extracts resources and JavaScript from any installed Electron app (`.asar` bundle), restoring original sources from `.js.map` files when available or formatting minified code with Prettier otherwise. Use when user wants to \"extract Electron app\", \"decompile Electron\", \"get the source code of <app>\", \"inspect app.asar\", \"看 Electron 应用源码\", \"提取 .asar\", or asks how a desktop Electron app is built. Skips `node_modules` and supports both macOS and Windows.",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

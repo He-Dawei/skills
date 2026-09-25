@@ -1,0 +1,18 @@
+{
+  "name": "repo-recap",
+  "version": "1.0.0",
+  "description": "Generate a comprehensive repo recap (PRs, issues, releases) for sharing with team. Pass \"en\" or \"fr\"",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "repo-recap",
+    "shortDescription": "Generate a comprehensive repo recap (PRs, issues, releases) for sharing with team. Pass \"en\" or \"fr\"",
+    "longDescription": "Generate a comprehensive repo recap (PRs, issues, releases) for sharing with team. Pass \"en\" or \"fr\" as argument for language (default fr).",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

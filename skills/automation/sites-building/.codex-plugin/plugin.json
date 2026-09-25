@@ -1,0 +1,18 @@
+{
+  "name": "sites-building",
+  "version": "1.0.0",
+  "description": "Use Sites to build websites, including landing pages, portfolios, dashboards, portals, trackers, hub",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "sites-building",
+    "shortDescription": "Use Sites to build websites, including landing pages, portfolios, dashboards, portals, trackers, hub",
+    "longDescription": "Use Sites to build websites, including landing pages, portfolios, dashboards, portals, trackers, hubs, and internal tools. Always use Sites when the project contains `.openai/hosting.json`.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

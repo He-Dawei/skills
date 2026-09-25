@@ -1,0 +1,18 @@
+{
+  "name": "baoyu-infographic",
+  "version": "1.0.0",
+  "description": "Generate professional infographics with 21 layout types and 22 visual styles. Analyzes content, reco",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "baoyu-infographic",
+    "shortDescription": "Generate professional infographics with 21 layout types and 22 visual styles. Analyzes content, reco",
+    "longDescription": "Generate professional infographics with 21 layout types and 22 visual styles. Analyzes content, recommends layout×style combinations, and generates publication-ready infographics. Use when user asks to create \"infographic\", \"信息图\", \"visual summary\", \"可视化\", or \"高密度信息大图\".",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

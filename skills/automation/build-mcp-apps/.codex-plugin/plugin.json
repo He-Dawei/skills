@@ -1,0 +1,18 @@
+{
+  "name": "build-mcp-apps",
+  "version": "1.0.0",
+  "description": "Guide developers through creating and updating MCP servers, MCP apps, and ChatGPT apps with Skybridg",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "build-mcp-apps",
+    "shortDescription": "Guide developers through creating and updating MCP servers, MCP apps, and ChatGPT apps with Skybridg",
+    "longDescription": "Guide developers through creating and updating MCP servers, MCP apps, and ChatGPT apps with Skybridge. Covers brainstorming, bootstrapping, implementing tools/views, debugging, running dev servers, and preparing apps for deployment. Use when a user wants to create or update a ChatGPT app, MCP app, MCP server, or use the Skybridge framework.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "oula-skill-creator",
+  "version": "1.0.0",
+  "description": "Guide for creating or updating reusable agent skills with focused instructions, optional scripts, re",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "oula-skill-creator",
+    "shortDescription": "Guide for creating or updating reusable agent skills with focused instructions, optional scripts, re",
+    "longDescription": "Guide for creating or updating reusable agent skills with focused instructions, optional scripts, references, assets, and validation. Use when an agent needs to create, improve, package, or validate a skill. (Oula variant — use alongside official skill-creator)",
+    "category": "dev-tools",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

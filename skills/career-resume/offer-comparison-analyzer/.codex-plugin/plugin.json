@@ -1,0 +1,18 @@
+{
+  "name": "offer-comparison-analyzer",
+  "version": "1.0.0",
+  "description": "Compare multiple job offers side-by-side with total compensation analysis",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "offer-comparison-analyzer",
+    "shortDescription": "Compare multiple job offers side-by-side with total compensation analysis",
+    "longDescription": "Compare multiple job offers side-by-side with total compensation analysis",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

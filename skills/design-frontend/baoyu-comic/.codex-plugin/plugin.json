@@ -1,0 +1,18 @@
+{
+  "name": "baoyu-comic",
+  "version": "1.0.0",
+  "description": "Knowledge comic creator supporting multiple art styles and tones. Creates original educational comic",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "baoyu-comic",
+    "shortDescription": "Knowledge comic creator supporting multiple art styles and tones. Creates original educational comic",
+    "longDescription": "Knowledge comic creator supporting multiple art styles and tones. Creates original educational comics with detailed panel layouts and batch-capable image generation. Use when user asks to create \"知识漫画\", \"教育漫画\", \"biography comic\", \"tutorial comic\", or \"Logicomix-style comic\".",
+    "category": "design-frontend",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

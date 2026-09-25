@@ -1,0 +1,18 @@
+{
+  "name": "mem-search",
+  "version": "1.0.0",
+  "description": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already sol",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "mem-search",
+    "shortDescription": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already sol",
+    "longDescription": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already solve this?\", \"how did we do X last time?\", or needs work from previous sessions.",
+    "category": "automation",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

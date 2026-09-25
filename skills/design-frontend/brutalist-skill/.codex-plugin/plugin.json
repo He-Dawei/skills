@@ -1,0 +1,18 @@
+{
+  "name": "industrial-brutalist-ui",
+  "version": "1.0.0",
+  "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid gr",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "industrial-brutalist-ui",
+    "shortDescription": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid gr",
+    "longDescription": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog degradation effects. For data-heavy dashboards, portfolios, or editorial sites that need to feel like declassified blueprints.",
+    "category": "misc",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

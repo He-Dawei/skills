@@ -1,0 +1,18 @@
+{
+  "name": "post-task-review",
+  "version": "1.0.0",
+  "description": "After every task completion — run a 5-point self-review before declaring done. Scope creep, unintend",
+  "author": {
+    "name": "Shared Skills"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "post-task-review",
+    "shortDescription": "After every task completion — run a 5-point self-review before declaring done. Scope creep, unintend",
+    "longDescription": "After every task completion — run a 5-point self-review before declaring done. Scope creep, unintended file changes, API/data compatibility, error handling gaps, and duplicate logic. Trigger automatically after any non-trivial implementation task, file edit, or code change.",
+    "category": "thinking",
+    "capabilities": [],
+    "developerName": "Shared Skills"
+  }
+}

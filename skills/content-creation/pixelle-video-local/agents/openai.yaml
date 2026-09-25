@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Pixelle Video"
+  short_description: "Ask before using and call the local Pixelle video API"
+  default_prompt: "Use $pixelle-video-local to generate this video with my local Pixelle-Video service."
