@@ -4,3 +4,14 @@ __pycache__/
 .DS_Store
 *.exe
 *.dll
+
+# 大体积 vendored 二进制 —— 2026-09-25 那次提交带进约 240MB，别再涨
+**/asset-import/scripts/ffmpeg/**
+*.exe.gz
+*.dylib
+*.so
+*.pptx
+*.mp4
+*.mov
+venv/
+.pytest_cache/
