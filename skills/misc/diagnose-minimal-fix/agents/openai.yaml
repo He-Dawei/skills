@@ -1,4 +1,0 @@
-interface:
-  display_name: "Stalled Error Escalation"
-  short_description: "Escalate repeated errors with the smallest evidence-backed step"
-  default_prompt: "Use $diagnose-minimal-fix to reassess this failed repair and choose the next smallest verifiable step."

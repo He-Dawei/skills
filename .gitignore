@@ -15,3 +15,12 @@ __pycache__/
 *.mov
 venv/
 .pytest_cache/
+
+# 嵌套 git 仓库 —— 各自有上游远程，外层仓库不收（2026-09-27）
+skills/design-frontend/zotero-skill/
+skills/misc/douyin-obsidian/
+skills/misc/dy-note/
+skills/misc/web-access/
+skills/misc/zotero-skill/
+skills/social-media/douyin-obsidian/
+skills/social-media/dy-note/
