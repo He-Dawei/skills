@@ -1,0 +1,18 @@
+{
+  "name": "me-index",
+  "version": "1.0.0",
+  "description": "个人系统的总入口与路由索引。任何非平凡任务开始时先读它——先判断任务主题，再只加载相关的 memory 文件和 skill，不加载全部历史。触发词：你还记得吗、我的偏好、该读什么、索引、路由、memory、个人规则、上次怎么做的。",
+  "author": {
+    "name": "Personal OS"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "me-index",
+    "shortDescription": "个人系统的总入口与路由索引。任何非平凡任务开始时先读它——先判断任务主题，再只加载相关的 memory 文件和 skill，不加载全部历史。触发词：你还记得吗、我的偏好、该读什么、索引、路由、memory、个人规则、上次怎么做的。",
+    "longDescription": "个人系统的总入口与路由索引。任何非平凡任务开始时先读它——先判断任务主题，再只加载相关的 memory 文件和 skill，不加载全部历史。触发词：你还记得吗、我的偏好、该读什么、索引、路由、memory、个人规则、上次怎么做的。",
+    "category": "personal-os",
+    "capabilities": [],
+    "developerName": "Personal OS"
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub Vault Router"
+  short_description: "Route saved GitHub capabilities with thin discovery"
+  default_prompt: "Use $github-vault-router to build or migrate a GitHub intake and thin-discovery routing vault."
+
+policy:
+  allow_implicit_invocation: true

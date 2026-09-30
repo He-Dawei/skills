@@ -1,0 +1,18 @@
+{
+  "name": "me-output",
+  "version": "1.0.0",
+  "description": "生成文件的存放位置、桌面清洁规则、格式工具选择。任何要产出文件（docx/pptx/pdf/xlsx/图片/导出/脚本）或临时脚本的任务都适用。触发词：导出、生成文件、存哪、保存、桌面、下载目录、简历 docx、报告文件。",
+  "author": {
+    "name": "Personal OS"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "me-output",
+    "shortDescription": "生成文件的存放位置、桌面清洁规则、格式工具选择。任何要产出文件（docx/pptx/pdf/xlsx/图片/导出/脚本）或临时脚本的任务都适用。触发词：导出、生成文件、存哪、保存、桌面、下载目录、简历 docx、报告文件。",
+    "longDescription": "生成文件的存放位置、桌面清洁规则、格式工具选择。任何要产出文件（docx/pptx/pdf/xlsx/图片/导出/脚本）或临时脚本的任务都适用。触发词：导出、生成文件、存哪、保存、桌面、下载目录、简历 docx、报告文件。",
+    "category": "personal-os",
+    "capabilities": [],
+    "developerName": "Personal OS"
+  }
+}

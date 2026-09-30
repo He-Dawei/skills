@@ -1,0 +1,18 @@
+{
+  "name": "me-guard",
+  "version": "1.0.0",
+  "description": "不可逆或对外动作前必过的安全闸门——删除、发布、付款、账号、密钥、外部发送、覆盖文件。检查范围、风险、可逆性三问。同时路由调试类任务。触发词：删除、清空、覆盖、发布、上传、发送、付款、下单、登录、授权、token、密钥、密码、cookie、改配置、装依赖。",
+  "author": {
+    "name": "Personal OS"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "interface": {
+    "displayName": "me-guard",
+    "shortDescription": "不可逆或对外动作前必过的安全闸门——删除、发布、付款、账号、密钥、外部发送、覆盖文件。检查范围、风险、可逆性三问。同时路由调试类任务。触发词：删除、清空、覆盖、发布、上传、发送、付款、下单、登录、授权、token、密钥、密码、cookie、改配置、装依赖。",
+    "longDescription": "不可逆或对外动作前必过的安全闸门——删除、发布、付款、账号、密钥、外部发送、覆盖文件。检查范围、风险、可逆性三问。同时路由调试类任务。触发词：删除、清空、覆盖、发布、上传、发送、付款、下单、登录、授权、token、密钥、密码、cookie、改配置、装依赖。",
+    "category": "personal-os",
+    "capabilities": [],
+    "developerName": "Personal OS"
+  }
+}
